@@ -8,5 +8,7 @@
 #include <string.h>
 
 void ui_setting_lockScreen_init(void);
-void set_lockScreen_firstOptionFocus(void);
+void ui_set_lock_screen_first_focus(void);
+void ui_set_lcok_screen_default_option(void);
+int get_lock_screen_exit_flag(void);
 #endif

@@ -2,68 +2,47 @@
 
 
 /**************************************************申明变量*********************************************/
-#define UI_LOCKSCREEN_TIME_NUM     4
-//选项状态枚举
-typedef enum{
-    OPTION_STATE_NORMAL = 0, //非聚焦状态
-    OPTION_STATE_FOCUSED,    //聚焦状态
-    OPTION_STATE_SELECTED    //选中状态
-}option_state_t;
+#define UI_LOCKSCREEN_TIME_OPTION_NUM     4
 
-//选项图片资源-->[状态][选项索引]
-static const lv_img_dsc_t *time_option_images[3][UI_LOCKSCREEN_TIME_NUM] = {
-    {&minutes,&minutes,&minutes,&minutes},
-    {&selected,&selected,&selected,&selected},
-    {&new_selected,&new_selected,&new_selected,&new_selected}
+static const char *lockScreen_time_options[UI_LOCKSCREEN_TIME_OPTION_NUM] = {
+    "5分钟",
+    "20分钟",
+    "35分钟",
+    "自动关闭"
 };
 
-//存储每个选项的当前状态,默认全部非聚焦状态
-option_state_t option_states[UI_LOCKSCREEN_TIME_NUM] = {OPTION_STATE_NORMAL};
-//存储每个选项的图片对象指针，默认全部为NULL
-lv_obj_t *option_img_objs[UI_LOCKSCREEN_TIME_NUM] = {NULL};
+static int lock_time_selected_obj = 3; 
+int exit_flag = 0;
+
+lv_obj_t *lockTimeOption[UI_LOCKSCREEN_TIME_OPTION_NUM];
 
 /**********************************************设置锁屏ui设计细节************************************************/
-/**
- * @description: 创建锁屏时间选项图像
- * @param {lv_obj_t} *parent
- * @param {int} index
- * @param {int} imgPos_x
- * @param {int} imgPos_y
- * @return {*}
- */
-lv_obj_t *ui_create_optionImg(lv_obj_t *parent, int index, int imgPos_x, int imgPos_y){
-    if(index <0 || index >= UI_LOCKSCREEN_TIME_NUM) return NULL;
-
-    lv_obj_t *img = lv_img_create(parent);
-    //初始显示非聚焦状态的图片
-    const lv_img_dsc_t *img_src = time_option_images[OPTION_STATE_NORMAL][index];
-    if(img_src != NULL){
-        lv_img_set_src(img, img_src);
+static void ui_lock_time_focus_option(lv_obj_t *obj, bool is_focus){
+    if(is_focus){
+        lv_obj_set_style_bg_color(obj, lv_color_black(), LV_PART_MAIN);
+        lv_obj_set_style_bg_opa(obj, LV_OPA_COVER, LV_PART_MAIN);
+        lv_obj_set_style_text_color(lv_obj_get_child(obj, 0), lv_color_white(), LV_PART_MAIN);
+    }else{
+        lv_obj_set_style_bg_color(obj, lv_color_white(), LV_PART_MAIN);
+        lv_obj_set_style_bg_opa(obj, LV_OPA_COVER, LV_PART_MAIN);
+        lv_obj_set_style_text_color(lv_obj_get_child(obj, 0), lv_color_black(), LV_PART_MAIN);
     }
-
-    lv_obj_align(img, LV_ALIGN_TOP_MID, imgPos_x, imgPos_y);
-
-    //使图片对象可以点击
-    lv_obj_add_flag(img, LV_OBJ_FLAG_CLICKABLE);
-    lv_obj_add_flag(img, LV_OBJ_FLAG_SCROLLABLE);
-
-    return img;      
 }
 
-/**
- * @description: 更新指定选项的图片显示
- * @param {int} index
- * @param {option_state_t} state
- * @return {*}
- */
-static void ui_update_optionImg(int index, option_state_t state){
-    if(index <0 || index >= UI_LOCKSCREEN_TIME_NUM) return;
-    if(option_img_objs[index] == NULL) return;
 
-    const lv_img_dsc_t *img_src = time_option_images[state][index];
-    if(img_src != NULL){
-        lv_img_set_src(option_img_objs[index], img_src);
-    }
+static void ui_clear_prv_selected_option(void){
+    lv_obj_t *label = lv_obj_get_child(lockTimeOption[lock_time_selected_obj], 0);
+    lv_obj_t *img = lv_obj_get_child(lockTimeOption[lock_time_selected_obj], 1);
+    lv_obj_add_flag(img, LV_OBJ_FLAG_HIDDEN);
+    lv_obj_center(label);
+}
+
+static void ui_current_selected_option(void){
+    lv_obj_t *label = lv_obj_get_child(lockTimeOption[lock_time_selected_obj], 0);
+    lv_obj_t *img = lv_obj_get_child(lockTimeOption[lock_time_selected_obj], 1);
+    lv_obj_clear_flag(img, LV_OBJ_FLAG_HIDDEN);
+    lv_img_set_src(img, &selected);
+    lv_obj_align_to(label, img, LV_ALIGN_OUT_LEFT_MID, 1, 0);
 }
 
 /*************************************************设置锁屏回调函数***************************************/
@@ -75,16 +54,29 @@ static void ui_update_optionImg(int index, option_state_t state){
 static void ui_setting_lockScreen_focus_event_cb(lv_event_t *e){
     lv_obj_t *lockTimeSelect = lv_event_get_target(e);
     lv_event_code_t code = lv_event_get_code(e);
+    lv_obj_t *label = lv_obj_get_child(lockTimeSelect, 0);
+    lv_obj_t *img = lv_obj_get_child(lockTimeSelect, 1);
     int option_index = (int)lv_event_get_user_data(e);
     if(code == LV_EVENT_FOCUSED){
-        //聚焦时，如果当前不为选中状态，则显示聚焦图片
-        if(option_states[option_index] != OPTION_STATE_SELECTED){
-            ui_update_optionImg(option_index, OPTION_STATE_FOCUSED);
+        ui_lock_time_focus_option(lockTimeSelect, true);
+        if(option_index == lock_time_selected_obj){
+            lv_obj_clear_flag(lv_obj_get_child(lockTimeSelect, 1), LV_OBJ_FLAG_HIDDEN);
+            lv_img_set_src(img, &selected);
+            lv_obj_align_to(label, img, LV_ALIGN_OUT_LEFT_MID, 1, 0);
+        }else{
+            lv_obj_add_flag(img, LV_OBJ_FLAG_HIDDEN);
+            lv_obj_center(label);
         }
+        
     }else if(code == LV_EVENT_DEFOCUSED){
-        //非聚焦时，如果当前不为选中状态，则显示非聚焦图片
-        if(option_states[option_index] != OPTION_STATE_SELECTED){
-            ui_update_optionImg(option_index, OPTION_STATE_NORMAL);
+        ui_lock_time_focus_option(lockTimeSelect, false);
+        if(option_index == lock_time_selected_obj){
+            lv_obj_clear_flag(lv_obj_get_child(lockTimeSelect, 1), LV_OBJ_FLAG_HIDDEN);
+            lv_img_set_src(img, &selected_reverse);
+            lv_obj_align_to(label, img, LV_ALIGN_OUT_LEFT_MID, 1, 0);
+        }else{
+            lv_obj_add_flag(img, LV_OBJ_FLAG_HIDDEN);
+            lv_obj_center(label);
         }
     }
 }
@@ -95,6 +87,8 @@ static void ui_setting_lockScreen_focus_event_cb(lv_event_t *e){
  * @return {*}
  */
 static void ui_setting_lockScreen_key_event_cb(lv_event_t *e){
+    lv_obj_t *label;
+    lv_obj_t *img;
     lv_group_t *current_group;
     lv_event_code_t code = lv_event_get_code(e);
     lv_obj_t *obj = lv_event_get_target(e);
@@ -115,65 +109,31 @@ static void ui_setting_lockScreen_key_event_cb(lv_event_t *e){
             case LV_KEY_ENTER://选定要选的选项
                 switch (user_data){
                     case 0://5分钟
-                        if(option_states[user_data] != OPTION_STATE_SELECTED){
-                            for(int i=0; i<UI_LOCKSCREEN_TIME_NUM; i++){
-                                if(option_states[i] == OPTION_STATE_SELECTED){
-                                    option_states[i] = OPTION_STATE_NORMAL;
-                                    ui_update_optionImg(i, OPTION_STATE_NORMAL);
-                                    break;
-                                } 
-                            }
-                            option_states[user_data] = OPTION_STATE_SELECTED;
-                            ui_update_optionImg(user_data, OPTION_STATE_SELECTED);
-                        }
+                        ui_clear_prv_selected_option();
+                        lock_time_selected_obj = 0;
+                        ui_current_selected_option();
                         break;
                     case 1://20分钟
-                        if(option_states[user_data] != OPTION_STATE_SELECTED){
-                            for(int i=0; i<UI_LOCKSCREEN_TIME_NUM; i++){
-                                if(option_states[i] == OPTION_STATE_SELECTED){
-                                    option_states[i] = OPTION_STATE_NORMAL;
-                                    ui_update_optionImg(i, OPTION_STATE_NORMAL);
-                                    break;
-                                } 
-                            }
-                            option_states[user_data] = OPTION_STATE_SELECTED;
-                            ui_update_optionImg(user_data, OPTION_STATE_SELECTED);
-                        }
-                        
-                       break; 
+                        ui_clear_prv_selected_option();
+                        lock_time_selected_obj = 1;
+                        ui_current_selected_option();
+                        break; 
                     case 2://35分钟
-                        if(option_states[user_data] != OPTION_STATE_SELECTED){
-                            for(int i=0; i<UI_LOCKSCREEN_TIME_NUM; i++){
-                                if(option_states[i] == OPTION_STATE_SELECTED){
-                                    option_states[i] = OPTION_STATE_NORMAL;
-                                    ui_update_optionImg(i, OPTION_STATE_NORMAL);
-                                    break;
-                                } 
-                            }
-                            option_states[user_data] = OPTION_STATE_SELECTED;
-                            ui_update_optionImg(user_data, OPTION_STATE_SELECTED);
-                        }
-                        
+                        ui_clear_prv_selected_option();
+                        lock_time_selected_obj = 2;
+                        ui_current_selected_option();
                         break;
                     case 3://自动关闭
-                        if(option_states[user_data] != OPTION_STATE_SELECTED){
-                            for(int i=0; i<UI_LOCKSCREEN_TIME_NUM; i++){
-                               if(option_states[i] == OPTION_STATE_SELECTED){
-                                    option_states[i] = OPTION_STATE_NORMAL;
-                                    ui_update_optionImg(i, OPTION_STATE_NORMAL);
-                                    break;
-                                } 
-                            }
-                            option_states[user_data] = OPTION_STATE_SELECTED;
-                            ui_update_optionImg(user_data, OPTION_STATE_SELECTED);
-                        }
-                        break;
+                        ui_clear_prv_selected_option();
+                        lock_time_selected_obj = 3;
+                        ui_current_selected_option();
                     default:
                         break;    
                 }
                 break;
             case LV_KEY_ESC:
-                 lv_indev_set_group(indev_keypad,ui_setting_display->ui_menu_group);
+                lv_indev_set_group(indev_keypad,ui_setting_display->ui_menu_group);
+                exit_flag = 1;
                 break;
             default:
                 break;
@@ -196,12 +156,28 @@ static void ui_set_lockScreen_group(lv_group_t *group, lv_obj_t *obj, int user_d
     lv_obj_add_event_cb(obj, ui_setting_lockScreen_focus_event_cb, LV_EVENT_DEFOCUSED,(void *)(intptr_t)user_data);
     lv_obj_add_event_cb(obj, ui_setting_lockScreen_key_event_cb, LV_EVENT_KEY,(void *)(intptr_t)user_data);
 }
-/************************************************外部调用接口*************************************************/
-void set_lockScreen_firstOptionFocus(void){
-    option_states[0] = OPTION_STATE_FOCUSED;
-    ui_update_optionImg(0, OPTION_STATE_FOCUSED);
+
+/****************************************************外部调用接口函数********************************************/
+void ui_set_lock_screen_first_focus(void){
+    ui_lock_time_focus_option(lockTimeOption[0], true); 
+}
+void ui_set_lcok_screen_default_option(void){
+    //获取当前焦点对象
+    lv_obj_t *focused_obj = lv_group_get_focused(lv_obj_get_group(lockTimeOption[lock_time_selected_obj]));
+    lv_obj_t *label = lv_obj_get_child(lockTimeOption[lock_time_selected_obj], 0);
+    lv_obj_t *img = lv_obj_get_child(lockTimeOption[lock_time_selected_obj], 1);
+    lv_obj_clear_flag(img, LV_OBJ_FLAG_HIDDEN);
+    if(focused_obj == lockTimeOption[lock_time_selected_obj]){
+        lv_img_set_src(img, &selected);
+    }else{
+        lv_img_set_src(img, &selected_reverse);
+    }
+    lv_obj_align_to(label, img, LV_ALIGN_OUT_LEFT_MID, 1, 0);
 }
 
+int get_lock_screen_exit_flag(void){
+    return exit_flag;
+}
 /*************************************************设置锁屏界面初始化*********************************************/
 
 void ui_setting_lockScreen_init(void){
@@ -211,16 +187,40 @@ void ui_setting_lockScreen_init(void){
     lv_obj_set_style_text_font(ui_titleLabel,&Chinese_font_16,LV_STATE_DEFAULT);
     lv_obj_set_style_text_letter_space(ui_titleLabel,1, LV_PART_MAIN);
     lv_obj_align(ui_titleLabel, LV_ALIGN_TOP_MID, -3, 20);
-    //2.创建焦点组
+   
+    //2.创建一个存放选项的容器
+    lv_obj_t *lockTime_container = lv_obj_create(ui_setting_display->lockScreen);
+    lv_obj_remove_style_all(lockTime_container);
+    lv_obj_set_size(lockTime_container, 120, 200);
+    lv_obj_align(lockTime_container, LV_ALIGN_TOP_MID, 0, 60);
+    
+    //3.创建锁屏焦点组
     ui_setting_display->ui_lockScreen_group = lv_group_create();
-    //3.创建时间选项
-    for(int i=0; i<UI_LOCKSCREEN_TIME_NUM; i++){
-        option_img_objs[i] = ui_create_optionImg(ui_setting_display->lockScreen,i,0,50+i*48);
-        ui_set_lockScreen_group(ui_setting_display->ui_lockScreen_group,option_img_objs[i],i);
+    //4.设置容器的弹性布局
+    lv_obj_set_flex_flow(lockTime_container, LV_FLEX_FLOW_COLUMN);
+    lv_obj_set_flex_align(lockTime_container, LV_FLEX_ALIGN_SPACE_EVENLY, LV_FLEX_ALIGN_CENTER, LV_FLEX_ALIGN_CENTER);
+    for(int i=0; i<UI_LOCKSCREEN_TIME_OPTION_NUM; i++){
+        //4.1创建选项容器
+        lockTimeOption[i] = lv_obj_create(lockTime_container);
+        lv_obj_remove_style_all(lockTimeOption[i]);
+        lv_obj_set_size(lockTimeOption[i], 100, 33);
+        lv_obj_set_style_border_width(lockTimeOption[i], 1, LV_PART_MAIN);
+        lv_obj_set_style_border_color(lockTimeOption[i], lv_color_black(), LV_PART_MAIN);
+        lv_obj_set_style_radius(lockTimeOption[i], 10, LV_PART_MAIN);
+        //4.2创建标签
+        lv_obj_t *lockTimeLabel = lv_label_create(lockTimeOption[i]);
+        lv_label_set_text(lockTimeLabel, lockScreen_time_options[i]);
+        lv_obj_set_style_text_font(lockTimeLabel,&Chinese_font_16,LV_STATE_DEFAULT);
+        lv_obj_set_style_text_letter_space(lockTimeLabel,1, LV_PART_MAIN);
+        lv_obj_align(lockTimeLabel, LV_ALIGN_CENTER, 0, 0);
+        //4.3创建图表
+        lv_obj_t *img = lv_img_create(lockTimeOption[i]);
+        lv_img_set_src(img, &selected);
+        lv_obj_align(img, LV_ALIGN_RIGHT_MID, -4, 0);
+        lv_obj_add_flag(img, LV_OBJ_FLAG_HIDDEN);
+        //4.4设置回调函数和焦点组
+        ui_set_lockScreen_group(ui_setting_display->ui_lockScreen_group, lockTimeOption[i], i);
     }
-    //4.默认选中最后一个（暂定，后期要读写文件获取）
-    option_states[3] = OPTION_STATE_SELECTED;
-    ui_update_optionImg(3, OPTION_STATE_SELECTED);
 }
 
 

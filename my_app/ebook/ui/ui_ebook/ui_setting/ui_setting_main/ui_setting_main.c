@@ -157,6 +157,7 @@ static void ui_setting_focus_event_cb(lv_event_t *e){
             ui_setting_menu_content_select(0);
             break;
             case 4:
+            ui_set_lcok_screen_default_option();//先初始化好默认选择项
             ui_setting_menu_content_select(4);
             break;
         }
@@ -196,8 +197,8 @@ static void ui_setting_menu_key_event_cb(lv_event_t *e){
                     case 1:
                        break;
                     case 4:
-                       lv_indev_set_group(indev_keypad,ui_setting_display->ui_lockScreen_group);
-                       set_lockScreen_firstOptionFocus();//默认聚焦在第一个
+                        lv_indev_set_group(indev_keypad,ui_setting_display->ui_lockScreen_group);
+                        if(!get_lock_screen_exit_flag()) ui_set_lock_screen_first_focus();
                        break;       
                     default:
                         break;    
