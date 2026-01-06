@@ -322,6 +322,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/minutes.c" "CMakeFiles/main.dir/my_app/ebook/img/setting/minutes.c.obj" "gcc" "CMakeFiles/main.dir/my_app/ebook/img/setting/minutes.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/new_selected.c" "CMakeFiles/main.dir/my_app/ebook/img/setting/new_selected.c.obj" "gcc" "CMakeFiles/main.dir/my_app/ebook/img/setting/new_selected.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/selected.c" "CMakeFiles/main.dir/my_app/ebook/img/setting/selected.c.obj" "gcc" "CMakeFiles/main.dir/my_app/ebook/img/setting/selected.c.obj.d"
+  "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/selected_reverse.c" "CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.obj" "gcc" "CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/main.c" "CMakeFiles/main.dir/my_app/ebook/main.c.obj" "gcc" "CMakeFiles/main.dir/my_app/ebook/main.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/option_image_state_example.c" "CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_state_example.c.obj" "gcc" "CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_state_example.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/option_image_usage_example.c" "CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_usage_example.c.obj" "gcc" "CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_usage_example.c.obj.d"

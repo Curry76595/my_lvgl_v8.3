@@ -627,6 +627,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/my_app/ebook/img/setting/new_selected.c.obj.d"
   "CMakeFiles/main.dir/my_app/ebook/img/setting/selected.c.obj"
   "CMakeFiles/main.dir/my_app/ebook/img/setting/selected.c.obj.d"
+  "CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.obj"
+  "CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.obj.d"
   "CMakeFiles/main.dir/my_app/ebook/main.c.obj"
   "CMakeFiles/main.dir/my_app/ebook/main.c.obj.d"
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_state_example.c.obj"

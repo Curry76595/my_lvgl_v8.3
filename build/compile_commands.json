@@ -1891,6 +1891,12 @@
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\setting\\selected_reverse.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\setting\\selected_reverse.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/selected_reverse.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
   "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_common\\option_image_state_example.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_common\\option_image_state_example.c",
   "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/option_image_state_example.c",
   "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_state_example.c.obj"

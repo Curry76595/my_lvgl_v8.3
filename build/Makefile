@@ -7677,6 +7677,30 @@ my_app/ebook/img/setting/selected.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/selected.c.s
 .PHONY : my_app/ebook/img/setting/selected.c.s
 
+my_app/ebook/img/setting/selected_reverse.obj: my_app/ebook/img/setting/selected_reverse.c.obj
+.PHONY : my_app/ebook/img/setting/selected_reverse.obj
+
+# target to build an object file
+my_app/ebook/img/setting/selected_reverse.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.obj
+.PHONY : my_app/ebook/img/setting/selected_reverse.c.obj
+
+my_app/ebook/img/setting/selected_reverse.i: my_app/ebook/img/setting/selected_reverse.c.i
+.PHONY : my_app/ebook/img/setting/selected_reverse.i
+
+# target to preprocess a source file
+my_app/ebook/img/setting/selected_reverse.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.i
+.PHONY : my_app/ebook/img/setting/selected_reverse.c.i
+
+my_app/ebook/img/setting/selected_reverse.s: my_app/ebook/img/setting/selected_reverse.c.s
+.PHONY : my_app/ebook/img/setting/selected_reverse.s
+
+# target to generate assembly for a file
+my_app/ebook/img/setting/selected_reverse.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.s
+.PHONY : my_app/ebook/img/setting/selected_reverse.c.s
+
 my_app/ebook/main.obj: my_app/ebook/main.c.obj
 .PHONY : my_app/ebook/main.obj
 
@@ -8821,6 +8845,9 @@ help:
 	@echo ... my_app/ebook/img/setting/selected.obj
 	@echo ... my_app/ebook/img/setting/selected.i
 	@echo ... my_app/ebook/img/setting/selected.s
+	@echo ... my_app/ebook/img/setting/selected_reverse.obj
+	@echo ... my_app/ebook/img/setting/selected_reverse.i
+	@echo ... my_app/ebook/img/setting/selected_reverse.s
 	@echo ... my_app/ebook/main.obj
 	@echo ... my_app/ebook/main.i
 	@echo ... my_app/ebook/main.s
