@@ -213,7 +213,7 @@ void ui_setting_lockScreen_init(void){
         lv_obj_set_style_text_font(lockTimeLabel,&Chinese_font_16,LV_STATE_DEFAULT);
         lv_obj_set_style_text_letter_space(lockTimeLabel,1, LV_PART_MAIN);
         lv_obj_align(lockTimeLabel, LV_ALIGN_CENTER, 0, 0);
-        //4.3创建图表
+        //4.3创建图片
         lv_obj_t *img = lv_img_create(lockTimeOption[i]);
         lv_img_set_src(img, &selected);
         lv_obj_align(img, LV_ALIGN_RIGHT_MID, -4, 0);

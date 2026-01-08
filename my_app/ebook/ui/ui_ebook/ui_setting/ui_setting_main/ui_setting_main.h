@@ -8,6 +8,8 @@
 #include <string.h>
 #include "ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h"
 #include "ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h"
+#include "ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h"
+#include "ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h"
 void app_ui_setting_main_init(void);
 
 /**
@@ -25,6 +27,9 @@ typedef struct setting_display_ts{
 
     lv_group_t *ui_menu_group;   //8.菜单聚焦组
     lv_group_t *ui_lockScreen_group; //9.锁屏聚焦组
+    lv_group_t *ui_factory_start_recover_group;//10.出厂开始恢复聚焦组
+    lv_group_t *ui_factory_recover_confirm_group;//11.恢复出厂聚焦组
+
 }ui_setting_display_t;
 
 extern ui_setting_display_t *ui_setting_display;

@@ -156,9 +156,15 @@ static void ui_setting_focus_event_cb(lv_event_t *e){
             case 0:
             ui_setting_menu_content_select(0);
             break;
+            case 3:
+            ui_setting_menu_content_select(3);
+            break;
             case 4:
             ui_set_lcok_screen_default_option();//先初始化好默认选择项
             ui_setting_menu_content_select(4);
+            break;
+            case 5:
+            ui_setting_menu_content_select(5);
             break;
         }
     }
@@ -199,7 +205,11 @@ static void ui_setting_menu_key_event_cb(lv_event_t *e){
                     case 4:
                         lv_indev_set_group(indev_keypad,ui_setting_display->ui_lockScreen_group);
                         if(!get_lock_screen_exit_flag()) ui_set_lock_screen_first_focus();
-                       break;       
+                       break; 
+                    case 5:
+                        lv_indev_set_group(indev_keypad,ui_setting_display->ui_factory_start_recover_group);
+                        lv_group_focus_obj(lv_obj_get_child(lv_obj_get_child(ui_setting_display->factory, 0),0));
+                       break;         
                     default:
                         break;    
                 }
@@ -322,7 +332,9 @@ static void ui_setting_main_init(void){
     
     /************************************************初始化菜单内容**********************************************/
     ui_setting_about_init();//关于
+    ui_setting_storage_init();//存储
     ui_setting_lockScreen_init();//锁屏
+    ui_setting_factory_main_init();//出厂
     /***************************************************end****************************************************/
     
     //默认展示第一个菜单【关于】
