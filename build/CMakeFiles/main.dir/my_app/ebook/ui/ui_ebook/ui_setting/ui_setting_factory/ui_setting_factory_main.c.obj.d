@@ -1,9 +1,10 @@
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.obj: \
- D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_setting\ui_setting_lockScreen\ui_setting_lockScreen.c \
- D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_setting\ui_setting_lockScreen\ui_setting_lockScreen.h \
- D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
- D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
- D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
+CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.obj: \
+ D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_setting\ui_setting_factory\ui_setting_factory_main.c \
+ D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_setting\ui_setting_factory\ui_setting_factory_main.h \
+ D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
+ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
+ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
+ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
@@ -15,9 +16,6 @@ CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui
  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
- D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
- D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
- D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
@@ -243,8 +241,10 @@ CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
+ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
+ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
+ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
- D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
@@ -262,4 +262,7 @@ CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
- D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h
+ D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
+ D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_setting\ui_setting_factory\ui_setting_factory_start_recover.h \
+ D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_setting\ui_setting_factory\ui_setting_factory_recover_confirm.h \
+ D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_setting\ui_setting_factory\ui_setting_factory_cue.h
