@@ -7317,6 +7317,30 @@ my_app/ebook/img/desktop/pic_module_wifi_status.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_wifi_status.c.s
 .PHONY : my_app/ebook/img/desktop/pic_module_wifi_status.c.s
 
+my_app/ebook/img/image/BMP.obj: my_app/ebook/img/image/BMP.c.obj
+.PHONY : my_app/ebook/img/image/BMP.obj
+
+# target to build an object file
+my_app/ebook/img/image/BMP.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/BMP.c.obj
+.PHONY : my_app/ebook/img/image/BMP.c.obj
+
+my_app/ebook/img/image/BMP.i: my_app/ebook/img/image/BMP.c.i
+.PHONY : my_app/ebook/img/image/BMP.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/BMP.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/BMP.c.i
+.PHONY : my_app/ebook/img/image/BMP.c.i
+
+my_app/ebook/img/image/BMP.s: my_app/ebook/img/image/BMP.c.s
+.PHONY : my_app/ebook/img/image/BMP.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/BMP.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/BMP.c.s
+.PHONY : my_app/ebook/img/image/BMP.c.s
+
 my_app/ebook/img/img_file_list/icon_com_cursor.obj: my_app/ebook/img/img_file_list/icon_com_cursor.c.obj
 .PHONY : my_app/ebook/img/img_file_list/icon_com_cursor.obj
 
@@ -7821,6 +7845,78 @@ my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s
 .PHONY : my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s
 
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.obj: my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.i: my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.i
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.s: my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.s
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.obj: my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.i: my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.i
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.s: my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.s
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.obj: my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.i: my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.i
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.s: my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.s
+
 my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.obj
 .PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj
 
@@ -7844,6 +7940,102 @@ my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.s: my_app/
 my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.s
 .PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.s
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.i
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.s
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.i
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.s
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.i
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.s
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.i
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.s
 
 my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.obj
 .PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.obj
@@ -7892,6 +8084,102 @@ my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.s: my_app/eb
 my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.s
 .PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.s
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.i
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.s
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.i
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.s
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.i
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.s
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.i
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
 
 # Help Target
 help:
@@ -8800,6 +9088,9 @@ help:
 	@echo ... my_app/ebook/img/desktop/pic_module_wifi_status.obj
 	@echo ... my_app/ebook/img/desktop/pic_module_wifi_status.i
 	@echo ... my_app/ebook/img/desktop/pic_module_wifi_status.s
+	@echo ... my_app/ebook/img/image/BMP.obj
+	@echo ... my_app/ebook/img/image/BMP.i
+	@echo ... my_app/ebook/img/image/BMP.s
 	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.obj
 	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.i
 	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.s
@@ -8863,15 +9154,48 @@ help:
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.s
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.s
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.s
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.s
 .PHONY : help
 
 

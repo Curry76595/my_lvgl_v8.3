@@ -58,8 +58,9 @@ static void hal_init(void);
  *  STATIC PROTOTYPES
  **********************/
 /****my_appDefine********* */
-#define UI_SETTING_MAIN_H 1
+#define UI_SETTING_MAIN_H 0
 #define UI_EBOOK_AUTO    0
+#define UI_IMAGE_MAIN_H   1
 /************************* */
 
 /**********************
@@ -99,11 +100,14 @@ int main(int argc, char **argv)
     // lv_demo_widgets();
 #if UI_SETTING_MAIN_H
 #include "ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h"
-         app_ui_setting_main_init();
+      app_ui_setting_main_init();
 #elif UI_EBOOK_AUTO
 #include "ui_ebook/ui_ebook_auto/ui_ebook_auto.h"
 
-         ui_ebook_main_init();
+      ui_ebook_main_init();
+#elif UI_IMAGE_MAIN_H  
+#include "ui_ebook/ui_image/ui_image_main.h"
+      app_ui_image_main_init();
 #endif
 
   while(1) {
@@ -180,3 +184,5 @@ static void hal_init(void)
   lv_img_set_src(cursor_obj, &mouse_cursor_icon);           /*Set the image source*/
   lv_indev_set_cursor(mouse_indev, cursor_obj);             /*Connect the image  object to the driver*/
 }
+
+

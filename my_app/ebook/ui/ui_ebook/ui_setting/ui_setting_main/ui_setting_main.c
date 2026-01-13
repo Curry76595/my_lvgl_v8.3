@@ -4,20 +4,19 @@
 /***********************************************************申明变量*****************************************************/
 //创建菜单标题标签
 lv_obj_t *ui_title;
-#define UI_SETTING_MENU_NUM 6
+#define UI_SETTING_MENU_NUM 5
 //创建菜单列表
-char * ui_menuName[UI_SETTING_MENU_NUM] = {"关于","传输","更新","存储","锁屏","出厂"};
+char * ui_menuName[UI_SETTING_MENU_NUM] = {"传输","存储","锁屏","出厂","关于"};
 //创建标题文本内容
 char *ui_titleName[UI_SETTING_MENU_NUM] = {
-     "设置-关于",
      "设置-数据传输",
-     "设置-更新",
      "设置-存储空间",
      "设置-锁屏关机",
-     "设置-恢复出厂"
+     "设置-恢复出厂",
+     "设置-关于"
 };
 ui_setting_display_t *ui_setting_display;
-
+lv_obj_t *ui_container;//创建一个霸屏容器
 /***************************************************内存申请释放************************************************/
 //申请内存
 static void ui_setting_malloc(void){
@@ -45,29 +44,25 @@ static void ui_setting_free(void){
 static void ui_setting_menu_content_select(int menu_index){
         lv_obj_add_flag(ui_setting_display->about, LV_OBJ_FLAG_HIDDEN);
         lv_obj_add_flag(ui_setting_display->transfers, LV_OBJ_FLAG_HIDDEN);
-        lv_obj_add_flag(ui_setting_display->update, LV_OBJ_FLAG_HIDDEN);
         lv_obj_add_flag(ui_setting_display->storage, LV_OBJ_FLAG_HIDDEN);
         lv_obj_add_flag(ui_setting_display->lockScreen, LV_OBJ_FLAG_HIDDEN);
         lv_obj_add_flag(ui_setting_display->factory, LV_OBJ_FLAG_HIDDEN);
         switch(menu_index){
             case 0:
-                lv_obj_clear_flag(ui_setting_display->about, LV_OBJ_FLAG_HIDDEN);
-                break;
-            case 1:
                 lv_obj_clear_flag(ui_setting_display->transfers, LV_OBJ_FLAG_HIDDEN);
                 break;
-            case 2:
-                lv_obj_clear_flag(ui_setting_display->update, LV_OBJ_FLAG_HIDDEN);
-                break;
-            case 3:
+            case 1:
                 lv_obj_clear_flag(ui_setting_display->storage, LV_OBJ_FLAG_HIDDEN);
                 break;
-            case 4:
+            case 2:
                 lv_obj_clear_flag(ui_setting_display->lockScreen, LV_OBJ_FLAG_HIDDEN);
                 break;
-            case 5:
+            case 3:
                 lv_obj_clear_flag(ui_setting_display->factory, LV_OBJ_FLAG_HIDDEN);
                 break;
+            case 4:
+                lv_obj_clear_flag(ui_setting_display->about, LV_OBJ_FLAG_HIDDEN);
+                break;    
             default:
                 break;    
         }
@@ -156,15 +151,18 @@ static void ui_setting_focus_event_cb(lv_event_t *e){
             case 0:
             ui_setting_menu_content_select(0);
             break;
+            case 1:
+            ui_setting_menu_content_select(1);
+            break;
+            case 2:
+            ui_set_lcok_screen_default_option();//先初始化好默认选择项
+            ui_setting_menu_content_select(2);
+            break;
             case 3:
             ui_setting_menu_content_select(3);
             break;
             case 4:
-            ui_set_lcok_screen_default_option();//先初始化好默认选择项
             ui_setting_menu_content_select(4);
-            break;
-            case 5:
-            ui_setting_menu_content_select(5);
             break;
         }
     }
@@ -201,21 +199,22 @@ static void ui_setting_menu_key_event_cb(lv_event_t *e){
                     case 0:
                         break;
                     case 1:
-                       break;
-                    case 4:
+                        break;
+                    case 2:
                         lv_indev_set_group(indev_keypad,ui_setting_display->ui_lockScreen_group);
-                        if(!get_lock_screen_exit_flag()) ui_set_lock_screen_first_focus();
-                       break; 
-                    case 5:
+                        if(!get_lock_screen_exit_flag())ui_set_lock_screen_first_focus();
+                        break;
+                    case 3:
                         lv_indev_set_group(indev_keypad,ui_setting_display->ui_factory_start_recover_group);
                         lv_group_focus_obj(lv_obj_get_child(lv_obj_get_child(ui_setting_display->factory, 0),0));
-                       break;         
+                        break;            
                     default:
                         break;    
                 }
                 break;
             case LV_KEY_ESC:
-
+                // set_lock_screen_exit_flag();
+                // appSetting_startActionState(APP_SETTING_ACTION_MENU, UI_SETTING_MENU_REFRESH_EXIT, NULL);
                 break;
             default:
                 break;
@@ -249,7 +248,7 @@ static void ui_setting_main_init(void){
     //1.申请菜单容器内存
     ui_setting_malloc();
     //2.创建背景容器
-    lv_obj_t *ui_container = lv_obj_create(lv_scr_act());
+    ui_container = lv_obj_create(lv_scr_act());
     lv_obj_set_size(ui_container, lv_disp_get_hor_res(NULL), lv_disp_get_ver_res(NULL));
     lv_obj_clear_flag(ui_container, LV_OBJ_FLAG_SCROLLABLE);   
     //3.创建标题-退出图片
@@ -290,11 +289,11 @@ static void ui_setting_main_init(void){
     for(int i=0;i<UI_SETTING_MENU_NUM;i++){
         ui_menu_list[i] = create_rounded_rectangle(ui_menu_container,53,35,10,lv_color_white(),lv_color_white(),0,false);
         ui_menu_list_label[i] = Rounded_create_content(ui_menu_list[i], ui_menuName[i], 32, 18, 0, -6);
-        lv_obj_align(ui_menu_list[i], LV_ALIGN_TOP_MID,0, 10+i*42);
+        lv_obj_align(ui_menu_list[i], LV_ALIGN_TOP_MID,0, 25+i*48);
         //设置组的聚焦和回调
         ui_setting_menu_group_set(ui_setting_display->ui_menu_group,ui_menu_list[i],i);
     }
-    //7.2初始化聚焦第一个【关于】
+    //7.2初始化聚焦第一个【传输】
     ui_setting_set_menu_focus(ui_menu_list[0],true);
     //8.创建菜单分割线
     lv_obj_t *ui_menu_line = lv_line_create(ui_container);
@@ -311,19 +310,15 @@ static void ui_setting_main_init(void){
     ui_setting_display->transfers = lv_obj_create(ui_container);
     lv_obj_set_size(ui_setting_display->transfers, 190, 323);
     lv_obj_align(ui_setting_display->transfers,LV_ALIGN_BOTTOM_RIGHT, 28, 15);
-    //9.3更新界面
-    ui_setting_display->update = lv_obj_create(ui_container);
-    lv_obj_set_size(ui_setting_display->update, 190, 323);
-    lv_obj_align(ui_setting_display->update,LV_ALIGN_BOTTOM_RIGHT, 28, 15);
-    //9.4存储界面
+    //9.3存储界面
     ui_setting_display->storage = lv_obj_create(ui_container);
     lv_obj_set_size(ui_setting_display->storage, 190, 323);
     lv_obj_align(ui_setting_display->storage,LV_ALIGN_BOTTOM_RIGHT, 28, 15);
-    //9.5锁屏界面
+    //9.4锁屏界面
     ui_setting_display->lockScreen = lv_obj_create(ui_container);
     lv_obj_set_size(ui_setting_display->lockScreen, 190, 323);
     lv_obj_align(ui_setting_display->lockScreen,LV_ALIGN_BOTTOM_RIGHT, 28, 15);
-    //9.6出厂界面
+    //9.5出厂界面
     ui_setting_display->factory = lv_obj_create(ui_container);
     lv_obj_set_size(ui_setting_display->factory, 190, 323);
     lv_obj_align(ui_setting_display->factory,LV_ALIGN_BOTTOM_RIGHT, 28, 15);
@@ -331,6 +326,7 @@ static void ui_setting_main_init(void){
     /***************************************************end********************************************************/
     
     /************************************************初始化菜单内容**********************************************/
+     ui_setting_transfers_main_init(0);//传输  默认未蓝牙连接
     ui_setting_about_init();//关于
     ui_setting_storage_init();//存储
     ui_setting_lockScreen_init();//锁屏
@@ -341,13 +337,44 @@ static void ui_setting_main_init(void){
      ui_setting_menu_content_select(0);
 }
 
-
+static void ui_setting_main_deinit(void){
+    printf("ui_setting_main_deinit");
+    if(ui_setting_display != NULL){
+        if(ui_setting_display->ui_menu_group != NULL){
+            lv_group_del(ui_setting_display->ui_menu_group);
+            ui_setting_display->ui_menu_group = NULL;
+        }
+        if(ui_setting_display->ui_lockScreen_group != NULL){
+            lv_group_del(ui_setting_display->ui_lockScreen_group);
+            ui_setting_display->ui_lockScreen_group = NULL;
+        }
+        if(ui_setting_display->ui_factory_start_recover_group != NULL){
+            lv_group_del(ui_setting_display->ui_factory_start_recover_group);
+            ui_setting_display->ui_factory_start_recover_group = NULL;
+        }
+        if(ui_setting_display->ui_factory_recover_confirm_group != NULL){
+            lv_group_del(ui_setting_display->ui_factory_recover_confirm_group);
+            ui_setting_display->ui_factory_recover_confirm_group = NULL;
+        }
+    }
+    if(ui_container != NULL){
+        lv_obj_del(ui_container);
+        ui_container = NULL;
+    }
+    ui_setting_free();//释放内存
+    printf("ui_setting_main_deinit end");
+}
 
 /*************************************************APP 状态机调用函数*********************************************/
-
 void app_ui_setting_main_init(void){
-    //LV_TASK_LOCK();
+    // LVGL_TASK_LOCK();
     ui_setting_main_init();
+    // LVGL_TASK_UNLOCK();
+}
+
+void app_ui_setting_main_deinit(void){
+    // LVGL_TASK_LOCK();
+    ui_setting_main_deinit();
     // LVGL_TASK_UNLOCK();
 }
 

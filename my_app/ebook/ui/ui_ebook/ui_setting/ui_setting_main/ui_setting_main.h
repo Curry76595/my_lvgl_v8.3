@@ -10,6 +10,7 @@
 #include "ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h"
 #include "ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h"
 #include "ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h"
+#include "ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h"
 void app_ui_setting_main_init(void);
 
 /**

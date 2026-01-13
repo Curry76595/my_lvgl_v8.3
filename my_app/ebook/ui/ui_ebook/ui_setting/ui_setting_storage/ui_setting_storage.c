@@ -33,7 +33,7 @@ void ui_setting_storage_init(void){
     lv_obj_set_style_text_letter_space(ui_tipLabel,2, LV_PART_MAIN);
     lv_obj_set_style_text_line_space(ui_tipLabel, 4, LV_PART_MAIN);
     lv_obj_align(ui_tipLabel, LV_ALIGN_TOP_MID, -5, 150);
-
+    
 
 }
 
