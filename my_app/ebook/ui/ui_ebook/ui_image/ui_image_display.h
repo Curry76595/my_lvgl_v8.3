@@ -3,4 +3,6 @@
 
 #include "ui_image_main.h"
 
+void ui_image_display_init(void);
+
 #endif 

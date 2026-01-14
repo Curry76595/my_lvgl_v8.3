@@ -1,5 +1,6 @@
 #include "ui_image_main.h"
 #include "ui_image_list.h"
+#include "ui_image_display.h"
 #define UI_IMAGE_MAIN_LVGL_SWITCH 1    // 0: 关闭LVGL的键盘驱动 1: 开启LVGL的键盘驱动
 
 /******************************************************声明变量****************************************************/
@@ -24,6 +25,20 @@ static void ui_image_free(void){
     }
 }
 
+/********************************************外部接口函数******************************************/
+void ui_image_select_interface(int select_index){
+    lv_obj_add_flag(ui_image_display_list->ui_image_list, LV_OBJ_FLAG_HIDDEN);
+    lv_obj_add_flag(ui_image_display_list->ui_image_display, LV_OBJ_FLAG_HIDDEN);
+    
+    switch (select_index){
+        case 0:
+            lv_obj_clear_flag(ui_image_display_list->ui_image_list, LV_OBJ_FLAG_HIDDEN);
+            break;
+        case 1:
+            lv_obj_clear_flag(ui_image_display_list->ui_image_display, LV_OBJ_FLAG_HIDDEN);   
+            break;
+    }
+}
 
 
 /****************************************************初始化函数*****************************************************/
@@ -43,14 +58,17 @@ static void ui_image_main_init(void){
     ui_image_display_list->ui_image_list = lv_obj_create(lv_scr_act());
     lv_obj_set_size(ui_image_display_list->ui_image_list, lv_disp_get_hor_res(NULL), lv_disp_get_ver_res(NULL));
     lv_obj_clear_flag(ui_image_display_list->ui_image_list, LV_OBJ_FLAG_SCROLLABLE);   
-    // lv_obj_add_flag(ui_image_display_list->ui_image_list, LV_OBJ_FLAG_HIDDEN);
-
+    lv_obj_add_flag(ui_image_display_list->ui_image_list, LV_OBJ_FLAG_HIDDEN);
     //创建图库显示界面
     ui_image_display_list->ui_image_display = lv_obj_create(lv_scr_act());
     lv_obj_set_size(ui_image_display_list->ui_image_display, lv_disp_get_hor_res(NULL), lv_disp_get_ver_res(NULL));
     lv_obj_add_flag(ui_image_display_list->ui_image_display, LV_OBJ_FLAG_HIDDEN);
-    
+
     ui_image_list_init();//初始化图库列表
+
+    ui_image_display_init();
+
+    ui_image_select_interface(1);
 }
 
 static void  ui_image_main_deinit(void){
