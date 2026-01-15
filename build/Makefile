@@ -7845,6 +7845,30 @@ my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s
 .PHONY : my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s
 
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.obj: my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.i: my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.i
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.s: my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.s
+
 my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.obj: my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.obj
 .PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.obj
 
@@ -9154,6 +9178,9 @@ help:
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.s
 	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.s

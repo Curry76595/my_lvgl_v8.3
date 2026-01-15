@@ -125,7 +125,7 @@ void ui_setting_factory_recover_confirm_init(void){
     //创建确认选项容器
     for(int i = 0; i < 2; i++){
         start_confirm_container[i] = lv_obj_create(obj_son_1);
-        //设为的聚焦两个重要标志位
+        //设为聚焦的两个重要标志位
         lv_obj_add_flag(start_confirm_container[i], LV_OBJ_FLAG_CLICKABLE);
         lv_obj_clear_flag(start_confirm_container[i], LV_OBJ_FLAG_SCROLLABLE); // 禁止滚动
         //设置开始恢复容器的大小和样式

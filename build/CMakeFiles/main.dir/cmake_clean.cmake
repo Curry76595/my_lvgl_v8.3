@@ -641,6 +641,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_common/ui_common.c.obj.d"
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.obj"
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.obj.d"
+  "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.obj"
+  "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.obj.d"
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.obj"
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.obj.d"
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.obj"

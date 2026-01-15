@@ -150,6 +150,13 @@ static void ui_image_key_event_cb(lv_event_t *e){
                 if(current_group ) lv_group_focus_next(current_group);
                 break;
             case LV_KEY_ENTER:
+                switch(user_data){
+                    case 0:
+                        break;
+                    default:
+                        ui_image_select_interface(1);
+                        break;    
+                }  
                 
                 break;
             case LV_KEY_ESC:
