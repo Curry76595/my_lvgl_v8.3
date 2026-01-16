@@ -7941,6 +7941,30 @@ my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.s
 .PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.s
 
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.obj: my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.i: my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.i
+
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.s: my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.s
+
 my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.obj
 .PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj
 
@@ -9190,6 +9214,9 @@ help:
 	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.s
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.s

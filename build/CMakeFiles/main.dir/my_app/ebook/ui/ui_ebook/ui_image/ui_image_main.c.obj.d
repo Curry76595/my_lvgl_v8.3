@@ -260,4 +260,5 @@ CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.obj: \
  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
  D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_image\ui_image_list.h \
  D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_image\ui_image_display.h \
- D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_image\ui_image_delete.h
+ D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_image\ui_image_delete.h \
+ D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_image\ui_image_set_wallpaper.h

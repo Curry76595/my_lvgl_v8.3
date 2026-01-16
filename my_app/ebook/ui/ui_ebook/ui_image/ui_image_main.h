@@ -14,6 +14,7 @@ typedef struct ui_image_display_ts{
     lv_group_t *ui_image_list_group; //图片列表焦点组
     lv_group_t *ui_image_display_group; //图片显示焦点组
     lv_group_t *ui_image_delete_group; //图片删除焦点组
+    lv_group_t *ui_image_set_wallpaper_group; //图片设置壁纸焦点组
 }ui_image_display_t;
 
 extern ui_image_display_t *ui_image_display_list;

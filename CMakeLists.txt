@@ -64,4 +64,4 @@ add_custom_target (run COMMAND ${EXECUTABLE_OUTPUT_PATH}/main)
 
 #拷贝SDL2.dll文件到bin目录下
 file(COPY SDL2.dll DESTINATION ../bin)                                    
-                            
+                               

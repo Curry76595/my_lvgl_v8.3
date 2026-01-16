@@ -33,14 +33,14 @@ static void ui_image_delete_confirm_focus(lv_obj_t *obj, bool focus)
  * @return {*}
  */
 static void ui_image_delete_confirm_focus_event_cb(lv_event_t *e){
-    lv_obj_t *start_recover_obj = lv_event_get_target(e);
+    lv_obj_t *obj = lv_event_get_target(e);
     lv_event_code_t code = lv_event_get_code(e);
     int user_data = (int)lv_event_get_user_data(e);
     if(code == LV_EVENT_FOCUSED){
-        ui_image_delete_confirm_focus(start_recover_obj,true);
+        ui_image_delete_confirm_focus(obj,true);
     }
     else if(code == LV_EVENT_DEFOCUSED){
-        ui_image_delete_confirm_focus(start_recover_obj,false);
+        ui_image_delete_confirm_focus(obj,false);
     }
 }
 

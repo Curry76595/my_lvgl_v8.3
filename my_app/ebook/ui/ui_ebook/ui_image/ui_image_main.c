@@ -2,6 +2,7 @@
 #include "ui_image_list.h"
 #include "ui_image_display.h"
 #include "ui_image_delete.h"
+#include "ui_image_set_wallpaper.h"
 #define UI_IMAGE_MAIN_LVGL_SWITCH 1    // 0: 关闭LVGL的键盘驱动 1: 开启LVGL的键盘驱动
 
 /******************************************************声明变量****************************************************/
@@ -75,6 +76,8 @@ static void ui_image_main_init(void){
     ui_image_display_init();//初始化图库显示界面
 
     ui_image_delete_init();//初始化图库删除界面
+
+    ui_image_set_wallpaper_init();//初始化图库设置壁纸界面
     
     ui_image_select_interface(0);//选择图库列表界面
 }
