@@ -7341,6 +7341,78 @@ my_app/ebook/img/image/BMP.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/BMP.c.s
 .PHONY : my_app/ebook/img/image/BMP.c.s
 
+my_app/ebook/img/image/QRCode.obj: my_app/ebook/img/image/QRCode.c.obj
+.PHONY : my_app/ebook/img/image/QRCode.obj
+
+# target to build an object file
+my_app/ebook/img/image/QRCode.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/QRCode.c.obj
+.PHONY : my_app/ebook/img/image/QRCode.c.obj
+
+my_app/ebook/img/image/QRCode.i: my_app/ebook/img/image/QRCode.c.i
+.PHONY : my_app/ebook/img/image/QRCode.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/QRCode.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/QRCode.c.i
+.PHONY : my_app/ebook/img/image/QRCode.c.i
+
+my_app/ebook/img/image/QRCode.s: my_app/ebook/img/image/QRCode.c.s
+.PHONY : my_app/ebook/img/image/QRCode.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/QRCode.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/QRCode.c.s
+.PHONY : my_app/ebook/img/image/QRCode.c.s
+
+my_app/ebook/img/image/picture.obj: my_app/ebook/img/image/picture.c.obj
+.PHONY : my_app/ebook/img/image/picture.obj
+
+# target to build an object file
+my_app/ebook/img/image/picture.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/picture.c.obj
+.PHONY : my_app/ebook/img/image/picture.c.obj
+
+my_app/ebook/img/image/picture.i: my_app/ebook/img/image/picture.c.i
+.PHONY : my_app/ebook/img/image/picture.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/picture.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/picture.c.i
+.PHONY : my_app/ebook/img/image/picture.c.i
+
+my_app/ebook/img/image/picture.s: my_app/ebook/img/image/picture.c.s
+.PHONY : my_app/ebook/img/image/picture.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/picture.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/picture.c.s
+.PHONY : my_app/ebook/img/image/picture.c.s
+
+my_app/ebook/img/image/txt.obj: my_app/ebook/img/image/txt.c.obj
+.PHONY : my_app/ebook/img/image/txt.obj
+
+# target to build an object file
+my_app/ebook/img/image/txt.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/txt.c.obj
+.PHONY : my_app/ebook/img/image/txt.c.obj
+
+my_app/ebook/img/image/txt.i: my_app/ebook/img/image/txt.c.i
+.PHONY : my_app/ebook/img/image/txt.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/txt.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/txt.c.i
+.PHONY : my_app/ebook/img/image/txt.c.i
+
+my_app/ebook/img/image/txt.s: my_app/ebook/img/image/txt.c.s
+.PHONY : my_app/ebook/img/image/txt.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/txt.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/txt.c.s
+.PHONY : my_app/ebook/img/image/txt.c.s
+
 my_app/ebook/img/img_file_list/icon_com_cursor.obj: my_app/ebook/img/img_file_list/icon_com_cursor.c.obj
 .PHONY : my_app/ebook/img/img_file_list/icon_com_cursor.obj
 
@@ -7845,126 +7917,6 @@ my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s
 .PHONY : my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s
 
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.obj: my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.i: my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.i
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.s: my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.c.s
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.obj: my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.i: my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.i
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.s: my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.c.s
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.obj: my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.i: my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.i
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.s: my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.c.s
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.obj: my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.i: my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.i
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.s: my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.c.s
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.obj: my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.i: my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.i
-
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.s: my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.c.s
-
 my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.obj
 .PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj
 
@@ -8228,6 +8180,174 @@ my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_su
 my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
 .PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.i
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.s
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.i
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.s
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.i
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.s
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.i
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.s
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.i
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.i
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.s
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.i
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.s
 
 # Help Target
 help:
@@ -9139,6 +9259,15 @@ help:
 	@echo ... my_app/ebook/img/image/BMP.obj
 	@echo ... my_app/ebook/img/image/BMP.i
 	@echo ... my_app/ebook/img/image/BMP.s
+	@echo ... my_app/ebook/img/image/QRCode.obj
+	@echo ... my_app/ebook/img/image/QRCode.i
+	@echo ... my_app/ebook/img/image/QRCode.s
+	@echo ... my_app/ebook/img/image/picture.obj
+	@echo ... my_app/ebook/img/image/picture.i
+	@echo ... my_app/ebook/img/image/picture.s
+	@echo ... my_app/ebook/img/image/txt.obj
+	@echo ... my_app/ebook/img/image/txt.i
+	@echo ... my_app/ebook/img/image/txt.s
 	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.obj
 	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.i
 	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.s
@@ -9202,21 +9331,6 @@ help:
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_delete.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_display.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_list.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_main.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_image/ui_image_set_wallpaper.s
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.s
@@ -9250,6 +9364,27 @@ help:
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.s
 .PHONY : help
 
 

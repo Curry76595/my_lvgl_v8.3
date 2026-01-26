@@ -60,7 +60,7 @@ static void hal_init(void);
 /****my_appDefine********* */
 #define UI_SETTING_MAIN_H 0
 #define UI_EBOOK_AUTO    0
-#define UI_IMAGE_MAIN_H   1
+#define UI_TRANSFER_BOOK_MAIN_H 1
 /************************* */
 
 /**********************
@@ -105,9 +105,9 @@ int main(int argc, char **argv)
 #include "ui_ebook/ui_ebook_auto/ui_ebook_auto.h"
 
       ui_ebook_main_init();
-#elif UI_IMAGE_MAIN_H  
-#include "ui_ebook/ui_image/ui_image_main.h"
-      app_ui_image_main_init();
+#elif UI_TRANSFER_BOOK_MAIN_H  
+#include "ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.h"
+      app_ui_transfer_book_main_init();
 #endif
 
   while(1) {

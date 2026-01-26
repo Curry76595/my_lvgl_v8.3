@@ -160,7 +160,7 @@ static void ui_image_key_event_cb(lv_event_t *e){
                 
                 break;
             case LV_KEY_ESC:
-                
+                 ui_image_main_deinit();//反初始化，释放内存，返回到传书主界面
                 break;
             default:
                 break;
@@ -200,33 +200,45 @@ void ui_image_list_init(void){
     lv_obj_align_to(ui_exit_img, ui_exit, LV_ALIGN_TOP_LEFT, 0, 0);
 
     //创建标题-显示标签
-    snprintf(text_buf, sizeof(text_buf), "图库 %d/%d", current_page, total_page);
-    ui_image_title = lv_label_create(ui_image_display_list->ui_image_list);
+    lv_obj_t *ui_image_title_container = lv_obj_create(ui_image_display_list->ui_image_list);
+    lv_obj_clear_flag(ui_image_title_container, LV_OBJ_FLAG_SCROLLABLE);
+    lv_obj_set_size(ui_image_title_container, 218, 30);
+    lv_obj_align_to(ui_image_title_container, ui_exit, LV_ALIGN_OUT_RIGHT_MID, -30, 0);
+    lv_obj_set_style_border_color(ui_image_title_container, lv_color_white(), LV_PART_MAIN);
+
+    lv_label_t *ui_image_title_prefix = lv_label_create(ui_image_title_container);
+    lv_label_set_text(ui_image_title_prefix, "我的传图");
+    lv_obj_set_style_text_font(ui_image_title_prefix,&Chinese_font_16,LV_STATE_DEFAULT);
+    lv_obj_set_style_text_letter_space(ui_image_title_prefix,2, LV_PART_MAIN);
+    lv_obj_align(ui_image_title_prefix, LV_ALIGN_LEFT_MID, -10, 0);
+
+    snprintf(text_buf, sizeof(text_buf), "%d/%d", current_page, total_page);
+    ui_image_title = lv_label_create(ui_image_title_container);
     lv_label_set_text(ui_image_title, text_buf);
     lv_obj_set_style_text_font(ui_image_title,&Chinese_font_16,LV_STATE_DEFAULT);
     lv_obj_set_style_text_letter_space(ui_image_title,2, LV_PART_MAIN);
-    lv_obj_align(ui_image_title, LV_ALIGN_TOP_LEFT, 10, -8);
+    lv_obj_align(ui_image_title, LV_ALIGN_RIGHT_MID, 6, 0);
 
     //创建焦点组
     ui_image_display_list->ui_image_list_group = lv_group_create();
     lv_indev_set_group(indev_keypad,ui_image_display_list->ui_image_list_group);
-    //创建手机传图容器
-    lv_obj_t *ui_phone_transfer_container = lv_obj_create(ui_image_display_list->ui_image_list);
-    lv_obj_add_flag(ui_phone_transfer_container, LV_OBJ_FLAG_CLICKABLE);
-    lv_obj_clear_flag(ui_phone_transfer_container, LV_OBJ_FLAG_SCROLLABLE);
-    lv_obj_set_size(ui_phone_transfer_container, 80, 26);
-    lv_obj_set_style_border_width(ui_phone_transfer_container, 1, LV_PART_MAIN);
-    lv_obj_set_style_border_color(ui_phone_transfer_container, lv_color_black(), LV_PART_MAIN);
-    lv_obj_align(ui_phone_transfer_container, LV_ALIGN_TOP_RIGHT, 0, -9);
+    // //创建手机传图容器
+    // lv_obj_t *ui_phone_transfer_container = lv_obj_create(ui_image_display_list->ui_image_list);
+    // lv_obj_add_flag(ui_phone_transfer_container, LV_OBJ_FLAG_CLICKABLE);
+    // lv_obj_clear_flag(ui_phone_transfer_container, LV_OBJ_FLAG_SCROLLABLE);
+    // lv_obj_set_size(ui_phone_transfer_container, 80, 26);
+    // lv_obj_set_style_border_width(ui_phone_transfer_container, 1, LV_PART_MAIN);
+    // lv_obj_set_style_border_color(ui_phone_transfer_container, lv_color_black(), LV_PART_MAIN);
+    // lv_obj_align(ui_phone_transfer_container, LV_ALIGN_TOP_RIGHT, 0, -9);
     
-    //创建手机传图标签
-    lv_obj_t *ui_phone_transfer_text = lv_label_create(ui_phone_transfer_container);
-    lv_label_set_text(ui_phone_transfer_text, "手机传图");
-    lv_obj_set_style_text_font(ui_phone_transfer_text,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(ui_phone_transfer_text,2, LV_PART_MAIN);
-    lv_obj_align(ui_phone_transfer_text, LV_ALIGN_CENTER, 0, 0);
-    //手机传图的坐标索引从0开始，图片索引从1开始
-    ui_image_menu_group_set(ui_image_display_list->ui_image_list_group,ui_phone_transfer_container,0);
+    // //创建手机传图标签
+    // lv_obj_t *ui_phone_transfer_text = lv_label_create(ui_phone_transfer_container);
+    // lv_label_set_text(ui_phone_transfer_text, "手机传图");
+    // lv_obj_set_style_text_font(ui_phone_transfer_text,&Chinese_font_16,LV_STATE_DEFAULT);
+    // lv_obj_set_style_text_letter_space(ui_phone_transfer_text,2, LV_PART_MAIN);
+    // lv_obj_align(ui_phone_transfer_text, LV_ALIGN_CENTER, 0, 0);
+    // //手机传图的坐标索引从0开始，图片索引从1开始
+    // ui_image_menu_group_set(ui_image_display_list->ui_image_list_group,ui_phone_transfer_container,0);
     //创建分割横线
     lv_obj_t *ui_title_line = lv_line_create(ui_image_display_list->ui_image_list);
     static lv_point_t title_line_points[] ={{0,20},{240,20}};

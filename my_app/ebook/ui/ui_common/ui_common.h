@@ -34,6 +34,9 @@ LV_IMG_DECLARE(minutes);
 LV_IMG_DECLARE(new_selected);
 LV_IMG_DECLARE(selected_reverse);
 LV_IMG_DECLARE(BMP);
+LV_IMG_DECLARE(txt);
+LV_IMG_DECLARE(picture);
+LV_IMG_DECLARE(QRCode);
 #if 0
 #define     Chinese_font_16         lv_font_unifont_16
 #define     Chinese_font_20         lv_font_CN_ExtraLight_20

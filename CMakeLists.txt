@@ -31,14 +31,14 @@ file(GLOB_RECURSE UI_INCLUDES
     "my_app/${CURRENT_PROJECT_NAME}/ui/*.h"  
     "my_app/${CURRENT_PROJECT_NAME}/font/*.h"
     "my_app/${CURRENT_PROJECT_NAME}/img/*.h"
-)   
+)     
 file(GLOB_RECURSE UI_SOURCES  
     "my_app/${CURRENT_PROJECT_NAME}/ui/*.c"
     "my_app/${CURRENT_PROJECT_NAME}/font/*.c"
     "my_app/${CURRENT_PROJECT_NAME}/img/*.c"
 )
 
-SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)        
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)              
 SET(CMAKE_CXX_FLAGS "-O3")
 
 find_package(SDL2 REQUIRED SDL2)
@@ -46,7 +46,7 @@ include_directories(${SDL2_INCLUDE_DIRS})
 
 #定义可执行文件
 add_executable(main 
-    my_app/${CURRENT_PROJECT_NAME}/main.c mouse_cursor_icon.c
+    my_app/${CURRENT_PROJECT_NAME}/main.c mouse_cursor_icon.c  
     ${SOURCES}   
     ${INCLUDES}    
     ${UI_INCLUDES}   
@@ -56,12 +56,12 @@ add_executable(main
 #添加宏定义
 add_compile_definitions(LV_CONF_INCLUDE_SIMPLE)
   
-#链接sdl2库    
+#链接sdl2库       
 target_link_libraries(main PRIVATE SDL2 )
 
 #添加运行目标
 add_custom_target (run COMMAND ${EXECUTABLE_OUTPUT_PATH}/main)
 
 #拷贝SDL2.dll文件到bin目录下
-file(COPY SDL2.dll DESTINATION ../bin)                                    
-                               
+file(COPY SDL2.dll DESTINATION ../bin)                                      
+                                    
