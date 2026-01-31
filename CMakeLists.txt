@@ -30,12 +30,12 @@ file(GLOB_RECURSE SOURCES  "lv_drivers/*.c" "lvgl/demos/*.c"  "lvgl/src/*.c")
 file(GLOB_RECURSE UI_INCLUDES 
     "my_app/${CURRENT_PROJECT_NAME}/ui/*.h"  
     "my_app/${CURRENT_PROJECT_NAME}/font/*.h"
-    "my_app/${CURRENT_PROJECT_NAME}/img/*.h"
+    "my_app/${CURRENT_PROJECT_NAME}/img/*.h"   
 )     
 file(GLOB_RECURSE UI_SOURCES  
-    "my_app/${CURRENT_PROJECT_NAME}/ui/*.c"
+    "my_app/${CURRENT_PROJECT_NAME}/ui/*.c"  
     "my_app/${CURRENT_PROJECT_NAME}/font/*.c"
-    "my_app/${CURRENT_PROJECT_NAME}/img/*.c"
+    "my_app/${CURRENT_PROJECT_NAME}/img/*.c"     
 )
 
 SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)              

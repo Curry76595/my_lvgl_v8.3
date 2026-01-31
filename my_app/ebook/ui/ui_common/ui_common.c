@@ -1,7 +1,12 @@
 #include "ui_common.h"
 
 static lv_style_t g_style_default;
+lv_style_t g_ui_style_default;
+lv_style_t g_ui_style_radius_20;
 
+/**********************
+ *   GLOBAL FUNCTIONS
+**********************/
 // 初始化背景样式
 static void ui_default_style_init(void)
 {
@@ -15,10 +20,23 @@ static void ui_default_style_init(void)
     lv_style_set_shadow_width(&g_style_default, 0);
     lv_style_set_text_color(&g_style_default, lv_color_black());
 }
+void ui_com_tip_style_init(void)
+{
+    lv_style_init(&g_ui_style_default);
+    lv_style_set_border_width(&g_ui_style_default, 0);
+    lv_style_set_radius(&g_ui_style_default, 0);
+    lv_style_set_pad_all(&g_ui_style_default, 0);
+
+    lv_style_init(&g_ui_style_radius_20);
+    lv_style_set_border_width(&g_ui_style_radius_20, 0);
+    lv_style_set_radius(&g_ui_style_radius_20, 20);
+    lv_style_set_pad_all(&g_ui_style_radius_20, 0);
+}
 // 背景板
 void ui_com_style_init(void)
 {
     ui_default_style_init();
+    ui_com_tip_style_init();
 }
 
 // 显示边框

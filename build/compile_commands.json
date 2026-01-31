@@ -1921,21 +1921,21 @@
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_common\\option_image_state_example.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_common\\option_image_state_example.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/option_image_state_example.c",
-  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_state_example.c.obj"
-},
-{
-  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_common\\option_image_usage_example.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_common\\option_image_usage_example.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/option_image_usage_example.c",
-  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_usage_example.c.obj"
-},
-{
-  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
   "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_common\\ui_common.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_common\\ui_common.c",
   "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.c",
   "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_common/ui_common.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_com_dialog\\ui_com_dialog.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_com_dialog\\ui_com_dialog.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_com_dialog\\ui_com_dialogs.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_com_dialog\\ui_com_dialogs.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",

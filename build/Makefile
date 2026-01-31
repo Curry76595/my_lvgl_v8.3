@@ -7821,54 +7821,6 @@ my_app/ebook/main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/main.c.s
 .PHONY : my_app/ebook/main.c.s
 
-my_app/ebook/ui/ui_common/option_image_state_example.obj: my_app/ebook/ui/ui_common/option_image_state_example.c.obj
-.PHONY : my_app/ebook/ui/ui_common/option_image_state_example.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_common/option_image_state_example.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_state_example.c.obj
-.PHONY : my_app/ebook/ui/ui_common/option_image_state_example.c.obj
-
-my_app/ebook/ui/ui_common/option_image_state_example.i: my_app/ebook/ui/ui_common/option_image_state_example.c.i
-.PHONY : my_app/ebook/ui/ui_common/option_image_state_example.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_common/option_image_state_example.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_state_example.c.i
-.PHONY : my_app/ebook/ui/ui_common/option_image_state_example.c.i
-
-my_app/ebook/ui/ui_common/option_image_state_example.s: my_app/ebook/ui/ui_common/option_image_state_example.c.s
-.PHONY : my_app/ebook/ui/ui_common/option_image_state_example.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_common/option_image_state_example.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_state_example.c.s
-.PHONY : my_app/ebook/ui/ui_common/option_image_state_example.c.s
-
-my_app/ebook/ui/ui_common/option_image_usage_example.obj: my_app/ebook/ui/ui_common/option_image_usage_example.c.obj
-.PHONY : my_app/ebook/ui/ui_common/option_image_usage_example.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_common/option_image_usage_example.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_usage_example.c.obj
-.PHONY : my_app/ebook/ui/ui_common/option_image_usage_example.c.obj
-
-my_app/ebook/ui/ui_common/option_image_usage_example.i: my_app/ebook/ui/ui_common/option_image_usage_example.c.i
-.PHONY : my_app/ebook/ui/ui_common/option_image_usage_example.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_common/option_image_usage_example.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_usage_example.c.i
-.PHONY : my_app/ebook/ui/ui_common/option_image_usage_example.c.i
-
-my_app/ebook/ui/ui_common/option_image_usage_example.s: my_app/ebook/ui/ui_common/option_image_usage_example.c.s
-.PHONY : my_app/ebook/ui/ui_common/option_image_usage_example.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_common/option_image_usage_example.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_common/option_image_usage_example.c.s
-.PHONY : my_app/ebook/ui/ui_common/option_image_usage_example.c.s
-
 my_app/ebook/ui/ui_common/ui_common.obj: my_app/ebook/ui/ui_common/ui_common.c.obj
 .PHONY : my_app/ebook/ui/ui_common/ui_common.obj
 
@@ -7892,6 +7844,54 @@ my_app/ebook/ui/ui_common/ui_common.s: my_app/ebook/ui/ui_common/ui_common.c.s
 my_app/ebook/ui/ui_common/ui_common.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_common/ui_common.c.s
 .PHONY : my_app/ebook/ui/ui_common/ui_common.c.s
+
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.obj: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.i: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.i
+
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.s: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.s
+
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.obj: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.i: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.i
+
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.s: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.s
 
 my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.obj: my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.obj
 .PHONY : my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.obj
@@ -9319,15 +9319,15 @@ help:
 	@echo ... my_app/ebook/main.obj
 	@echo ... my_app/ebook/main.i
 	@echo ... my_app/ebook/main.s
-	@echo ... my_app/ebook/ui/ui_common/option_image_state_example.obj
-	@echo ... my_app/ebook/ui/ui_common/option_image_state_example.i
-	@echo ... my_app/ebook/ui/ui_common/option_image_state_example.s
-	@echo ... my_app/ebook/ui/ui_common/option_image_usage_example.obj
-	@echo ... my_app/ebook/ui/ui_common/option_image_usage_example.i
-	@echo ... my_app/ebook/ui/ui_common/option_image_usage_example.s
 	@echo ... my_app/ebook/ui/ui_common/ui_common.obj
 	@echo ... my_app/ebook/ui/ui_common/ui_common.i
 	@echo ... my_app/ebook/ui/ui_common/ui_common.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.s
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.s
