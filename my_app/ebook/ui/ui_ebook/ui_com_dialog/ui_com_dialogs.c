@@ -200,17 +200,18 @@ void ui_com_dialogs_init(void)
     ui_dialog_content = lv_obj_create(ui_dialog_container);
     lv_obj_set_size(ui_dialog_content, 200, 300);
     lv_obj_center(ui_dialog_content);
-    lv_obj_set_style_border_color(ui_dialog_content, lv_color_white(), LV_PART_MAIN);
+    lv_obj_set_style_border_color(ui_dialog_content, lv_color_black(), LV_PART_MAIN);
     lv_obj_set_style_border_width(ui_dialog_content, 1, LV_PART_MAIN);
 
     //创建一个对话框标题标签
     ui_dialog_title = lv_label_create(ui_dialog_content);
     lv_obj_set_width(ui_dialog_title, 198);
-    lv_obj_align(ui_dialog_title, LV_ALIGN_TOP_MID, 0, 50);
+    lv_obj_align(ui_dialog_title, LV_ALIGN_TOP_MID, 0, 48);
     lv_obj_set_style_text_font(ui_dialog_title, &Chinese_font_16, LV_STATE_DEFAULT);
     lv_obj_set_style_text_line_space(ui_dialog_title, 10, LV_PART_MAIN);
     lv_obj_set_style_text_color(ui_dialog_title, lv_color_black(), LV_PART_MAIN);
-    lv_label_set_text(ui_dialog_title, "恭喜,图片\n003.jpg\n接受完成,\n是否立即查看!");
+    char str[128] = "红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3";
+    lv_label_set_text_fmt(ui_dialog_title, "嗨,侦测到图书\n%.50s...\n从你手机飞奔过来,\n已完成",str);
     lv_obj_set_style_text_align(ui_dialog_title, LV_TEXT_ALIGN_CENTER, LV_PART_MAIN);
 
     //创建一个对话框确认容器

@@ -15,7 +15,7 @@ char *list_value[SETTING_LIST_NUM] = {
 
     "12:34:56:78:90:12",
 
-    "PKS1-101_V1.0.15_CS",
+    "PKS1-101_V1.0.15_CS_certain",
 
 };
 void ui_setting_about_init(void){
@@ -43,6 +43,8 @@ void ui_setting_about_init(void){
     for(int i=0; i < SETTING_LIST_NUM; i++){
         lv_obj_t *list_container = lv_obj_create(container);
         lv_obj_set_size(list_container, 160, 65);
+        if(i == 0) lv_obj_set_height(list_container, 45);
+        else if(i==3) lv_obj_set_height(list_container, 85);
         lv_obj_set_style_border_color(list_container, lv_color_white(), LV_PART_MAIN);
         lv_obj_set_style_border_width(list_container, 1, LV_PART_MAIN);
         lv_obj_clear_flag(list_container, LV_OBJ_FLAG_SCROLLABLE);

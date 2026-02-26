@@ -58,10 +58,10 @@ static void hal_init(void);
  *  STATIC PROTOTYPES
  **********************/
 /****my_appDefine********* */
-#define UI_SETTING_MAIN_H 0
+#define UI_SETTING_MAIN_H 1
 #define UI_EBOOK_AUTO    0
 #define UI_TRANSFER_BOOK_MAIN_H 0
-#define UI_COM_DIALOG_MAIN_H 1
+#define UI_COM_DIALOG_MAIN_H 0
 /************************* */
 
 /**********************
