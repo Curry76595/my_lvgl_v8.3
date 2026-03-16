@@ -1813,9 +1813,57 @@
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\about.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\about.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/about.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/about.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\de_about.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\de_about.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_about.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/de_about.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\de_factory.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\de_factory.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_factory.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/de_factory.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\de_lockscreen.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\de_lockscreen.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_lockscreen.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/de_lockscreen.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\de_storage.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\de_storage.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_storage.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/de_storage.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\factory.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\factory.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/factory.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/factory.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\lockscreen.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\lockscreen.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/lockscreen.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/lockscreen.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
   "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\picture.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\picture.c",
   "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/picture.c",
   "output": "CMakeFiles/main.dir/my_app/ebook/img/image/picture.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\storage.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\storage.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/storage.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/storage.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",

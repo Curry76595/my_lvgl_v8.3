@@ -25,11 +25,11 @@ static void ui_image_display_key_event_cb(lv_event_t *e){
             case LV_KEY_ENTER:
                 printf("CLICK enter_key pressed\n");
                 //显示删除弹框并改变输入焦点组
-                // lv_obj_clear_flag(lv_obj_get_child(ui_image_display_list->ui_image_display, 1), LV_OBJ_FLAG_HIDDEN);
-                // lv_indev_set_group(indev_keypad,ui_image_display_list->ui_image_delete_group);
+                lv_obj_clear_flag(lv_obj_get_child(ui_image_display_list->ui_image_display, 1), LV_OBJ_FLAG_HIDDEN);
+                lv_indev_set_group(indev_keypad,ui_image_display_list->ui_image_delete_group);
                 //显示设置壁纸弹框并改变输入焦点组
-                lv_obj_clear_flag(lv_obj_get_child(ui_image_display_list->ui_image_display, 2), LV_OBJ_FLAG_HIDDEN);
-                lv_indev_set_group(indev_keypad,ui_image_display_list->ui_image_set_wallpaper_group);
+                // lv_obj_clear_flag(lv_obj_get_child(ui_image_display_list->ui_image_display, 2), LV_OBJ_FLAG_HIDDEN);
+                // lv_indev_set_group(indev_keypad,ui_image_display_list->ui_image_set_wallpaper_group);
                 break;
             case LV_KEY_ESC:
                 printf("ESC key pressed\n");

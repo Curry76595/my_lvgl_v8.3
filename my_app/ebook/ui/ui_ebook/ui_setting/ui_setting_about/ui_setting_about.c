@@ -7,6 +7,13 @@ char *list_name[SETTING_LIST_NUM] = {
     "MAC:",
     "版本:",
 };
+
+char *Eng_list_name[SETTING_LIST_NUM] = {
+    "Model:",
+    "SN:",
+    "MAC:",
+    "Version:",
+};
 char *list_value[SETTING_LIST_NUM] = {
 
     "Pocket-S1",
@@ -23,9 +30,14 @@ void ui_setting_about_init(void){
   
     //1.标题
     lv_obj_t *ui_titleLabel = lv_label_create(ui_setting_display->about);
-    lv_label_set_text(ui_titleLabel, "本机信息");
+    if(English_version){
+         lv_label_set_text(ui_titleLabel, "Device Information");
+         lv_obj_set_style_text_letter_space(ui_titleLabel,0, LV_PART_MAIN);
+    }else{
+         lv_label_set_text(ui_titleLabel, "本机信息");
+         lv_obj_set_style_text_letter_space(ui_titleLabel,2, LV_PART_MAIN);
+    }
     lv_obj_set_style_text_font(ui_titleLabel,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(ui_titleLabel,2, LV_PART_MAIN);
     lv_obj_align(ui_titleLabel, LV_ALIGN_TOP_MID, -3, 10);
     
 
@@ -50,18 +62,26 @@ void ui_setting_about_init(void){
         lv_obj_clear_flag(list_container, LV_OBJ_FLAG_SCROLLABLE);
 
         lv_obj_t *label_1 = lv_label_create(list_container);
-        lv_label_set_text(label_1, list_name[i]);
-        lv_obj_set_style_text_font(label_1,&Chinese_font_16,LV_STATE_DEFAULT);
-        lv_obj_set_style_text_letter_space(label_1,2, LV_PART_MAIN);
-        lv_obj_align(label_1, LV_ALIGN_TOP_LEFT, -6, -10);
-
         lv_obj_t *label_2 = lv_label_create(list_container);
+        if(English_version){
+            lv_label_set_text(label_1, Eng_list_name[i]);
+            lv_obj_set_style_text_letter_space(label_1,-1, LV_PART_MAIN);
+            lv_obj_align(label_1, LV_ALIGN_TOP_LEFT, -10, -10);
+            lv_obj_align(label_2, LV_ALIGN_TOP_RIGHT, 6, -10);
+        }else{
+            lv_label_set_text(label_1, list_name[i]);
+            lv_obj_set_style_text_letter_space(label_1,2, LV_PART_MAIN);
+            lv_obj_align(label_1, LV_ALIGN_TOP_LEFT, -6, -10);
+            lv_obj_align(label_2, LV_ALIGN_TOP_RIGHT, 0, -10);
+        }
+        lv_obj_set_style_text_font(label_1,&Chinese_font_16,LV_STATE_DEFAULT);
+        
         lv_label_set_text(label_2, list_value[i]);
         lv_obj_set_width(label_2, 90);
         lv_label_set_long_mode(label_2, LV_LABEL_LONG_WRAP);
         lv_obj_set_style_text_font(label_2,&Chinese_font_16,LV_STATE_DEFAULT);
         lv_obj_set_style_text_letter_space(label_2,2, LV_PART_MAIN);
-        lv_obj_align(label_2, LV_ALIGN_TOP_RIGHT, 0, -10);
+        
     }
 }
 

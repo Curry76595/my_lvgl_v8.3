@@ -3,7 +3,7 @@
 /*********************************************申明变量*********************************************/
 lv_obj_t *delete_confirm_container[2];//确认按钮容器
 char *delete_confirm_text[2] = {"否", "是"};
-
+char *Eng_delete_confirm_text[2] = {"No", "Yes"};
 /************************************************ui界面设计细节************************************************/
 /**
  * @description: 选中效果函数
@@ -117,9 +117,14 @@ void ui_image_delete_init(void){
 
     //2.创建删除提示语
     lv_obj_t *delete_cue = lv_label_create(pop_up);
-    lv_label_set_text(delete_cue, "要删除当前图片吗?");
+    if(English_version){
+        lv_label_set_text(delete_cue, "  DO you want to\ndelete this photo?");
+        lv_obj_set_style_text_letter_space(delete_cue,0, LV_PART_MAIN);
+    }else{
+        lv_label_set_text(delete_cue, "要删除当前图片吗?");
+        lv_obj_set_style_text_letter_space(delete_cue,1, LV_PART_MAIN);
+    }
     lv_obj_set_style_text_font(delete_cue,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(delete_cue,1, LV_PART_MAIN);
     lv_obj_align(delete_cue, LV_ALIGN_TOP_MID, 0, 5);
     
     //3.创建一个焦点组
@@ -138,7 +143,11 @@ void ui_image_delete_init(void){
         lv_obj_align(delete_confirm_container[i], LV_ALIGN_TOP_MID, -38+i*80, 50);
         //创建按钮容器里的标签
         lv_obj_t *label_text = lv_label_create(delete_confirm_container[i]);
-        lv_label_set_text(label_text, delete_confirm_text[i]);
+        if(English_version){
+            lv_label_set_text(label_text, Eng_delete_confirm_text[i]);
+        }else{
+            lv_label_set_text(label_text, delete_confirm_text[i]);
+        }
         lv_obj_set_style_text_font(label_text,&Chinese_font_16,LV_STATE_DEFAULT);
         lv_obj_center(label_text);
         

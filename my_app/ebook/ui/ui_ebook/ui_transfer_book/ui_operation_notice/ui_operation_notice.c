@@ -45,9 +45,15 @@ void ui_operation_notice_init(void){
 
     //创建标题-显示标签
     lv_obj_t *ui_transfer_title = lv_label_create(ui_operation_notice_container);
-    lv_label_set_text(ui_transfer_title, "传书操作说明");
+    if(English_version){
+        lv_label_set_text(ui_transfer_title, "Transfer Instructions");
+        lv_obj_set_style_text_letter_space(ui_transfer_title,1, LV_PART_MAIN);
+
+    }else{
+        lv_label_set_text(ui_transfer_title, "传书操作说明");
+        lv_obj_set_style_text_letter_space(ui_transfer_title,2, LV_PART_MAIN);
+    }
     lv_obj_set_style_text_font(ui_transfer_title,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(ui_transfer_title,2, LV_PART_MAIN);
     lv_obj_align(ui_transfer_title, LV_ALIGN_TOP_LEFT, 10, -8);
 
     //创建分割横线
@@ -77,15 +83,24 @@ void ui_operation_notice_init(void){
     lv_obj_align(content_label_container_1, LV_ALIGN_TOP_LEFT, -9, -5);
 
     lv_obj_t *content_label_1 = lv_label_create(content_label_container_1);
-    lv_label_set_text(content_label_1, "1 手机扫码\n  下载安装");
+    if(English_version){
+        lv_label_set_text(content_label_1, "1  Scan code\n  Install app");
+        lv_obj_set_style_text_letter_space(content_label_1,-1, LV_PART_MAIN);
+    }else{
+        lv_label_set_text(content_label_1, "1 手机扫码\n  下载安装");
+        lv_obj_set_style_text_letter_space(content_label_1,2, LV_PART_MAIN);
+    }
     lv_obj_set_style_text_font(content_label_1,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(content_label_1,2, LV_PART_MAIN);
     lv_obj_align(content_label_1, LV_ALIGN_TOP_LEFT, -9, -8);
 
     lv_obj_t *content_label_2 = lv_label_create(content_label_container_1);
-    lv_label_set_text(content_label_2, "2 已安装好\n  打开app");
-    lv_obj_set_style_text_font(content_label_2,&Chinese_font_16,LV_STATE_DEFAULT);
+    if(English_version){
+        lv_label_set_text(content_label_2, "2 Open\n  the app");
+    }else{
+        lv_label_set_text(content_label_2, "2 已安装好\n  打开app");
+    }
     lv_obj_set_style_text_letter_space(content_label_2,2, LV_PART_MAIN);
+    lv_obj_set_style_text_font(content_label_2,&Chinese_font_16,LV_STATE_DEFAULT);
     lv_obj_align_to(content_label_2, content_label_1, LV_ALIGN_OUT_BOTTOM_MID, 0, 10);
 
     //创建图片显示容器
@@ -109,15 +124,25 @@ void ui_operation_notice_init(void){
     lv_obj_align_to(content_label_container_2, content_label_container_1, LV_ALIGN_OUT_BOTTOM_MID, 55, 0);
 
     lv_obj_t *content_label_3 = lv_label_create(content_label_container_2);
-    lv_label_set_text(content_label_3, "3 在app登录注册后\n  找到小书童电子书,\n  通过添加BLE设备,\n  找到设备名称Pocket-S1\n  进行连接操作。");
+    if(English_version){
+        lv_label_set_text(content_label_3, "3 Add a BLE device and\n  connect to the device\n  named “Pocket-S1”.");
+        lv_obj_set_style_text_letter_space(content_label_3,1, LV_PART_MAIN);
+    }else{
+        lv_label_set_text(content_label_3, "3 在app登录注册后\n  找到小书童电子书,\n  通过添加BLE设备,\n  找到设备名称Pocket-S1\n  进行连接操作。");
+        lv_obj_set_style_text_letter_space(content_label_3,2, LV_PART_MAIN);
+    }
     lv_obj_set_style_text_font(content_label_3,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(content_label_3,2, LV_PART_MAIN);
     lv_obj_align(content_label_3, LV_ALIGN_TOP_MID, 8, 0);
 
     lv_obj_t *content_label_4 = lv_label_create(content_label_container_2);
-    lv_label_set_text(content_label_4, "温馨提示:\n手机和设备连接后,\n手机上可推送图书和图片。");
+    if(English_version){
+        lv_label_set_text(content_label_4, "Once your phone connects\nto the device,books and\nphotos can be pushed to\nyour devise.");
+        lv_obj_set_style_text_letter_space(content_label_4,1, LV_PART_MAIN);
+    }else{
+        lv_label_set_text(content_label_4, "温馨提示:\n手机和设备连接后,\n手机上可推送图书和图片。");
+        lv_obj_set_style_text_letter_space(content_label_4,2, LV_PART_MAIN);
+    }
     lv_obj_set_style_text_font(content_label_4,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(content_label_4,2, LV_PART_MAIN);
     lv_obj_align_to(content_label_4, content_label_3, LV_ALIGN_OUT_BOTTOM_MID, 0, 20);
 }
 

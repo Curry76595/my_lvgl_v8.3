@@ -7365,6 +7365,174 @@ my_app/ebook/img/image/QRCode.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/QRCode.c.s
 .PHONY : my_app/ebook/img/image/QRCode.c.s
 
+my_app/ebook/img/image/about.obj: my_app/ebook/img/image/about.c.obj
+.PHONY : my_app/ebook/img/image/about.obj
+
+# target to build an object file
+my_app/ebook/img/image/about.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/about.c.obj
+.PHONY : my_app/ebook/img/image/about.c.obj
+
+my_app/ebook/img/image/about.i: my_app/ebook/img/image/about.c.i
+.PHONY : my_app/ebook/img/image/about.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/about.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/about.c.i
+.PHONY : my_app/ebook/img/image/about.c.i
+
+my_app/ebook/img/image/about.s: my_app/ebook/img/image/about.c.s
+.PHONY : my_app/ebook/img/image/about.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/about.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/about.c.s
+.PHONY : my_app/ebook/img/image/about.c.s
+
+my_app/ebook/img/image/de_about.obj: my_app/ebook/img/image/de_about.c.obj
+.PHONY : my_app/ebook/img/image/de_about.obj
+
+# target to build an object file
+my_app/ebook/img/image/de_about.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_about.c.obj
+.PHONY : my_app/ebook/img/image/de_about.c.obj
+
+my_app/ebook/img/image/de_about.i: my_app/ebook/img/image/de_about.c.i
+.PHONY : my_app/ebook/img/image/de_about.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/de_about.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_about.c.i
+.PHONY : my_app/ebook/img/image/de_about.c.i
+
+my_app/ebook/img/image/de_about.s: my_app/ebook/img/image/de_about.c.s
+.PHONY : my_app/ebook/img/image/de_about.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/de_about.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_about.c.s
+.PHONY : my_app/ebook/img/image/de_about.c.s
+
+my_app/ebook/img/image/de_factory.obj: my_app/ebook/img/image/de_factory.c.obj
+.PHONY : my_app/ebook/img/image/de_factory.obj
+
+# target to build an object file
+my_app/ebook/img/image/de_factory.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_factory.c.obj
+.PHONY : my_app/ebook/img/image/de_factory.c.obj
+
+my_app/ebook/img/image/de_factory.i: my_app/ebook/img/image/de_factory.c.i
+.PHONY : my_app/ebook/img/image/de_factory.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/de_factory.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_factory.c.i
+.PHONY : my_app/ebook/img/image/de_factory.c.i
+
+my_app/ebook/img/image/de_factory.s: my_app/ebook/img/image/de_factory.c.s
+.PHONY : my_app/ebook/img/image/de_factory.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/de_factory.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_factory.c.s
+.PHONY : my_app/ebook/img/image/de_factory.c.s
+
+my_app/ebook/img/image/de_lockscreen.obj: my_app/ebook/img/image/de_lockscreen.c.obj
+.PHONY : my_app/ebook/img/image/de_lockscreen.obj
+
+# target to build an object file
+my_app/ebook/img/image/de_lockscreen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_lockscreen.c.obj
+.PHONY : my_app/ebook/img/image/de_lockscreen.c.obj
+
+my_app/ebook/img/image/de_lockscreen.i: my_app/ebook/img/image/de_lockscreen.c.i
+.PHONY : my_app/ebook/img/image/de_lockscreen.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/de_lockscreen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_lockscreen.c.i
+.PHONY : my_app/ebook/img/image/de_lockscreen.c.i
+
+my_app/ebook/img/image/de_lockscreen.s: my_app/ebook/img/image/de_lockscreen.c.s
+.PHONY : my_app/ebook/img/image/de_lockscreen.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/de_lockscreen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_lockscreen.c.s
+.PHONY : my_app/ebook/img/image/de_lockscreen.c.s
+
+my_app/ebook/img/image/de_storage.obj: my_app/ebook/img/image/de_storage.c.obj
+.PHONY : my_app/ebook/img/image/de_storage.obj
+
+# target to build an object file
+my_app/ebook/img/image/de_storage.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_storage.c.obj
+.PHONY : my_app/ebook/img/image/de_storage.c.obj
+
+my_app/ebook/img/image/de_storage.i: my_app/ebook/img/image/de_storage.c.i
+.PHONY : my_app/ebook/img/image/de_storage.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/de_storage.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_storage.c.i
+.PHONY : my_app/ebook/img/image/de_storage.c.i
+
+my_app/ebook/img/image/de_storage.s: my_app/ebook/img/image/de_storage.c.s
+.PHONY : my_app/ebook/img/image/de_storage.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/de_storage.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_storage.c.s
+.PHONY : my_app/ebook/img/image/de_storage.c.s
+
+my_app/ebook/img/image/factory.obj: my_app/ebook/img/image/factory.c.obj
+.PHONY : my_app/ebook/img/image/factory.obj
+
+# target to build an object file
+my_app/ebook/img/image/factory.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/factory.c.obj
+.PHONY : my_app/ebook/img/image/factory.c.obj
+
+my_app/ebook/img/image/factory.i: my_app/ebook/img/image/factory.c.i
+.PHONY : my_app/ebook/img/image/factory.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/factory.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/factory.c.i
+.PHONY : my_app/ebook/img/image/factory.c.i
+
+my_app/ebook/img/image/factory.s: my_app/ebook/img/image/factory.c.s
+.PHONY : my_app/ebook/img/image/factory.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/factory.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/factory.c.s
+.PHONY : my_app/ebook/img/image/factory.c.s
+
+my_app/ebook/img/image/lockscreen.obj: my_app/ebook/img/image/lockscreen.c.obj
+.PHONY : my_app/ebook/img/image/lockscreen.obj
+
+# target to build an object file
+my_app/ebook/img/image/lockscreen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/lockscreen.c.obj
+.PHONY : my_app/ebook/img/image/lockscreen.c.obj
+
+my_app/ebook/img/image/lockscreen.i: my_app/ebook/img/image/lockscreen.c.i
+.PHONY : my_app/ebook/img/image/lockscreen.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/lockscreen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/lockscreen.c.i
+.PHONY : my_app/ebook/img/image/lockscreen.c.i
+
+my_app/ebook/img/image/lockscreen.s: my_app/ebook/img/image/lockscreen.c.s
+.PHONY : my_app/ebook/img/image/lockscreen.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/lockscreen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/lockscreen.c.s
+.PHONY : my_app/ebook/img/image/lockscreen.c.s
+
 my_app/ebook/img/image/picture.obj: my_app/ebook/img/image/picture.c.obj
 .PHONY : my_app/ebook/img/image/picture.obj
 
@@ -7388,6 +7556,30 @@ my_app/ebook/img/image/picture.s: my_app/ebook/img/image/picture.c.s
 my_app/ebook/img/image/picture.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/picture.c.s
 .PHONY : my_app/ebook/img/image/picture.c.s
+
+my_app/ebook/img/image/storage.obj: my_app/ebook/img/image/storage.c.obj
+.PHONY : my_app/ebook/img/image/storage.obj
+
+# target to build an object file
+my_app/ebook/img/image/storage.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/storage.c.obj
+.PHONY : my_app/ebook/img/image/storage.c.obj
+
+my_app/ebook/img/image/storage.i: my_app/ebook/img/image/storage.c.i
+.PHONY : my_app/ebook/img/image/storage.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/storage.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/storage.c.i
+.PHONY : my_app/ebook/img/image/storage.c.i
+
+my_app/ebook/img/image/storage.s: my_app/ebook/img/image/storage.c.s
+.PHONY : my_app/ebook/img/image/storage.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/storage.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/storage.c.s
+.PHONY : my_app/ebook/img/image/storage.c.s
 
 my_app/ebook/img/image/txt.obj: my_app/ebook/img/image/txt.c.obj
 .PHONY : my_app/ebook/img/image/txt.obj
@@ -9262,9 +9454,33 @@ help:
 	@echo ... my_app/ebook/img/image/QRCode.obj
 	@echo ... my_app/ebook/img/image/QRCode.i
 	@echo ... my_app/ebook/img/image/QRCode.s
+	@echo ... my_app/ebook/img/image/about.obj
+	@echo ... my_app/ebook/img/image/about.i
+	@echo ... my_app/ebook/img/image/about.s
+	@echo ... my_app/ebook/img/image/de_about.obj
+	@echo ... my_app/ebook/img/image/de_about.i
+	@echo ... my_app/ebook/img/image/de_about.s
+	@echo ... my_app/ebook/img/image/de_factory.obj
+	@echo ... my_app/ebook/img/image/de_factory.i
+	@echo ... my_app/ebook/img/image/de_factory.s
+	@echo ... my_app/ebook/img/image/de_lockscreen.obj
+	@echo ... my_app/ebook/img/image/de_lockscreen.i
+	@echo ... my_app/ebook/img/image/de_lockscreen.s
+	@echo ... my_app/ebook/img/image/de_storage.obj
+	@echo ... my_app/ebook/img/image/de_storage.i
+	@echo ... my_app/ebook/img/image/de_storage.s
+	@echo ... my_app/ebook/img/image/factory.obj
+	@echo ... my_app/ebook/img/image/factory.i
+	@echo ... my_app/ebook/img/image/factory.s
+	@echo ... my_app/ebook/img/image/lockscreen.obj
+	@echo ... my_app/ebook/img/image/lockscreen.i
+	@echo ... my_app/ebook/img/image/lockscreen.s
 	@echo ... my_app/ebook/img/image/picture.obj
 	@echo ... my_app/ebook/img/image/picture.i
 	@echo ... my_app/ebook/img/image/picture.s
+	@echo ... my_app/ebook/img/image/storage.obj
+	@echo ... my_app/ebook/img/image/storage.i
+	@echo ... my_app/ebook/img/image/storage.s
 	@echo ... my_app/ebook/img/image/txt.obj
 	@echo ... my_app/ebook/img/image/txt.i
 	@echo ... my_app/ebook/img/image/txt.s

@@ -474,7 +474,15 @@
 				606,
 				607,
 				608,
-				609
+				609,
+				610,
+				611,
+				612,
+				613,
+				614,
+				615,
+				616,
+				617
 			]
 		}
 	],
@@ -860,7 +868,15 @@
 				606,
 				607,
 				608,
-				609
+				609,
+				610,
+				611,
+				612,
+				613,
+				614,
+				615,
+				616,
+				617
 			]
 		},
 		{
@@ -4295,7 +4311,55 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+			"path" : "my_app/ebook/img/image/about.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "my_app/ebook/img/image/de_about.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "my_app/ebook/img/image/de_factory.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "my_app/ebook/img/image/de_lockscreen.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "my_app/ebook/img/image/de_storage.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "my_app/ebook/img/image/factory.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "my_app/ebook/img/image/lockscreen.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
 			"path" : "my_app/ebook/img/image/picture.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "my_app/ebook/img/image/storage.c",
 			"sourceGroupIndex" : 0
 		},
 		{

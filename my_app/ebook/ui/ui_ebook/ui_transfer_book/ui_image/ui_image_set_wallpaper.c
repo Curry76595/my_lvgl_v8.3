@@ -2,8 +2,7 @@
 
 lv_obj_t *set_wallpaper_container[2];//确认按钮容器
 char *set_wallpaper_confirm_text[2] = {"否", "是"};
-
-
+char *set_Eng_wallpaper_confirm_text[2] = {"No", "Yes"};
 
 /************************************************ui界面设计细节************************************************/
 /**
@@ -120,9 +119,14 @@ void ui_image_set_wallpaper_init(void){
 
     //2.创建删除提示语
     lv_obj_t *set_wallpaper_cue = lv_label_create(pop_up);
-    lv_label_set_text(set_wallpaper_cue, "要把当前图设为壁纸?");
+    if(English_version){
+        lv_label_set_text(set_wallpaper_cue, "  Set the current\nphoto as wallpaper?");
+        lv_obj_set_style_text_letter_space(set_wallpaper_cue,0, LV_PART_MAIN);
+    }else{
+        lv_label_set_text(set_wallpaper_cue, "要把当前图设为壁纸?");
+        lv_obj_set_style_text_letter_space(set_wallpaper_cue,1, LV_PART_MAIN);
+    }
     lv_obj_set_style_text_font(set_wallpaper_cue,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(set_wallpaper_cue,1, LV_PART_MAIN);
     lv_obj_align(set_wallpaper_cue, LV_ALIGN_TOP_MID, 0, 5);
     
     //3.创建一个焦点组
@@ -141,7 +145,11 @@ void ui_image_set_wallpaper_init(void){
         lv_obj_align(set_wallpaper_container[i], LV_ALIGN_TOP_MID, -38+i*80, 50);
         //创建按钮容器里的标签
         lv_obj_t *label_text = lv_label_create(set_wallpaper_container[i]);
-        lv_label_set_text(label_text, set_wallpaper_confirm_text[i]);
+        if(English_version){
+            lv_label_set_text(label_text, set_Eng_wallpaper_confirm_text[i]);
+        }else{
+            lv_label_set_text(label_text, set_wallpaper_confirm_text[i]);
+        }
         lv_obj_set_style_text_font(label_text,&Chinese_font_16,LV_STATE_DEFAULT);
         lv_obj_center(label_text);
         
@@ -164,7 +172,11 @@ void ui_image_set_wallpaper_init(void){
 
     //7.创建设置成功提示语
     lv_obj_t *set_wallpaper_cue_success = lv_label_create(pop_up_wallpaper_success);
-    lv_label_set_text(set_wallpaper_cue_success, "壁纸设置成功");
+    if(English_version){
+        lv_label_set_text(set_wallpaper_cue_success, "Wallpaper set\nsuccessfully");
+    }else{
+        lv_label_set_text(set_wallpaper_cue_success, "壁纸设置成功");
+    }
     lv_obj_set_style_text_font(set_wallpaper_cue_success,&Chinese_font_16,LV_STATE_DEFAULT);
     lv_obj_set_style_text_letter_space(set_wallpaper_cue_success,2, LV_PART_MAIN);
     lv_obj_set_style_text_color(set_wallpaper_cue_success, lv_color_white(), LV_PART_MAIN);

@@ -111,12 +111,20 @@ void ui_setting_factory_start_recover_init(void){
     lv_obj_set_style_border_width(start_recover_container, 1, LV_PART_MAIN);
     lv_obj_set_style_border_color(start_recover_container, lv_color_black(), LV_PART_MAIN);
     lv_obj_set_style_radius(start_recover_container, 10, LV_PART_MAIN);
-    lv_obj_align(start_recover_container, LV_ALIGN_TOP_MID, 0, 80);
+    lv_obj_align(start_recover_container, LV_ALIGN_TOP_MID, -5, 80);
     //创建开始恢复容器里的标签
     lv_obj_t *label_text = lv_label_create(start_recover_container);
-    lv_label_set_text(label_text, "开始恢复");
+    if(English_version){
+        lv_obj_set_size(start_recover_container, 160, 32);
+        lv_label_set_text(label_text, "Begin factory reset");
+        lv_obj_set_style_text_letter_space(label_text,0.8, LV_PART_MAIN);
+    }
+    else{
+        lv_label_set_text(label_text, "开始恢复");
+        lv_obj_set_style_text_letter_space(label_text,2, LV_PART_MAIN);
+    }
+    
     lv_obj_set_style_text_font(label_text,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(label_text,2, LV_PART_MAIN);
     lv_obj_center(label_text);
    
     //创建开始恢复容器的焦点组
@@ -128,11 +136,16 @@ void ui_setting_factory_start_recover_init(void){
 
     //创建提示语
     lv_obj_t *ui_tipLabel = lv_label_create(obj_son_0);
-    lv_label_set_text(ui_tipLabel, "温馨提示:\n操作后会恢复到出厂\n前配置,个人使用记录\n将会丢失,须谨慎!");
+    if(English_version){
+        lv_label_set_text(ui_tipLabel, "This operation will\nrestore the device to\nits factory settings.\nPersonal usage\nrecords will be lost.\nProceed with caution!");
+        lv_obj_set_style_text_letter_space(ui_tipLabel,0, LV_PART_MAIN);
+    }else{
+        lv_label_set_text(ui_tipLabel, "温馨提示:\n操作后会恢复到出厂\n前配置,个人使用记录\n将会丢失,须谨慎!");
+        lv_obj_set_style_text_letter_space(ui_tipLabel,1, LV_PART_MAIN);
+    }
     lv_obj_set_style_text_font(ui_tipLabel,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(ui_tipLabel,1, LV_PART_MAIN);
     lv_obj_set_style_text_line_space(ui_tipLabel, 6, LV_PART_MAIN);
-    lv_obj_align(ui_tipLabel, LV_ALIGN_TOP_MID, -6, 170);
+    lv_obj_align(ui_tipLabel, LV_ALIGN_TOP_MID, -6, 160);
 
 }
 

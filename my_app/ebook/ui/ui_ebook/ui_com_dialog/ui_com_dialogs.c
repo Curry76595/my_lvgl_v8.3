@@ -211,7 +211,7 @@ void ui_com_dialogs_init(void)
     lv_obj_set_style_text_line_space(ui_dialog_title, 10, LV_PART_MAIN);
     lv_obj_set_style_text_color(ui_dialog_title, lv_color_black(), LV_PART_MAIN);
     char str[128] = "红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3红楼梦3";
-    lv_label_set_text_fmt(ui_dialog_title, "嗨,侦测到图书\n%.50s...\n从你手机飞奔过来,\n已完成",str);
+    lv_label_set_text_fmt(ui_dialog_title, "\nUpgrading...\nPlease wait for\n2-5 minutes...");
     lv_obj_set_style_text_align(ui_dialog_title, LV_TEXT_ALIGN_CENTER, LV_PART_MAIN);
 
     //创建一个对话框确认容器
@@ -228,7 +228,7 @@ void ui_com_dialogs_init(void)
         lv_obj_add_flag(confirm_btn[i], LV_OBJ_FLAG_CLICKABLE);
         lv_obj_set_size(confirm_btn[i], 35, 30);
         lv_obj_align(confirm_btn[i], LV_ALIGN_LEFT_MID, 15+60*i, 0);
-        lv_obj_set_style_border_color(confirm_btn[i], lv_color_black(), LV_PART_MAIN);
+        lv_obj_set_style_border_color(confirm_btn[i], lv_color_white(), LV_PART_MAIN);
         lv_obj_set_style_border_width(confirm_btn[i], 1, LV_PART_MAIN);
         lv_obj_set_style_radius(confirm_btn[i], 5, LV_PART_MAIN);
 
@@ -255,13 +255,17 @@ void ui_com_dialogs_init(void)
     //创建知道选项标签
     lv_obj_t *know_label = lv_label_create(ui_know_btn);
     lv_obj_center(know_label);
-    lv_label_set_text(know_label, "知道啦");
+    if(English_version){
+        lv_label_set_text(know_label, "OK");
+    }else{
+        lv_label_set_text(know_label, "知道啦");
+    }
     lv_obj_set_style_text_font(know_label, &Chinese_font_16, LV_STATE_DEFAULT);
     lv_obj_set_style_text_color(know_label, lv_color_black(), LV_PART_MAIN);
     //设置组和回调函数
     ui_set_com_dialog_group(dialog_group,ui_know_btn,2);
 
-    select_confirm_content(1,true);
+    select_confirm_content(2,true);
 }
 
 

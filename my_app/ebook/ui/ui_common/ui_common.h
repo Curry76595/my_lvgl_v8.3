@@ -4,7 +4,7 @@
 
 #include "lvgl/lvgl.h"
 
-#define English_version  1 // 1 英文； 0 中文
+#define English_version  0 // 1 英文； 0 中文
 extern lv_indev_t *indev_keypad;
 LV_FONT_DECLARE(lv_font_CN_ExtraLight_20)
 LV_FONT_DECLARE(lv_font_unifont_16)
@@ -37,6 +37,14 @@ LV_IMG_DECLARE(BMP);
 LV_IMG_DECLARE(txt);
 LV_IMG_DECLARE(picture);
 LV_IMG_DECLARE(QRCode);
+LV_IMG_DECLARE(de_about);
+LV_IMG_DECLARE(about);
+LV_IMG_DECLARE(de_lockscreen);
+LV_IMG_DECLARE(lockscreen);
+LV_IMG_DECLARE(de_storage);
+LV_IMG_DECLARE(storage);
+LV_IMG_DECLARE(de_factory);
+LV_IMG_DECLARE(factory);
 #if 0
 #define     Chinese_font_16         lv_font_unifont_16
 #define     Chinese_font_20         lv_font_CN_ExtraLight_20

@@ -3,7 +3,7 @@
 /***************************************申明变量*********************************/
 lv_obj_t *start_confirm_container[2];
 char *start_confirm_text[2] = {"否", "是"};
-
+char *Eng_start_confirm_text[2] = {"No", "Yes"};
 
 /************************************************ui界面设计细节************************************************/
 /**
@@ -115,10 +115,16 @@ void ui_setting_factory_recover_confirm_init(void){
     
     //创建确认恢复提示语
     lv_obj_t *ui_confirm_tipLabel = lv_label_create(obj_son_1);
-    lv_label_set_text(ui_confirm_tipLabel, "确定要操作恢复出厂?");
+    if(English_version){
+        lv_label_set_text(ui_confirm_tipLabel, "  Confirm whether\nto restore factory\n  settings?");
+        lv_obj_align(ui_confirm_tipLabel, LV_ALIGN_TOP_MID, -6, 40);
+    }else{
+        lv_label_set_text(ui_confirm_tipLabel, "确定要操作恢复出厂?");
+        lv_obj_align(ui_confirm_tipLabel, LV_ALIGN_TOP_MID, -6, 70);
+    }
     lv_obj_set_style_text_font(ui_confirm_tipLabel,&Chinese_font_16,LV_STATE_DEFAULT);
     lv_obj_set_style_text_letter_space(ui_confirm_tipLabel,1, LV_PART_MAIN);
-    lv_obj_align(ui_confirm_tipLabel, LV_ALIGN_TOP_MID, -6, 70);
+    
 
     //创建确认焦点组
     ui_setting_display->ui_factory_recover_confirm_group = lv_group_create();
@@ -136,7 +142,11 @@ void ui_setting_factory_recover_confirm_init(void){
         lv_obj_align(start_confirm_container[i], LV_ALIGN_TOP_MID, -35+i*60, 110);
         //创建开始恢复容器里的标签
         lv_obj_t *label_text = lv_label_create(start_confirm_container[i]);
-        lv_label_set_text(label_text, start_confirm_text[i]);
+        if(English_version){
+            lv_label_set_text(label_text, Eng_start_confirm_text[i]);
+        }else{
+            lv_label_set_text(label_text, start_confirm_text[i]);
+        }
         lv_obj_set_style_text_font(label_text,&Chinese_font_16,LV_STATE_DEFAULT);
         lv_obj_center(label_text);
         
@@ -146,11 +156,16 @@ void ui_setting_factory_recover_confirm_init(void){
 
     //创建提示语
     lv_obj_t *ui_tipLabel = lv_label_create(obj_son_1);
-    lv_label_set_text(ui_tipLabel, "温馨提示:\n操作后会恢复到出厂\n前配置,个人使用记录\n将会丢失,须谨慎!");
+    if(English_version){
+        lv_label_set_text(ui_tipLabel, "This operation will\nrestore the device to\nits factory settings.\nPersonal usage\nrecords will be lost.\nProceed with caution!");
+        lv_obj_set_style_text_letter_space(ui_tipLabel,0, LV_PART_MAIN);
+    }else{
+        lv_label_set_text(ui_tipLabel, "温馨提示:\n操作后会恢复到出厂\n前配置,个人使用记录\n将会丢失,须谨慎!");
+        lv_obj_set_style_text_letter_space(ui_tipLabel,1, LV_PART_MAIN);
+    }
     lv_obj_set_style_text_font(ui_tipLabel,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(ui_tipLabel,1, LV_PART_MAIN);
     lv_obj_set_style_text_line_space(ui_tipLabel, 6, LV_PART_MAIN);
-    lv_obj_align(ui_tipLabel, LV_ALIGN_TOP_MID, -6, 170);
+    lv_obj_align(ui_tipLabel, LV_ALIGN_TOP_MID, -6, 160);
 
     //默认聚焦【否】
     lv_group_focus_obj(start_confirm_container[0]);

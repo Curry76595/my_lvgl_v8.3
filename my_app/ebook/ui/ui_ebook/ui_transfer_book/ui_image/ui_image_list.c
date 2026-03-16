@@ -207,9 +207,14 @@ void ui_image_list_init(void){
     lv_obj_set_style_border_color(ui_image_title_container, lv_color_white(), LV_PART_MAIN);
 
     lv_label_t *ui_image_title_prefix = lv_label_create(ui_image_title_container);
-    lv_label_set_text(ui_image_title_prefix, "我的传图");
+    if(English_version){
+        lv_label_set_text(ui_image_title_prefix, "Transfer My Photo");
+        lv_obj_set_style_text_letter_space(ui_image_title_prefix,1, LV_PART_MAIN);
+    }else{
+        lv_label_set_text(ui_image_title_prefix, "我的传图");
+        lv_obj_set_style_text_letter_space(ui_image_title_prefix,2, LV_PART_MAIN);
+    }
     lv_obj_set_style_text_font(ui_image_title_prefix,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(ui_image_title_prefix,2, LV_PART_MAIN);
     lv_obj_align(ui_image_title_prefix, LV_ALIGN_LEFT_MID, -10, 0);
 
     snprintf(text_buf, sizeof(text_buf), "%d/%d", current_page, total_page);

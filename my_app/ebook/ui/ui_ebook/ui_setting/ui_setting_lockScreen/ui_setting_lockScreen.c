@@ -11,6 +11,14 @@ static const char *lockScreen_time_options[UI_LOCKSCREEN_TIME_OPTION_NUM] = {
     "自动关闭"
 };
 
+static const char *Eng_lockScreen_time_options[UI_LOCKSCREEN_TIME_OPTION_NUM] = {
+    "5 min",
+    "20 min",
+    "35 min",
+    "Disable"
+};
+
+
 static int lock_time_selected_obj = 3; 
 int exit_flag = 0;
 
@@ -183,9 +191,14 @@ int get_lock_screen_exit_flag(void){
 void ui_setting_lockScreen_init(void){
     //1.标题
     lv_obj_t *ui_titleLabel = lv_label_create(ui_setting_display->lockScreen);
-    lv_label_set_text(ui_titleLabel, "待机后自动关机时长");
+    if(English_version){
+        lv_label_set_text(ui_titleLabel, "Time until automatic\n  shut-off during");
+         lv_obj_set_style_text_letter_space(ui_titleLabel,0.8, LV_PART_MAIN);
+    }else{
+        lv_label_set_text(ui_titleLabel, "待机后自动关机时长");
+        lv_obj_set_style_text_letter_space(ui_titleLabel,1, LV_PART_MAIN);
+    }
     lv_obj_set_style_text_font(ui_titleLabel,&Chinese_font_16,LV_STATE_DEFAULT);
-    lv_obj_set_style_text_letter_space(ui_titleLabel,1, LV_PART_MAIN);
     lv_obj_align(ui_titleLabel, LV_ALIGN_TOP_MID, -3, 20);
    
     //2.创建一个存放选项的容器
@@ -209,7 +222,11 @@ void ui_setting_lockScreen_init(void){
         lv_obj_set_style_radius(lockTimeOption[i], 10, LV_PART_MAIN);
         //4.2创建标签
         lv_obj_t *lockTimeLabel = lv_label_create(lockTimeOption[i]);
-        lv_label_set_text(lockTimeLabel, lockScreen_time_options[i]);
+        if(English_version){
+            lv_label_set_text(lockTimeLabel, Eng_lockScreen_time_options[i]);
+        }else{
+            lv_label_set_text(lockTimeLabel, lockScreen_time_options[i]);
+        }
         lv_obj_set_style_text_font(lockTimeLabel,&Chinese_font_16,LV_STATE_DEFAULT);
         lv_obj_set_style_text_letter_space(lockTimeLabel,1, LV_PART_MAIN);
         lv_obj_align(lockTimeLabel, LV_ALIGN_CENTER, 0, 0);

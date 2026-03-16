@@ -6,6 +6,7 @@
 ui_transfer_book_t *ui_transfer_book_list;
 lv_obj_t *ui_transfer_title;
 char *ui_transfer_menu_name[UI_TRANSFER_MENU_NUM] = {"传书操作说明","自带预览图片","我的传图"};
+char *ui_Eng_transfer_menu_name[UI_TRANSFER_MENU_NUM] = {"Transfer Instructions","Built-in Photo","Transfer My Photo"};
 lv_obj_t *ui_transfer_menu_container[UI_TRANSFER_MENU_NUM];//创建菜单容器
 
 /***********************************************内存申请*******************************/
@@ -148,7 +149,11 @@ static void ui_transfer_book_main_init(void){
 
     //创建标题-显示标签
     ui_transfer_title = lv_label_create(ui_transfer_book_list->main_page);
-    lv_label_set_text(ui_transfer_title, "传书");
+    if(English_version){
+        lv_label_set_text(ui_transfer_title, "Transfer");
+    }else{
+        lv_label_set_text(ui_transfer_title, "传书");
+    }
     lv_obj_set_style_text_font(ui_transfer_title,&Chinese_font_16,LV_STATE_DEFAULT);
     lv_obj_set_style_text_letter_space(ui_transfer_title,2, LV_PART_MAIN);
     lv_obj_align(ui_transfer_title, LV_ALIGN_TOP_LEFT, 10, -8);
@@ -196,9 +201,14 @@ static void ui_transfer_book_main_init(void){
         lv_obj_align(image_name_img, LV_ALIGN_LEFT_MID, 0, 0);
         //创建图片显示的文本
         lv_obj_t *image_name_label = lv_label_create(ui_transfer_menu_container[i]);
-        lv_label_set_text(image_name_label, ui_transfer_menu_name[i]);
+        if(English_version){
+             lv_label_set_text(image_name_label, ui_Eng_transfer_menu_name[i]);
+             lv_obj_set_style_text_letter_space(image_name_label,0, LV_PART_MAIN);
+        }else{
+            lv_label_set_text(image_name_label, ui_transfer_menu_name[i]);
+            lv_obj_set_style_text_letter_space(image_name_label,2, LV_PART_MAIN);
+        }
         lv_obj_set_style_text_font(image_name_label,&Chinese_font_16,LV_STATE_DEFAULT);
-        lv_obj_set_style_text_letter_space(image_name_label,2, LV_PART_MAIN);
         lv_obj_align_to(image_name_label, image_name_img,LV_ALIGN_OUT_RIGHT_MID, 10, 0);
 
         //添加到焦点组
@@ -207,6 +217,28 @@ static void ui_transfer_book_main_init(void){
 
     lv_group_focus_obj(ui_transfer_menu_container[0]);
 
+    //暂无文件弹窗提示
+    ui_transfer_book_list->pop_up_cue = lv_obj_create(display_menu_container);
+    lv_obj_clear_flag(ui_transfer_book_list->pop_up_cue, LV_OBJ_FLAG_SCROLLABLE);
+    lv_obj_set_size(ui_transfer_book_list->pop_up_cue, 118, 38);
+    lv_obj_set_style_border_color(ui_transfer_book_list->pop_up_cue, lv_color_black(), LV_PART_MAIN);
+    lv_obj_set_style_bg_color(ui_transfer_book_list->pop_up_cue, lv_color_black(), LV_PART_MAIN);
+    lv_obj_set_style_text_color(ui_transfer_book_list->pop_up_cue, lv_color_white(), LV_PART_MAIN);
+    lv_obj_align_to(ui_transfer_book_list->pop_up_cue, display_menu_container,LV_ALIGN_TOP_MID, 0, 70);
+    lv_obj_set_style_border_width(ui_transfer_book_list->pop_up_cue, 1, LV_PART_MAIN);
+    lv_obj_set_style_radius(ui_transfer_book_list->pop_up_cue, 10, LV_PART_MAIN);
+
+    lv_obj_t *cue_label = lv_label_create(ui_transfer_book_list->pop_up_cue);
+   
+    if(English_version){
+        lv_label_set_text(cue_label, "No images");
+    }else{
+        lv_label_set_text(cue_label, "暂无文件");
+    }
+    lv_obj_set_style_text_font(cue_label,&Chinese_font_16,LV_STATE_DEFAULT);
+    lv_obj_set_style_text_letter_space(cue_label,2, LV_PART_MAIN);
+    lv_obj_align(cue_label, LV_ALIGN_CENTER, 0, 0);
+    // lv_obj_add_flag(ui_transfer_book_list->pop_up_cue, LV_OBJ_FLAG_HIDDEN);
 }
 
 /*************************************************APP 状态机调用函数*********************************************/
@@ -228,6 +260,10 @@ void app_ui_transfer_book_main_deinit(void){
         if(ui_transfer_book_list->main_group != NULL){
             lv_group_del(ui_transfer_book_list->main_group);
             ui_transfer_book_list->main_group = NULL;
+        }
+        if(ui_transfer_book_list->pop_up_cue != NULL){
+            lv_obj_del(ui_transfer_book_list->pop_up_cue);
+            ui_transfer_book_list->pop_up_cue = NULL;
         }
         if(ui_transfer_book_list->main_page != NULL){
             lv_obj_del(ui_transfer_book_list->main_page);
