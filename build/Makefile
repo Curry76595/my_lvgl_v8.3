@@ -8493,6 +8493,30 @@ my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s
 .PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s
 
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.i
+
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.s
+
 my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj
 .PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.obj
 
@@ -9595,6 +9619,9 @@ help:
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.s
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.s

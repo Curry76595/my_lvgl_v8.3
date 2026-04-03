@@ -4,7 +4,7 @@
 
 #include "lvgl/lvgl.h"
 
-#define English_version  0 // 1 英文； 0 中文
+#define English_version  1 // 1 英文； 0 中文
 extern lv_indev_t *indev_keypad;
 LV_FONT_DECLARE(lv_font_CN_ExtraLight_20)
 LV_FONT_DECLARE(lv_font_unifont_16)

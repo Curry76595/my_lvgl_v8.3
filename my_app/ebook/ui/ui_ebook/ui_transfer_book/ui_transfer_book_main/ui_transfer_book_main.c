@@ -90,7 +90,11 @@ static void ui_transfer_key_event_cb(lv_event_t *e){
             case LV_KEY_ENTER:
                 switch(user_data){
                     case 0:
-                    ui_operation_notice_init();
+                    if(English_version){
+                        ui_en_operation_notice_init();
+                    }else{
+                        ui_operation_notice_init();
+                    }
                     break;
                     case 2:
                     ui_image_main_init();

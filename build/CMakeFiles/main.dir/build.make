@@ -5291,11 +5291,26 @@ CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s"
 	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_image\ui_image_set_wallpaper.c -o CMakeFiles\main.dir\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_image\ui_image_set_wallpaper.c.s
 
+CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c
+CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\CJB_Work\myLVGL\my_lvgl_v8.3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_349) "Building C object CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj"
+	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj -MF CMakeFiles\main.dir\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_operation_notice\ui_en_operation_notice.c.obj.d -o CMakeFiles\main.dir\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_operation_notice\ui_en_operation_notice.c.obj -c D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_operation_notice\ui_en_operation_notice.c
+
+CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.i"
+	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_operation_notice\ui_en_operation_notice.c > CMakeFiles\main.dir\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_operation_notice\ui_en_operation_notice.c.i
+
+CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.s"
+	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_operation_notice\ui_en_operation_notice.c -o CMakeFiles\main.dir\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_operation_notice\ui_en_operation_notice.c.s
+
 CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c
 CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\CJB_Work\myLVGL\my_lvgl_v8.3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_349) "Building C object CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\CJB_Work\myLVGL\my_lvgl_v8.3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_350) "Building C object CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj"
 	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj -MF CMakeFiles\main.dir\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_operation_notice\ui_operation_notice.c.obj.d -o CMakeFiles\main.dir\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_operation_notice\ui_operation_notice.c.obj -c D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_operation_notice\ui_operation_notice.c
 
 CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.i: cmake_force
@@ -5310,7 +5325,7 @@ CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_m
 CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c
 CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\CJB_Work\myLVGL\my_lvgl_v8.3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_350) "Building C object CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\CJB_Work\myLVGL\my_lvgl_v8.3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_351) "Building C object CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj"
 	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj -MF CMakeFiles\main.dir\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_transfer_book_main\ui_transfer_book_main.c.obj.d -o CMakeFiles\main.dir\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_transfer_book_main\ui_transfer_book_main.c.obj -c D:\CJB_Work\myLVGL\my_lvgl_v8.3\my_app\ebook\ui\ui_ebook\ui_transfer_book\ui_transfer_book_main\ui_transfer_book_main.c
 
 CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.i: cmake_force
@@ -5671,6 +5686,7 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj" \
 "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj" \
 "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj" \
+"CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj" \
 "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj" \
 "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj"
 
@@ -6025,13 +6041,14 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/bin/main.exe: CMakeFiles/main.dir/my_app/ebook/u
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/bin/main.exe: CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/bin/main.exe: CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/bin/main.exe: CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/bin/main.exe: CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/bin/main.exe: CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/bin/main.exe: CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/bin/main.exe: CMakeFiles/main.dir/build.make
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/bin/main.exe: CMakeFiles/main.dir/linkLibs.rsp
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/bin/main.exe: CMakeFiles/main.dir/objects1.rsp
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/bin/main.exe: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\CJB_Work\myLVGL\my_lvgl_v8.3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_351) "Linking C executable D:\CJB_Work\myLVGL\my_lvgl_v8.3\bin\main.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\CJB_Work\myLVGL\my_lvgl_v8.3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_352) "Linking C executable D:\CJB_Work\myLVGL\my_lvgl_v8.3\bin\main.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\main.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

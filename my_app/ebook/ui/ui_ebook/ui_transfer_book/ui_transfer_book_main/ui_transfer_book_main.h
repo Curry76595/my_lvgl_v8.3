@@ -9,6 +9,7 @@
 #include <string.h>
 #include "ui_ebook/ui_transfer_book/ui_image/ui_image_main.h"
 #include "ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.h"
+#include "ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.h"
 typedef struct ui_transfer_book_ts{
     lv_obj_t *main_page;//主页面
     lv_obj_t *pop_up_cue;//弹窗提示

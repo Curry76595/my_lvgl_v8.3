@@ -57,7 +57,7 @@ add_executable(main
 add_compile_definitions(LV_CONF_INCLUDE_SIMPLE)
   
 #链接sdl2库       
-target_link_libraries(main PRIVATE SDL2 )
+target_link_libraries(main PRIVATE SDL2 )  
 
 #添加运行目标
 add_custom_target (run COMMAND ${EXECUTABLE_OUTPUT_PATH}/main)

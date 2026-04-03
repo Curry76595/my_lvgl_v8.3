@@ -695,6 +695,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj.d"
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj"
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj.d"
+  "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj"
+  "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj.d"
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj"
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj.d"
   "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj"
