@@ -1,11 +1,11 @@
 #include "ui_transfer_book_main.h"
 #define UI_TRANSFER_BOOK_MAIN_LVGL_SWITCH 1
 /*********************************************申明变量******************************************************/
-#define UI_TRANSFER_MENU_NUM 3
+#define UI_TRANSFER_MENU_NUM 4
 
 ui_transfer_book_t *ui_transfer_book_list;
 lv_obj_t *ui_transfer_title;
-char *ui_transfer_menu_name[UI_TRANSFER_MENU_NUM] = {"传书操作说明","自带预览图片","我的传图"};
+char *ui_transfer_menu_name[UI_TRANSFER_MENU_NUM] = {"传书操作说明","云同步下载列表","自带预览图片","我的传图"};
 char *ui_Eng_transfer_menu_name[UI_TRANSFER_MENU_NUM] = {"Transfer Instructions","Built-in Photo","Transfer My Photo"};
 lv_obj_t *ui_transfer_menu_container[UI_TRANSFER_MENU_NUM];//创建菜单容器
 
@@ -96,8 +96,13 @@ static void ui_transfer_key_event_cb(lv_event_t *e){
                         ui_operation_notice_init();
                     }
                     break;
+                    case 1:
+                        ui_clound_sync_init();
+                    break;
                     case 2:
-                    ui_image_main_init();
+                    break;
+                    case 3:
+                        ui_image_main_init();
                     break;
                 }
                 break;
