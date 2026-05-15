@@ -45,6 +45,8 @@ LV_IMG_DECLARE(de_storage);
 LV_IMG_DECLARE(storage);
 LV_IMG_DECLARE(de_factory);
 LV_IMG_DECLARE(factory);
+LV_IMG_DECLARE(wifi_icon);
+LV_IMG_DECLARE(JPG);
 #if 0
 #define     Chinese_font_16         lv_font_unifont_16
 #define     Chinese_font_20         lv_font_CN_ExtraLight_20

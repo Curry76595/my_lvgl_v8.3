@@ -58,10 +58,11 @@ static void hal_init(void);
  *  STATIC PROTOTYPES
  **********************/
 /****my_appDefine********* */
-#define UI_SETTING_MAIN_H 0
+#define UI_SETTING_MAIN_H 1
 #define UI_EBOOK_AUTO    0
-#define UI_TRANSFER_BOOK_MAIN_H 1
+#define UI_TRANSFER_BOOK_MAIN_H 0
 #define UI_COM_DIALOG_MAIN_H 0
+#define UI_FACTORY_MAIN_H   0
 /************************* */
 
 /**********************
@@ -112,6 +113,9 @@ int main(int argc, char **argv)
 #elif UI_COM_DIALOG_MAIN_H
 #include "ui_ebook/ui_com_dialog/ui_com_dialogs.h"
       ui_com_dialogs_init();
+#elif UI_FACTORY_MAIN_H      
+#include "ui_ebook/ui_factory/ui_test_wifi.h"    
+      ui_factory_test_wifi_init();  
 #endif
 
   while(1) {

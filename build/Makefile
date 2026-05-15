@@ -7341,6 +7341,30 @@ my_app/ebook/img/image/BMP.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/BMP.c.s
 .PHONY : my_app/ebook/img/image/BMP.c.s
 
+my_app/ebook/img/image/JPG.obj: my_app/ebook/img/image/JPG.c.obj
+.PHONY : my_app/ebook/img/image/JPG.obj
+
+# target to build an object file
+my_app/ebook/img/image/JPG.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/JPG.c.obj
+.PHONY : my_app/ebook/img/image/JPG.c.obj
+
+my_app/ebook/img/image/JPG.i: my_app/ebook/img/image/JPG.c.i
+.PHONY : my_app/ebook/img/image/JPG.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/JPG.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/JPG.c.i
+.PHONY : my_app/ebook/img/image/JPG.c.i
+
+my_app/ebook/img/image/JPG.s: my_app/ebook/img/image/JPG.c.s
+.PHONY : my_app/ebook/img/image/JPG.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/JPG.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/JPG.c.s
+.PHONY : my_app/ebook/img/image/JPG.c.s
+
 my_app/ebook/img/image/QRCode.obj: my_app/ebook/img/image/QRCode.c.obj
 .PHONY : my_app/ebook/img/image/QRCode.obj
 
@@ -7604,6 +7628,30 @@ my_app/ebook/img/image/txt.s: my_app/ebook/img/image/txt.c.s
 my_app/ebook/img/image/txt.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/txt.c.s
 .PHONY : my_app/ebook/img/image/txt.c.s
+
+my_app/ebook/img/image/wifi_icon.obj: my_app/ebook/img/image/wifi_icon.c.obj
+.PHONY : my_app/ebook/img/image/wifi_icon.obj
+
+# target to build an object file
+my_app/ebook/img/image/wifi_icon.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/wifi_icon.c.obj
+.PHONY : my_app/ebook/img/image/wifi_icon.c.obj
+
+my_app/ebook/img/image/wifi_icon.i: my_app/ebook/img/image/wifi_icon.c.i
+.PHONY : my_app/ebook/img/image/wifi_icon.i
+
+# target to preprocess a source file
+my_app/ebook/img/image/wifi_icon.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/wifi_icon.c.i
+.PHONY : my_app/ebook/img/image/wifi_icon.c.i
+
+my_app/ebook/img/image/wifi_icon.s: my_app/ebook/img/image/wifi_icon.c.s
+.PHONY : my_app/ebook/img/image/wifi_icon.s
+
+# target to generate assembly for a file
+my_app/ebook/img/image/wifi_icon.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/wifi_icon.c.s
+.PHONY : my_app/ebook/img/image/wifi_icon.c.s
 
 my_app/ebook/img/img_file_list/icon_com_cursor.obj: my_app/ebook/img/img_file_list/icon_com_cursor.c.obj
 .PHONY : my_app/ebook/img/img_file_list/icon_com_cursor.obj
@@ -8109,6 +8157,30 @@ my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s
 .PHONY : my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s
 
+my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.obj: my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.i: my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.i
+
+my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.s: my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.s
+
 my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.obj
 .PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj
 
@@ -8373,29 +8445,29 @@ my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_su
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
 .PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
 
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.obj
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.obj
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj
 
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.i
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.i
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.i
 
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.s
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.s
+my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.s
 
 my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.obj
 .PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.obj
@@ -9499,6 +9571,9 @@ help:
 	@echo ... my_app/ebook/img/image/BMP.obj
 	@echo ... my_app/ebook/img/image/BMP.i
 	@echo ... my_app/ebook/img/image/BMP.s
+	@echo ... my_app/ebook/img/image/JPG.obj
+	@echo ... my_app/ebook/img/image/JPG.i
+	@echo ... my_app/ebook/img/image/JPG.s
 	@echo ... my_app/ebook/img/image/QRCode.obj
 	@echo ... my_app/ebook/img/image/QRCode.i
 	@echo ... my_app/ebook/img/image/QRCode.s
@@ -9532,6 +9607,9 @@ help:
 	@echo ... my_app/ebook/img/image/txt.obj
 	@echo ... my_app/ebook/img/image/txt.i
 	@echo ... my_app/ebook/img/image/txt.s
+	@echo ... my_app/ebook/img/image/wifi_icon.obj
+	@echo ... my_app/ebook/img/image/wifi_icon.i
+	@echo ... my_app/ebook/img/image/wifi_icon.s
 	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.obj
 	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.i
 	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.s
@@ -9595,6 +9673,9 @@ help:
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.s
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.s
@@ -9628,9 +9709,9 @@ help:
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.s
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.s

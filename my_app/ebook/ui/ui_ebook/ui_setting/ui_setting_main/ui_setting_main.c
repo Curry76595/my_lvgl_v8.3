@@ -4,15 +4,16 @@
 /***********************************************************申明变量*****************************************************/
 //创建菜单标题标签
 lv_obj_t *ui_title;
-#define UI_SETTING_MENU_NUM 4
+#define UI_SETTING_MENU_NUM 5
 //创建菜单列表
-char * ui_menuName[UI_SETTING_MENU_NUM] = {"锁屏","存储","出厂","关于"};
+char * ui_menuName[UI_SETTING_MENU_NUM] = {"锁屏","存储","出厂","关于","更新"};
 //创建标题文本内容
 char *ui_titleName[UI_SETTING_MENU_NUM] = {
     "设置-锁屏关机", 
     "设置-存储空间",
      "设置-恢复出厂",
-     "设置-关于"
+     "设置-关于",
+     "设置-固件更新",
 };
 char *ui_Eng_titleName[UI_SETTING_MENU_NUM] = {
     "Screen lock & Power off",
@@ -58,6 +59,7 @@ static void ui_setting_menu_content_select(int menu_index){
         lv_obj_add_flag(ui_setting_display->storage, LV_OBJ_FLAG_HIDDEN);
         lv_obj_add_flag(ui_setting_display->lockScreen, LV_OBJ_FLAG_HIDDEN);
         lv_obj_add_flag(ui_setting_display->factory, LV_OBJ_FLAG_HIDDEN);
+        lv_obj_add_flag(ui_setting_display->update, LV_OBJ_FLAG_HIDDEN);
         switch(menu_index){
             case 0:
                 lv_obj_clear_flag(ui_setting_display->lockScreen, LV_OBJ_FLAG_HIDDEN);
@@ -70,7 +72,10 @@ static void ui_setting_menu_content_select(int menu_index){
                 break;
             case 3:
                 lv_obj_clear_flag(ui_setting_display->about, LV_OBJ_FLAG_HIDDEN);
-                break;    
+                break;  
+            case 4:
+                lv_obj_clear_flag(ui_setting_display->update, LV_OBJ_FLAG_HIDDEN);
+                break;
             default:
                 break;    
         }
@@ -199,6 +204,9 @@ static void ui_setting_focus_event_cb(lv_event_t *e){
             break;
             case 3:
             ui_setting_menu_content_select(3);
+            break;
+            case 4:
+            ui_setting_menu_content_select(4);
             break;
         }
     }
@@ -364,6 +372,10 @@ static void ui_setting_main_init(void){
     ui_setting_display->factory = lv_obj_create(ui_container);
     lv_obj_set_size(ui_setting_display->factory, 190, 323);
     lv_obj_align(ui_setting_display->factory,LV_ALIGN_BOTTOM_RIGHT, 28, 15);
+    //9.5更新界面
+    ui_setting_display->update = lv_obj_create(ui_container);
+    lv_obj_set_size(ui_setting_display->update, 190, 323);
+    lv_obj_align(ui_setting_display->update,LV_ALIGN_BOTTOM_RIGHT, 28, 15);
    
     /***************************************************end********************************************************/
     

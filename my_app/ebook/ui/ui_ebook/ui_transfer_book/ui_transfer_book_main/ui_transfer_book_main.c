@@ -97,7 +97,7 @@ static void ui_transfer_key_event_cb(lv_event_t *e){
                     }
                     break;
                     case 1:
-                        ui_clound_sync_init();
+                        ui_cloud_sync_init();
                     break;
                     case 2:
                     break;
@@ -166,6 +166,20 @@ static void ui_transfer_book_main_init(void){
     lv_obj_set_style_text_font(ui_transfer_title,&Chinese_font_16,LV_STATE_DEFAULT);
     lv_obj_set_style_text_letter_space(ui_transfer_title,2, LV_PART_MAIN);
     lv_obj_align(ui_transfer_title, LV_ALIGN_TOP_LEFT, 10, -8);
+
+    //wifi图标容器
+    lv_obj_t *wifi_container = lv_obj_create(ui_transfer_book_list->main_page);
+    lv_obj_set_size(wifi_container, 25, 25);
+    lv_obj_align_to(wifi_container, ui_transfer_book_list->main_page, LV_ALIGN_TOP_RIGHT, 12, -8);
+    lv_obj_clear_flag(wifi_container, LV_OBJ_FLAG_SCROLLABLE);
+    lv_obj_set_style_border_color(wifi_container, lv_color_white(), LV_PART_MAIN);
+    lv_obj_set_style_border_width(wifi_container, 1, 0);
+    lv_obj_set_style_radius(wifi_container, 8, 0);
+
+    lv_obj_t *ui_wifi_img = lv_img_create(wifi_container);
+    lv_img_set_src(ui_wifi_img, &wifi_icon);
+    lv_obj_set_size(ui_wifi_img, wifi_icon.header.w, wifi_icon.header.h);
+    lv_obj_align(ui_wifi_img, LV_ALIGN_CENTER, 0, 0);
 
     //创建分割横线
     lv_obj_t *ui_title_line = lv_line_create(ui_transfer_book_list->main_page);

@@ -1,11 +1,3 @@
-/*
- * @Author: Curry
- * @Date: 2025-12-25 17:05:44
- * @LastEditors: Curry
- * @LastEditTime: 2025-12-27 09:05:48
- * @Description: 很好
- * @Version: 1.0.0
- */
 #include "ui_ebook_auto.h"
 #include "lv_drivers/sdl/sdl_common.h"
 #include "lvgl/lvgl.h"

@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "ui_ebook/ui_transfer_book/ui_image/ui_image_main.h"
-#include "ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.h"
+#include "ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h"
 #include "ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.h"
 #include "ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.h"
 typedef struct ui_transfer_book_ts{

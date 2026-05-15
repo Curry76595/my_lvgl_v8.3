@@ -1807,6 +1807,12 @@
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\JPG.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\JPG.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/JPG.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/JPG.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
   "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\QRCode.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\QRCode.c",
   "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/QRCode.c",
   "output": "CMakeFiles/main.dir/my_app/ebook/img/image/QRCode.c.obj"
@@ -1870,6 +1876,12 @@
   "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\txt.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\txt.c",
   "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/txt.c",
   "output": "CMakeFiles/main.dir/my_app/ebook/img/image/txt.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\wifi_icon.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\wifi_icon.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/wifi_icon.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/wifi_icon.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
@@ -1993,6 +2005,12 @@
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_factory\\ui_test_wifi.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_factory\\ui_test_wifi.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
   "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_about\\ui_setting_about.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_about\\ui_setting_about.c",
   "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c",
   "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.obj"
@@ -2059,9 +2077,9 @@
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_clound_sync\\ui_clound_sync.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_clound_sync\\ui_clound_sync.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c",
-  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_clound_sync.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_clound_sync\\ui_cloud_sync.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_clound_sync\\ui_cloud_sync.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",

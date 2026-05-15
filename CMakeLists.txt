@@ -60,8 +60,8 @@ add_compile_definitions(LV_CONF_INCLUDE_SIMPLE)
 target_link_libraries(main PRIVATE SDL2 )  
 
 #添加运行目标
-add_custom_target (run COMMAND ${EXECUTABLE_OUTPUT_PATH}/main)
+add_custom_target (run COMMAND ${EXECUTABLE_OUTPUT_PATH}/main) 
 
 #拷贝SDL2.dll文件到bin目录下
-file(COPY SDL2.dll DESTINATION ../bin)                                           
+file(COPY SDL2.dll DESTINATION ../bin)                                                 
                                             

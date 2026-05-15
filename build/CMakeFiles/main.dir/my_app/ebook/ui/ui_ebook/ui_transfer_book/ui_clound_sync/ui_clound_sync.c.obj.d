@@ -244,11 +244,6 @@ CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
- E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
- E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
- E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
- E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
- E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
