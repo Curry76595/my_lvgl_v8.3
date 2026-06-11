@@ -11,9 +11,9 @@ char * ui_menuName[UI_SETTING_MENU_NUM] = {"锁屏","存储","出厂","关于","
 char *ui_titleName[UI_SETTING_MENU_NUM] = {
     "设置-锁屏关机", 
     "设置-存储空间",
-     "设置-恢复出厂",
-     "设置-关于",
-     "设置-固件更新",
+    "设置-恢复出厂",
+    "设置-关于",
+    "设置-固件更新",
 };
 char *ui_Eng_titleName[UI_SETTING_MENU_NUM] = {
     "Screen lock & Power off",
@@ -30,6 +30,7 @@ static const lv_img_dsc_t *English_menu_option[UI_SETTING_MENU_NUM][2] = {
 
 ui_setting_display_t *ui_setting_display;
 lv_obj_t *ui_container;//创建一个霸屏容器
+lv_obj_t *setting_wifi_container;//wifi图标
 /***************************************************内存申请释放************************************************/
 //申请内存
 static void ui_setting_malloc(void){
@@ -249,7 +250,15 @@ static void ui_setting_menu_key_event_cb(lv_event_t *e){
                     case 2:
                         lv_indev_set_group(indev_keypad,ui_setting_display->ui_factory_start_recover_group);
                         lv_group_focus_obj(lv_obj_get_child(lv_obj_get_child(ui_setting_display->factory, 0),0));
-                        break;            
+                        break;   
+                    case 3:
+                        break;
+                    case 4:
+                        ui_setting_update.ui_last_group = lv_group_get_default();
+                        lv_group_set_default(ui_setting_display->ui_update_group);
+                        lv_indev_set_group(indev_keypad,lv_group_get_default());
+                        lv_group_focus_obj(ui_setting_update.ui_download_container);
+                        break;    
                     default:
                         break;    
                 }
@@ -319,6 +328,20 @@ static void ui_setting_main_init(void){
     
     lv_obj_set_style_text_font(ui_title,&Chinese_font_16,LV_STATE_DEFAULT);
     lv_obj_align(ui_title, LV_ALIGN_TOP_LEFT, 10, -8);
+
+    //wifi图标
+    setting_wifi_container = lv_obj_create(ui_container);
+    lv_obj_set_size(setting_wifi_container, 25, 25);
+    lv_obj_align_to(setting_wifi_container, ui_container, LV_ALIGN_TOP_RIGHT, 10, -8);
+    lv_obj_clear_flag(setting_wifi_container, LV_OBJ_FLAG_SCROLLABLE);
+    lv_obj_set_style_border_color(setting_wifi_container, lv_color_white(), LV_PART_MAIN);
+    lv_obj_set_style_border_width(setting_wifi_container, 1, 0);
+    lv_obj_set_style_radius(setting_wifi_container, 8, 0);
+
+    lv_obj_t *ui_wifi_img = lv_img_create(setting_wifi_container);
+    lv_img_set_src(ui_wifi_img, &wifi_icon);
+    lv_obj_set_size(ui_wifi_img, wifi_icon.header.w, wifi_icon.header.h);
+    lv_obj_align(ui_wifi_img, LV_ALIGN_CENTER, 0, 0);
     //5.创建分割横线
     lv_obj_t *ui_title_line = lv_line_create(ui_container);
     static lv_point_t title_line_points[] ={{0,20},{240,20}};
@@ -334,6 +357,7 @@ static void ui_setting_main_init(void){
     lv_obj_t *ui_menu_list_label[UI_SETTING_MENU_NUM];
     //7.1创建菜单聚焦组
     ui_setting_display->ui_menu_group = lv_group_create();
+    lv_group_set_default(ui_setting_display->ui_menu_group);
     lv_indev_set_group(indev_keypad,ui_setting_display->ui_menu_group);
     for(int i=0;i<UI_SETTING_MENU_NUM;i++){
         if(English_version){
@@ -384,6 +408,7 @@ static void ui_setting_main_init(void){
     ui_setting_storage_init();//存储
     ui_setting_lockScreen_init();//锁屏
     ui_setting_factory_main_init();//出厂
+    ui_setting_update_init();//更新
     /***************************************************end****************************************************/
     
     //默认展示第一个菜单【锁屏】

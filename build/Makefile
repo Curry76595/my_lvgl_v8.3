@@ -8445,6 +8445,30 @@ my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_su
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
 .PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
 
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.obj
+
+# target to build an object file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.obj
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.obj
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.i
+
+# target to preprocess a source file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.i
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.i
+
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.s
+
+# target to generate assembly for a file
+my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.s
+.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.s
+
 my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj
 .PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.obj
 
@@ -9709,6 +9733,9 @@ help:
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.s
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.obj
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.i
+	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.s
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.obj
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.i
 	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.s
