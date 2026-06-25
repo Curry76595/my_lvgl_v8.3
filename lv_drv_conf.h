@@ -95,8 +95,10 @@
 #endif
 
 #if USE_SDL || USE_SDL_GPU
-#  define SDL_HOR_RES     240
-#  define SDL_VER_RES     360
+//EBOOK: HOR_RES->240  VER_RES->360
+//R1: HOR_RES->528  VER_RES->792
+#  define SDL_HOR_RES     528
+#  define SDL_VER_RES     792
 
 /* Scale window by this factor (useful when simulating small screens) */
 #  define SDL_ZOOM        1

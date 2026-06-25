@@ -26761,7 +26761,7 @@ CMakeFiles/main.dir/mouse_cursor_icon.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/mou
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/font/lv_font_Bold_24.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_Bold_24.c \
+CMakeFiles/main.dir/my_app/R1/font/lv_font_Bold_24.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_Bold_24.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -26905,7 +26905,7 @@ CMakeFiles/main.dir/my_app/ebook/font/lv_font_Bold_24.c.obj: D:/CJB_Work/myLVGL/
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_20.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_CN_ExtraLight_20.c \
+CMakeFiles/main.dir/my_app/R1/font/lv_font_CN_ExtraLight_20.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_CN_ExtraLight_20.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -27049,7 +27049,7 @@ CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_20.c.obj: D:/CJB_Wor
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_24.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_CN_ExtraLight_24.c \
+CMakeFiles/main.dir/my_app/R1/font/lv_font_CN_ExtraLight_24.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_CN_ExtraLight_24.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -27193,7 +27193,7 @@ CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_24.c.obj: D:/CJB_Wor
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/font/lv_font_bczunicode_20.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_bczunicode_20.c \
+CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_30.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_aliPuHui_30.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -27337,7 +27337,7 @@ CMakeFiles/main.dir/my_app/ebook/font/lv_font_bczunicode_20.c.obj: D:/CJB_Work/m
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehans_gbk_20.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_sourcehans_gbk_20.c \
+CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_36.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_aliPuHui_36.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -27481,7 +27481,7 @@ CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehans_gbk_20.c.obj: D:/CJB_Wo
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c \
+CMakeFiles/main.dir/my_app/R1/font/lv_font_bczunicode_20.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_bczunicode_20.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -27625,7 +27625,7 @@ CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.obj: D
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/font/lv_font_unicode_gbk_24.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_unicode_gbk_24.c \
+CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehans_gbk_20.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_sourcehans_gbk_20.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -27769,7 +27769,7 @@ CMakeFiles/main.dir/my_app/ebook/font/lv_font_unicode_gbk_24.c.obj: D:/CJB_Work/
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/font/lv_font_unifont_16.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_unifont_16.c \
+CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_sourcehansanssc_medium_20.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -27913,7 +27913,7 @@ CMakeFiles/main.dir/my_app/ebook/font/lv_font_unifont_16.c.obj: D:/CJB_Work/myLV
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bat_5.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_bat_5.c \
+CMakeFiles/main.dir/my_app/R1/font/lv_font_unicode_gbk_24.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_unicode_gbk_24.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -28057,7 +28057,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bat_5.c.obj: D:/CJB_Wo
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bt.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_bt.c \
+CMakeFiles/main.dir/my_app/R1/font/lv_font_unifont_16.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_unifont_16.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -28201,7 +28201,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bt.c.obj: D:/CJB_Work/
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_charge.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_charge.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_bat_5.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_bat_5.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -28345,7 +28345,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_charge.c.obj: D:/CJB_W
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_earphone.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_earphone.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_bt.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_bt.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -28489,7 +28489,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_earphone.c.obj: D:/CJB
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_wifi.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_wifi.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_charge.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_charge.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -28633,7 +28633,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_wifi.c.obj: D:/CJB_Wor
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_ebook.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/img_desktop_ebook.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_earphone.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_earphone.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -28777,7 +28777,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_ebook.c.obj: D:/CJB_Wor
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_find_word.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/img_desktop_find_word.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_wifi.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_wifi.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -28921,7 +28921,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_find_word.c.obj: D:/CJB
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_setting.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/img_desktop_setting.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_ebook.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/img_desktop_ebook.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -29065,7 +29065,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_setting.c.obj: D:/CJB_W
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_bat_full.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_bat_full.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_find_word.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/img_desktop_find_word.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -29209,7 +29209,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_bat_full.c.obj: D:/CJB_W
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_ble_status.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_ble_status.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_setting.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/img_desktop_setting.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -29353,7 +29353,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_ble_status.c.obj: D:/CJB
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_charge_status.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_charge_status.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_bat_full.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_bat_full.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -29497,7 +29497,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_charge_status.c.obj: D:/
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_earphonr_status.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_earphonr_status.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_ble_status.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_ble_status.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -29641,7 +29641,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_earphonr_status.c.obj: D
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_wifi_status.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_wifi_status.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_charge_status.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_charge_status.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -29785,7 +29785,7 @@ CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_wifi_status.c.obj: D:/CJ
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/BMP.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/BMP.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_earphonr_status.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_earphonr_status.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -29929,7 +29929,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/BMP.c.obj: D:/CJB_Work/myLVGL/my_lvgl
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/JPG.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/JPG.c \
+CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_wifi_status.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_wifi_status.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -30073,7 +30073,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/JPG.c.obj: D:/CJB_Work/myLVGL/my_lvgl
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/QRCode.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/QRCode.c \
+CMakeFiles/main.dir/my_app/R1/img/image/BMP.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/BMP.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -30217,7 +30217,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/QRCode.c.obj: D:/CJB_Work/myLVGL/my_l
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/about.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/about.c \
+CMakeFiles/main.dir/my_app/R1/img/image/JPG.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/JPG.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -30361,7 +30361,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/about.c.obj: D:/CJB_Work/myLVGL/my_lv
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/de_about.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_about.c \
+CMakeFiles/main.dir/my_app/R1/img/image/QRCode.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/QRCode.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -30505,7 +30505,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/de_about.c.obj: D:/CJB_Work/myLVGL/my
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/de_factory.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_factory.c \
+CMakeFiles/main.dir/my_app/R1/img/image/about.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/about.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -30649,7 +30649,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/de_factory.c.obj: D:/CJB_Work/myLVGL/
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/de_lockscreen.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_lockscreen.c \
+CMakeFiles/main.dir/my_app/R1/img/image/de_about.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_about.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -30793,7 +30793,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/de_lockscreen.c.obj: D:/CJB_Work/myLV
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/de_storage.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_storage.c \
+CMakeFiles/main.dir/my_app/R1/img/image/de_factory.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_factory.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -30937,7 +30937,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/de_storage.c.obj: D:/CJB_Work/myLVGL/
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/factory.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/factory.c \
+CMakeFiles/main.dir/my_app/R1/img/image/de_lockscreen.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_lockscreen.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -31081,7 +31081,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/factory.c.obj: D:/CJB_Work/myLVGL/my_
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/lockscreen.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/lockscreen.c \
+CMakeFiles/main.dir/my_app/R1/img/image/de_storage.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_storage.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -31225,7 +31225,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/lockscreen.c.obj: D:/CJB_Work/myLVGL/
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/picture.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/picture.c \
+CMakeFiles/main.dir/my_app/R1/img/image/factory.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/factory.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -31369,7 +31369,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/picture.c.obj: D:/CJB_Work/myLVGL/my_
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/storage.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/storage.c \
+CMakeFiles/main.dir/my_app/R1/img/image/lockscreen.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/lockscreen.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -31513,7 +31513,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/storage.c.obj: D:/CJB_Work/myLVGL/my_
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/txt.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/txt.c \
+CMakeFiles/main.dir/my_app/R1/img/image/picture.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/picture.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -31657,7 +31657,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/txt.c.obj: D:/CJB_Work/myLVGL/my_lvgl
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/image/wifi_icon.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/wifi_icon.c \
+CMakeFiles/main.dir/my_app/R1/img/image/storage.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/storage.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -31801,7 +31801,7 @@ CMakeFiles/main.dir/my_app/ebook/img/image/wifi_icon.c.obj: D:/CJB_Work/myLVGL/m
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_cursor.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_cursor.c \
+CMakeFiles/main.dir/my_app/R1/img/image/txt.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/txt.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -31945,7 +31945,7 @@ CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_cursor.c.obj: D:/CJB
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_exit.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_exit.c \
+CMakeFiles/main.dir/my_app/R1/img/image/wifi_icon.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/wifi_icon.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -32089,7 +32089,7 @@ CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_exit.c.obj: D:/CJB_W
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_folder.c \
+CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_cursor.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_cursor.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -32233,7 +32233,7 @@ CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.o
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_music.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_music.c \
+CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_exit.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_exit.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -32377,7 +32377,7 @@ CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_music.c.ob
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_txt.c \
+CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_folder.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_folder.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -32521,7 +32521,7 @@ CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.obj:
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c \
+CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_music.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_music.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -32665,7 +32665,7 @@ CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c \
+CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_txt.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_txt.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -32809,7 +32809,7 @@ CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.ob
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c \
+CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_unknown.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -32953,7 +32953,7 @@ CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.obj
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c \
+CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_keyboard_delete.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -33097,7 +33097,7 @@ CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.obj:
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/img_file_list/spell_yes.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/spell_yes.c \
+CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_keyboard_upper.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -33241,7 +33241,7 @@ CMakeFiles/main.dir/my_app/ebook/img/img_file_list/spell_yes.c.obj: D:/CJB_Work/
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/img_file_list/thick_left_arrow.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/thick_left_arrow.c \
+CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -33385,7 +33385,7 @@ CMakeFiles/main.dir/my_app/ebook/img/img_file_list/thick_left_arrow.c.obj: D:/CJ
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/poweroff/img_normal_poweroff.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/poweroff/img_normal_poweroff.c \
+CMakeFiles/main.dir/my_app/R1/img/img_file_list/spell_yes.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/spell_yes.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -33529,7 +33529,7 @@ CMakeFiles/main.dir/my_app/ebook/img/poweroff/img_normal_poweroff.c.obj: D:/CJB_
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/setting/minutes.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/minutes.c \
+CMakeFiles/main.dir/my_app/R1/img/img_file_list/thick_left_arrow.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/thick_left_arrow.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -33673,7 +33673,7 @@ CMakeFiles/main.dir/my_app/ebook/img/setting/minutes.c.obj: D:/CJB_Work/myLVGL/m
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/setting/new_selected.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/new_selected.c \
+CMakeFiles/main.dir/my_app/R1/img/poweroff/img_normal_poweroff.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/poweroff/img_normal_poweroff.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -33817,7 +33817,7 @@ CMakeFiles/main.dir/my_app/ebook/img/setting/new_selected.c.obj: D:/CJB_Work/myL
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/setting/selected.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/selected.c \
+CMakeFiles/main.dir/my_app/R1/img/setting/minutes.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/minutes.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -33961,7 +33961,7 @@ CMakeFiles/main.dir/my_app/ebook/img/setting/selected.c.obj: D:/CJB_Work/myLVGL/
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/selected_reverse.c \
+CMakeFiles/main.dir/my_app/R1/img/setting/new_selected.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/new_selected.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
@@ -34105,7 +34105,1303 @@ CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.obj: D:/CJB_Work
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/main.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/main.c \
+CMakeFiles/main.dir/my_app/R1/img/setting/selected.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/selected.c \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/string.h \
+  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
+
+CMakeFiles/main.dir/my_app/R1/img/setting/selected_reverse.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/selected_reverse.c \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/string.h \
+  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
+
+CMakeFiles/main.dir/my_app/R1/img/voice_translation/catalog.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/catalog.c \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/string.h \
+  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
+
+CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_listening.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_listening.c \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/string.h \
+  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
+
+CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/string.h \
+  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
+
+CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_thinking.c \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/string.h \
+  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
+
+CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/string.h \
+  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
+
+CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_translate_failed.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_translate_failed.c \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/string.h \
+  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
+
+CMakeFiles/main.dir/my_app/R1/img/voice_translation/speaking.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/speaking.c \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
+  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
+  E:/mingw64/x86_64-w64-mingw32/include/string.h \
+  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
+
+CMakeFiles/main.dir/my_app/R1/main.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/main.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
@@ -34262,7 +35558,7 @@ CMakeFiles/main.dir/my_app/ebook/main.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.h \
   E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/adxintrin.h \
   E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/ammintrin.h \
   E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/amxbf16intrin.h \
@@ -34454,152 +35750,7 @@ CMakeFiles/main.dir/my_app/ebook/main.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_
   E:/mingw64/x86_64-w64-mingw32/include/winapifamily.h \
   E:/mingw64/x86_64-w64-mingw32/include/winsdkver.h
 
-CMakeFiles/main.dir/my_app/ebook/ui/ui_common/ui_common.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c \
+CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
@@ -34726,2674 +35877,8 @@ CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj: 
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_main.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_common/ui_common.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.h \
   E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
   E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
   E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
@@ -37422,10 +35907,8 @@ CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c \
+CMakeFiles/main.dir/my_app/R1/ui/ui_common/ui_common.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_common/ui_common.c \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
@@ -37549,1191 +36032,32 @@ CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
   D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
+  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_common/ui_common.h \
   E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
   E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
   E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
   E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
   E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
   E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
   E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
   E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
   E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
   E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
   E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
   E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
   E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
   E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
   E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
   E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
   E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
-  E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj: D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_tree.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_refr.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_theme.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_mask.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_rect.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_cache.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/flex/lv_flex.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/grid/lv_grid.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/layouts/lv_layouts.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/bmp/lv_bmp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/lv_gif.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/lv_libs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/png/lv_png.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/lv_others.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/list/lv_list.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/lv_widgets.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/span/lv_span.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_loader.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_disp.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_indev.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_api_map.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_internal.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lv_conf_kconfig.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_log.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_math.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_mem.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_style_gen.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_timer.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_arc.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btnmatrix.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_checkbox.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_label.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_line.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_roller.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_switch.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.h \
-  D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  E:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
-  E:/mingw64/x86_64-w64-mingw32/include/errno.h \
-  E:/mingw64/x86_64-w64-mingw32/include/inttypes.h \
-  E:/mingw64/x86_64-w64-mingw32/include/limits.h \
-  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stddef.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
-  E:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  E:/mingw64/x86_64-w64-mingw32/include/string.h \
-  E:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
   E:/mingw64/x86_64-w64-mingw32/include/vadefs.h
 
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_bidi.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/display/GC9A01.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/JPG.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/indev/AD_touch.h:
 
@@ -38745,15 +36069,11 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_slider.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/wayland/wayland.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c:
-
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512erintrin.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/indev/evdev.h:
 
@@ -38783,6 +36103,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_simsun_16_cjk.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.h:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c:
+
 E:/mingw64/x86_64-w64-mingw32/include/windef.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h:
@@ -38798,8 +36120,6 @@ E:/mingw64/x86_64-w64-mingw32/include/_mingw.h:
 E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_platform.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/corecrt.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/namespaceapi.h:
 
@@ -38819,8 +36139,6 @@ E:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/amxtileintrin.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/storage.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/display/R61581.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/stddef.h:
@@ -38828,8 +36146,6 @@ E:/mingw64/x86_64-w64-mingw32/include/stddef.h:
 E:/mingw64/x86_64-w64-mingw32/include/stdint.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_printf.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_unscii_8.c:
 
@@ -38927,8 +36243,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/win_drv.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_locale.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.h:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt_ap.c:
@@ -38941,11 +36255,9 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_10.c:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avxvnniint8intrin.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_about.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/minutes.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_arc.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.h:
 
@@ -38959,8 +36271,6 @@ E:/mingw64/x86_64-w64-mingw32/include/minwinbase.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/indev/FT5406EE8.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/indev/evdev.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/qrcodegen.h:
@@ -38973,8 +36283,6 @@ E:/mingw64/x86_64-w64-mingw32/include/systemtopologyapi.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/indev/libinput_drv.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_bt.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/indev/xkb.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/indev/xkb.h:
@@ -38983,9 +36291,13 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_event.h:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_CN_ExtraLight_24.c:
+
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_style_gen.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_layer.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_bczunicode_20.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:
 
@@ -39027,8 +36339,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_btn.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/unknwnbase.h:
@@ -39049,11 +36359,15 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_arc.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/about.c:
+
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.h:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_unifont_16.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/wnnc.h:
 
@@ -39074,6 +36388,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/freetype/lv_freetype.h:
 E:/mingw64/x86_64-w64-mingw32/include/namedpipeapi.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c:
 
@@ -39101,8 +36417,6 @@ E:/mingw64/x86_64-w64-mingw32/include/rpcdce.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_46.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.h:
@@ -39115,8 +36429,6 @@ E:/mingw64/x86_64-w64-mingw32/include/mmiscapi.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c:
-
 E:/mingw64/x86_64-w64-mingw32/include/handleapi.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.h:
@@ -39126,8 +36438,6 @@ E:/mingw64/x86_64-w64-mingw32/include/errhandlingapi.h:
 E:/mingw64/x86_64-w64-mingw32/include/inttypes.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/ddeml.h:
 
@@ -39149,6 +36459,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/monkey/lv_monkey.h:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_listening.c:
+
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/msg/lv_msg.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/corecrt_startup.h:
@@ -39167,8 +36479,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sdl/lv_draw_sdl_line.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/default/lv_theme_default.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_storage.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/themes/lv_themes.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.h:
@@ -39183,11 +36493,7 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/menu/lv_menu.h:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/xsaveintrin.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/main.c:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/cpuid.h:
 
@@ -39207,11 +36513,11 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/spell_yes.c:
+
 E:/mingw64/x86_64-w64-mingw32/include/winefs.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl.h:
 
@@ -39243,13 +36549,13 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/win/lv_win.h:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_translate_failed.c:
+
 E:/mingw64/x86_64-w64-mingw32/include/sys/types.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font.h:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vnnivlintrin.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_bat_5.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/mmeapi.h:
 
@@ -39262,8 +36568,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_symbol_def.h:
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_area.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/wayland/wayland.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/wow64apiset.h:
 
@@ -39291,15 +36595,15 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/lvgl.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.h:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/factory.c:
+
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_assert.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_async.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_earphonr_status.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_common/ui_common.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_error.h:
 
@@ -39331,6 +36635,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_txt.h:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/img_desktop_setting.c:
+
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_scroll.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_types.h:
@@ -39348,6 +36654,8 @@ E:/mingw64/x86_64-w64-mingw32/include/psdk_inc/_wsadata.h:
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_canvas.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sdl/lv_draw_sdl_img.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/main.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_dropdown.h:
 
@@ -39372,6 +36680,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.h:
 E:/mingw64/x86_64-w64-mingw32/include/mcx.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.h:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_unknown.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/wtypes.h:
 
@@ -39407,13 +36717,9 @@ E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx2intrin.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_version.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/img_desktop_find_word.c:
-
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx5124fmapsintrin.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_disp.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_earphone.c:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx5124vnniwintrin.h:
 
@@ -39428,8 +36734,6 @@ E:/mingw64/x86_64-w64-mingw32/include/stdio.h:
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512bf16vlintrin.h:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512bitalgintrin.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_txt.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_hidapi.h:
 
@@ -39460,8 +36764,6 @@ E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512fp16vlintrin.h:
 E:/mingw64/x86_64-w64-mingw32/include/ctype.h:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512ifmaintrin.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c:
 
@@ -39517,8 +36819,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/stress/lv_demo_stress.h:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vnniintrin.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/widgets/lv_example_widgets.h:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vp2intersectintrin.h:
@@ -39534,6 +36834,8 @@ E:/mingw64/x86_64-w64-mingw32/include/oleauto.h:
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vpopcntdqintrin.h:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/emmintrin.h:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/QRCode.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_img.c:
 
@@ -39556,8 +36858,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim_timeline.c:
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/cetintrin.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_quit.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/wifi_icon.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/bcrypt.h:
 
@@ -39585,6 +36885,8 @@ E:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/lv_demo_music.h:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/poweroff/img_normal_poweroff.c:
+
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/f16cintrin.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_transform.c:
@@ -39609,7 +36911,7 @@ E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/lwpintrin.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/lv_demos.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.h:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_aliPuHui_36.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/ncrypt.h:
 
@@ -39648,6 +36950,8 @@ E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/popcntintrin.h:
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_fmt_txt.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_buf.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_storage.c:
 
 E:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/prfchiintrin.h:
 
@@ -39727,21 +37031,19 @@ E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_cpuinfo.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_CN_ExtraLight_24.c:
-
 E:/mingw64/x86_64-w64-mingw32/include/objidlbase.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_endian.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/arm2d/lv_gpu_arm2d.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.c:
-
 E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_events.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_indev_scroll.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/picture.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_gamecontroller.h:
 
@@ -39754,10 +37056,6 @@ E:/mingw64/x86_64-w64-mingw32/include/winsdkver.h:
 E:/mingw64/x86_64-w64-mingw32/include/winver.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_keyboard.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_wifi_status.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_keycode.h:
 
@@ -39793,9 +37091,9 @@ E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_rwops.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/win32drv/win32drv.c:
 
-E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_shape.h:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c:
+E:/mingw64/x86_64-w64-mingw32/include/SDL2/SDL_shape.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.h:
 
@@ -39823,6 +37121,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_group.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/errno.h:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_cursor.c:
+
 E:/mingw64/x86_64-w64-mingw32/include/intrin.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c:
@@ -39847,8 +37147,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_rn
 
 E:/mingw64/x86_64-w64-mingw32/include/stdarg.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.h:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_bar.c:
@@ -39859,6 +37157,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/win32drv/win32drv.h:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/BMP.c:
+
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/layouts/lv_example_layout.h:
@@ -39867,13 +37167,11 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwhe
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_wifi.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_CN_ExtraLight_20.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/speaking.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c:
 
@@ -39903,8 +37201,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_pl
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_28.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c:
@@ -39912,6 +37208,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_pr
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_pos.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_aliPuHui_30.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c:
 
@@ -39933,9 +37231,9 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_corner
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_earphone.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/img_desktop_setting.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c:
 
@@ -39947,9 +37245,13 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_b
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/libs/png/lv_example_png.h:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_factory.c:
+
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_charge.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/lv_demo_music_list.c:
 
@@ -39958,10 +37260,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sdl/lv_draw_sdl_bg.c:
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/music/lv_demo_music_list.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/demos/stress/lv_demo_stress.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_lockscreen.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c:
 
@@ -39983,11 +37281,9 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj.c:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_earphonr_status.c:
+
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_class.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/factory.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/core/lv_obj_draw.c:
 
@@ -40015,15 +37311,13 @@ E:/mingw64/x86_64-w64-mingw32/include/synchapi.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_transform.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.h:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_draw_triangle.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/lv_img_decoder.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_thinking.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment_manager.c:
 
@@ -40038,6 +37332,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_38.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/nxp/vglite/lv_draw_vglite.h:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_about.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/securitybaseapi.h:
 
@@ -40061,11 +37357,7 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sdl/lv_draw_sdl.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sdl/lv_draw_sdl_label.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/new_selected.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sdl/lv_draw_sdl_layer.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_charge_status.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sdl/lv_draw_sdl_mask.c:
 
@@ -40084,8 +37376,6 @@ E:/mingw64/x86_64-w64-mingw32/include/winperf.h:
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_letter.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/draw/sw/lv_draw_sw_line.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_bat_full.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/minwindef.h:
 
@@ -40137,6 +37427,8 @@ E:/mingw64/x86_64-w64-mingw32/include/basetsd.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/cderr.h:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/img_desktop_find_word.c:
+
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_12.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/ole2.h:
@@ -40162,8 +37454,6 @@ E:/mingw64/x86_64-w64-mingw32/include/driverspecs.h:
 E:/mingw64/x86_64-w64-mingw32/include/excpt.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/fileapi.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c:
 
 E:/mingw64/x86_64-w64-mingw32/include/fltwinerror.h:
 
@@ -40193,8 +37483,6 @@ E:/mingw64/x86_64-w64-mingw32/include/mmsystem.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/nb30.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c:
-
 E:/mingw64/x86_64-w64-mingw32/include/oaidl.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/others/ime/lv_example_ime_pinyin.h:
@@ -40221,8 +37509,6 @@ E:/mingw64/x86_64-w64-mingw32/include/psdk_inc/_socket_types.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/psdk_inc/_wsa_errnos.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c:
-
 E:/mingw64/x86_64-w64-mingw32/include/psdk_inc/_xmitfile.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/pshpack1.h:
@@ -40230,8 +37516,6 @@ E:/mingw64/x86_64-w64-mingw32/include/pshpack1.h:
 E:/mingw64/x86_64-w64-mingw32/include/pshpack8.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/realtimeapiset.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.c:
 
@@ -40254,8 +37538,6 @@ E:/mingw64/x86_64-w64-mingw32/include/sal.h:
 E:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/servprov.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/shellapi.h:
 
@@ -40281,8 +37563,6 @@ E:/mingw64/x86_64-w64-mingw32/include/winbase.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/wincon.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c:
-
 E:/mingw64/x86_64-w64-mingw32/include/windows.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/wingdi.h:
@@ -40296,10 +37576,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.c:
 E:/mingw64/x86_64-w64-mingw32/include/winspool.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/winuser.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/spell_yes.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_sourcehans_gbk_20.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/gif/gifdec.c:
 
@@ -40319,8 +37595,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/event/lv_example_event.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/qrcode/qrcodegen.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/poweroff/img_normal_poweroff.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/tjpgd.h:
@@ -40329,11 +37603,11 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/libs/sjpg/tjpgd.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/lv_extra.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.h:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/fragment/lv_fragment.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_bt.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.c:
 
@@ -40355,6 +37629,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_head
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/chart/lv_chart.c:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_lockscreen.c:
+
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/led/lv_led.c:
@@ -40368,8 +37644,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/meter/lv_meter.c:
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/minutes.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.c:
 
@@ -40393,8 +37667,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_24.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_28_compressed.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_Bold_24.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_30.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_36.c:
@@ -40402,6 +37674,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_36.c:
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_40.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_42.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_sourcehansanssc_medium_20.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/font/lv_font_montserrat_44.c:
 
@@ -40417,13 +37691,15 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/hal/lv_hal_tick.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_anim.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_color.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_fs.c:
 
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/txt.c:
+
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_gc.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_unicode_gbk_24.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/misc/lv_ll.c:
 
@@ -40465,51 +37741,61 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_table.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/src/widgets/lv_textarea.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_bczunicode_20.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_Bold_24.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_unicode_gbk_24.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_CN_ExtraLight_20.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_unifont_16.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_sourcehans_gbk_20.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.h:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_bat_5.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_charge.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_wifi.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/img_desktop_ebook.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/img_desktop_ebook.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_ble_status.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_bat_full.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/BMP.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_ble_status.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/JPG.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_charge_status.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/QRCode.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/others/lv_example_others.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/about.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_wifi_status.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_factory.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/lockscreen.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/lockscreen.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/storage.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/picture.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/selected_reverse.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/txt.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/wifi_icon.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_cursor.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_exit.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_exit.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_folder.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_folder.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_music.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_music.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_txt.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_keyboard_delete.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/thick_left_arrow.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_keyboard_upper.c:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/selected.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/others/msg/lv_example_msg.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/selected_reverse.c:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/thick_left_arrow.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/new_selected.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/selected.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/catalog.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c:
+
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/layouts/flex/lv_example_flex.h:
 
@@ -40525,8 +37811,6 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/libs/freetype/lv_example_freetype.
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/libs/gif/lv_example_gif.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/libs/lv_example_libs.h:
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/libs/sjpg/lv_example_sjpg.h:
@@ -40537,50 +37821,8 @@ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/others/fragment/lv_example_fragmen
 
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/others/imgfont/lv_example_imgfont.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/others/lv_example_others.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/others/msg/lv_example_msg.h:
-
 D:/CJB_Work/myLVGL/my_lvgl_v8.3/lvgl/examples/styles/lv_example_style.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.h:
 
 E:/mingw64/x86_64-w64-mingw32/include/getopt.h:
 
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_main.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.h:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c:
-
-D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.h:
+D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_common/ui_common.h:

@@ -6813,1877 +6813,1517 @@ mouse_cursor_icon.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/mouse_cursor_icon.c.s
 .PHONY : mouse_cursor_icon.c.s
 
-my_app/ebook/font/lv_font_Bold_24.obj: my_app/ebook/font/lv_font_Bold_24.c.obj
-.PHONY : my_app/ebook/font/lv_font_Bold_24.obj
+my_app/R1/font/lv_font_Bold_24.obj: my_app/R1/font/lv_font_Bold_24.c.obj
+.PHONY : my_app/R1/font/lv_font_Bold_24.obj
 
 # target to build an object file
-my_app/ebook/font/lv_font_Bold_24.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_Bold_24.c.obj
-.PHONY : my_app/ebook/font/lv_font_Bold_24.c.obj
+my_app/R1/font/lv_font_Bold_24.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_Bold_24.c.obj
+.PHONY : my_app/R1/font/lv_font_Bold_24.c.obj
 
-my_app/ebook/font/lv_font_Bold_24.i: my_app/ebook/font/lv_font_Bold_24.c.i
-.PHONY : my_app/ebook/font/lv_font_Bold_24.i
+my_app/R1/font/lv_font_Bold_24.i: my_app/R1/font/lv_font_Bold_24.c.i
+.PHONY : my_app/R1/font/lv_font_Bold_24.i
 
 # target to preprocess a source file
-my_app/ebook/font/lv_font_Bold_24.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_Bold_24.c.i
-.PHONY : my_app/ebook/font/lv_font_Bold_24.c.i
+my_app/R1/font/lv_font_Bold_24.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_Bold_24.c.i
+.PHONY : my_app/R1/font/lv_font_Bold_24.c.i
 
-my_app/ebook/font/lv_font_Bold_24.s: my_app/ebook/font/lv_font_Bold_24.c.s
-.PHONY : my_app/ebook/font/lv_font_Bold_24.s
+my_app/R1/font/lv_font_Bold_24.s: my_app/R1/font/lv_font_Bold_24.c.s
+.PHONY : my_app/R1/font/lv_font_Bold_24.s
 
 # target to generate assembly for a file
-my_app/ebook/font/lv_font_Bold_24.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_Bold_24.c.s
-.PHONY : my_app/ebook/font/lv_font_Bold_24.c.s
+my_app/R1/font/lv_font_Bold_24.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_Bold_24.c.s
+.PHONY : my_app/R1/font/lv_font_Bold_24.c.s
 
-my_app/ebook/font/lv_font_CN_ExtraLight_20.obj: my_app/ebook/font/lv_font_CN_ExtraLight_20.c.obj
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_20.obj
+my_app/R1/font/lv_font_CN_ExtraLight_20.obj: my_app/R1/font/lv_font_CN_ExtraLight_20.c.obj
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_20.obj
 
 # target to build an object file
-my_app/ebook/font/lv_font_CN_ExtraLight_20.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_20.c.obj
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_20.c.obj
+my_app/R1/font/lv_font_CN_ExtraLight_20.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_CN_ExtraLight_20.c.obj
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_20.c.obj
 
-my_app/ebook/font/lv_font_CN_ExtraLight_20.i: my_app/ebook/font/lv_font_CN_ExtraLight_20.c.i
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_20.i
+my_app/R1/font/lv_font_CN_ExtraLight_20.i: my_app/R1/font/lv_font_CN_ExtraLight_20.c.i
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_20.i
 
 # target to preprocess a source file
-my_app/ebook/font/lv_font_CN_ExtraLight_20.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_20.c.i
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_20.c.i
+my_app/R1/font/lv_font_CN_ExtraLight_20.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_CN_ExtraLight_20.c.i
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_20.c.i
 
-my_app/ebook/font/lv_font_CN_ExtraLight_20.s: my_app/ebook/font/lv_font_CN_ExtraLight_20.c.s
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_20.s
+my_app/R1/font/lv_font_CN_ExtraLight_20.s: my_app/R1/font/lv_font_CN_ExtraLight_20.c.s
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_20.s
 
 # target to generate assembly for a file
-my_app/ebook/font/lv_font_CN_ExtraLight_20.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_20.c.s
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_20.c.s
+my_app/R1/font/lv_font_CN_ExtraLight_20.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_CN_ExtraLight_20.c.s
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_20.c.s
 
-my_app/ebook/font/lv_font_CN_ExtraLight_24.obj: my_app/ebook/font/lv_font_CN_ExtraLight_24.c.obj
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_24.obj
+my_app/R1/font/lv_font_CN_ExtraLight_24.obj: my_app/R1/font/lv_font_CN_ExtraLight_24.c.obj
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_24.obj
 
 # target to build an object file
-my_app/ebook/font/lv_font_CN_ExtraLight_24.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_24.c.obj
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_24.c.obj
+my_app/R1/font/lv_font_CN_ExtraLight_24.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_CN_ExtraLight_24.c.obj
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_24.c.obj
 
-my_app/ebook/font/lv_font_CN_ExtraLight_24.i: my_app/ebook/font/lv_font_CN_ExtraLight_24.c.i
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_24.i
+my_app/R1/font/lv_font_CN_ExtraLight_24.i: my_app/R1/font/lv_font_CN_ExtraLight_24.c.i
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_24.i
 
 # target to preprocess a source file
-my_app/ebook/font/lv_font_CN_ExtraLight_24.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_24.c.i
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_24.c.i
+my_app/R1/font/lv_font_CN_ExtraLight_24.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_CN_ExtraLight_24.c.i
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_24.c.i
 
-my_app/ebook/font/lv_font_CN_ExtraLight_24.s: my_app/ebook/font/lv_font_CN_ExtraLight_24.c.s
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_24.s
+my_app/R1/font/lv_font_CN_ExtraLight_24.s: my_app/R1/font/lv_font_CN_ExtraLight_24.c.s
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_24.s
 
 # target to generate assembly for a file
-my_app/ebook/font/lv_font_CN_ExtraLight_24.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_24.c.s
-.PHONY : my_app/ebook/font/lv_font_CN_ExtraLight_24.c.s
+my_app/R1/font/lv_font_CN_ExtraLight_24.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_CN_ExtraLight_24.c.s
+.PHONY : my_app/R1/font/lv_font_CN_ExtraLight_24.c.s
 
-my_app/ebook/font/lv_font_bczunicode_20.obj: my_app/ebook/font/lv_font_bczunicode_20.c.obj
-.PHONY : my_app/ebook/font/lv_font_bczunicode_20.obj
+my_app/R1/font/lv_font_aliPuHui_30.obj: my_app/R1/font/lv_font_aliPuHui_30.c.obj
+.PHONY : my_app/R1/font/lv_font_aliPuHui_30.obj
 
 # target to build an object file
-my_app/ebook/font/lv_font_bczunicode_20.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_bczunicode_20.c.obj
-.PHONY : my_app/ebook/font/lv_font_bczunicode_20.c.obj
+my_app/R1/font/lv_font_aliPuHui_30.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_30.c.obj
+.PHONY : my_app/R1/font/lv_font_aliPuHui_30.c.obj
 
-my_app/ebook/font/lv_font_bczunicode_20.i: my_app/ebook/font/lv_font_bczunicode_20.c.i
-.PHONY : my_app/ebook/font/lv_font_bczunicode_20.i
+my_app/R1/font/lv_font_aliPuHui_30.i: my_app/R1/font/lv_font_aliPuHui_30.c.i
+.PHONY : my_app/R1/font/lv_font_aliPuHui_30.i
 
 # target to preprocess a source file
-my_app/ebook/font/lv_font_bczunicode_20.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_bczunicode_20.c.i
-.PHONY : my_app/ebook/font/lv_font_bczunicode_20.c.i
+my_app/R1/font/lv_font_aliPuHui_30.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_30.c.i
+.PHONY : my_app/R1/font/lv_font_aliPuHui_30.c.i
 
-my_app/ebook/font/lv_font_bczunicode_20.s: my_app/ebook/font/lv_font_bczunicode_20.c.s
-.PHONY : my_app/ebook/font/lv_font_bczunicode_20.s
+my_app/R1/font/lv_font_aliPuHui_30.s: my_app/R1/font/lv_font_aliPuHui_30.c.s
+.PHONY : my_app/R1/font/lv_font_aliPuHui_30.s
 
 # target to generate assembly for a file
-my_app/ebook/font/lv_font_bczunicode_20.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_bczunicode_20.c.s
-.PHONY : my_app/ebook/font/lv_font_bczunicode_20.c.s
+my_app/R1/font/lv_font_aliPuHui_30.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_30.c.s
+.PHONY : my_app/R1/font/lv_font_aliPuHui_30.c.s
 
-my_app/ebook/font/lv_font_sourcehans_gbk_20.obj: my_app/ebook/font/lv_font_sourcehans_gbk_20.c.obj
-.PHONY : my_app/ebook/font/lv_font_sourcehans_gbk_20.obj
+my_app/R1/font/lv_font_aliPuHui_36.obj: my_app/R1/font/lv_font_aliPuHui_36.c.obj
+.PHONY : my_app/R1/font/lv_font_aliPuHui_36.obj
 
 # target to build an object file
-my_app/ebook/font/lv_font_sourcehans_gbk_20.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehans_gbk_20.c.obj
-.PHONY : my_app/ebook/font/lv_font_sourcehans_gbk_20.c.obj
+my_app/R1/font/lv_font_aliPuHui_36.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_36.c.obj
+.PHONY : my_app/R1/font/lv_font_aliPuHui_36.c.obj
 
-my_app/ebook/font/lv_font_sourcehans_gbk_20.i: my_app/ebook/font/lv_font_sourcehans_gbk_20.c.i
-.PHONY : my_app/ebook/font/lv_font_sourcehans_gbk_20.i
+my_app/R1/font/lv_font_aliPuHui_36.i: my_app/R1/font/lv_font_aliPuHui_36.c.i
+.PHONY : my_app/R1/font/lv_font_aliPuHui_36.i
 
 # target to preprocess a source file
-my_app/ebook/font/lv_font_sourcehans_gbk_20.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehans_gbk_20.c.i
-.PHONY : my_app/ebook/font/lv_font_sourcehans_gbk_20.c.i
+my_app/R1/font/lv_font_aliPuHui_36.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_36.c.i
+.PHONY : my_app/R1/font/lv_font_aliPuHui_36.c.i
 
-my_app/ebook/font/lv_font_sourcehans_gbk_20.s: my_app/ebook/font/lv_font_sourcehans_gbk_20.c.s
-.PHONY : my_app/ebook/font/lv_font_sourcehans_gbk_20.s
+my_app/R1/font/lv_font_aliPuHui_36.s: my_app/R1/font/lv_font_aliPuHui_36.c.s
+.PHONY : my_app/R1/font/lv_font_aliPuHui_36.s
 
 # target to generate assembly for a file
-my_app/ebook/font/lv_font_sourcehans_gbk_20.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehans_gbk_20.c.s
-.PHONY : my_app/ebook/font/lv_font_sourcehans_gbk_20.c.s
+my_app/R1/font/lv_font_aliPuHui_36.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_36.c.s
+.PHONY : my_app/R1/font/lv_font_aliPuHui_36.c.s
 
-my_app/ebook/font/lv_font_sourcehansanssc_medium_20.obj: my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.obj
-.PHONY : my_app/ebook/font/lv_font_sourcehansanssc_medium_20.obj
+my_app/R1/font/lv_font_bczunicode_20.obj: my_app/R1/font/lv_font_bczunicode_20.c.obj
+.PHONY : my_app/R1/font/lv_font_bczunicode_20.obj
 
 # target to build an object file
-my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.obj
-.PHONY : my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.obj
+my_app/R1/font/lv_font_bczunicode_20.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_bczunicode_20.c.obj
+.PHONY : my_app/R1/font/lv_font_bczunicode_20.c.obj
 
-my_app/ebook/font/lv_font_sourcehansanssc_medium_20.i: my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.i
-.PHONY : my_app/ebook/font/lv_font_sourcehansanssc_medium_20.i
+my_app/R1/font/lv_font_bczunicode_20.i: my_app/R1/font/lv_font_bczunicode_20.c.i
+.PHONY : my_app/R1/font/lv_font_bczunicode_20.i
 
 # target to preprocess a source file
-my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.i
-.PHONY : my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.i
+my_app/R1/font/lv_font_bczunicode_20.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_bczunicode_20.c.i
+.PHONY : my_app/R1/font/lv_font_bczunicode_20.c.i
 
-my_app/ebook/font/lv_font_sourcehansanssc_medium_20.s: my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.s
-.PHONY : my_app/ebook/font/lv_font_sourcehansanssc_medium_20.s
+my_app/R1/font/lv_font_bczunicode_20.s: my_app/R1/font/lv_font_bczunicode_20.c.s
+.PHONY : my_app/R1/font/lv_font_bczunicode_20.s
 
 # target to generate assembly for a file
-my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.s
-.PHONY : my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.s
+my_app/R1/font/lv_font_bczunicode_20.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_bczunicode_20.c.s
+.PHONY : my_app/R1/font/lv_font_bczunicode_20.c.s
 
-my_app/ebook/font/lv_font_unicode_gbk_24.obj: my_app/ebook/font/lv_font_unicode_gbk_24.c.obj
-.PHONY : my_app/ebook/font/lv_font_unicode_gbk_24.obj
+my_app/R1/font/lv_font_sourcehans_gbk_20.obj: my_app/R1/font/lv_font_sourcehans_gbk_20.c.obj
+.PHONY : my_app/R1/font/lv_font_sourcehans_gbk_20.obj
 
 # target to build an object file
-my_app/ebook/font/lv_font_unicode_gbk_24.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_unicode_gbk_24.c.obj
-.PHONY : my_app/ebook/font/lv_font_unicode_gbk_24.c.obj
+my_app/R1/font/lv_font_sourcehans_gbk_20.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehans_gbk_20.c.obj
+.PHONY : my_app/R1/font/lv_font_sourcehans_gbk_20.c.obj
 
-my_app/ebook/font/lv_font_unicode_gbk_24.i: my_app/ebook/font/lv_font_unicode_gbk_24.c.i
-.PHONY : my_app/ebook/font/lv_font_unicode_gbk_24.i
+my_app/R1/font/lv_font_sourcehans_gbk_20.i: my_app/R1/font/lv_font_sourcehans_gbk_20.c.i
+.PHONY : my_app/R1/font/lv_font_sourcehans_gbk_20.i
 
 # target to preprocess a source file
-my_app/ebook/font/lv_font_unicode_gbk_24.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_unicode_gbk_24.c.i
-.PHONY : my_app/ebook/font/lv_font_unicode_gbk_24.c.i
+my_app/R1/font/lv_font_sourcehans_gbk_20.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehans_gbk_20.c.i
+.PHONY : my_app/R1/font/lv_font_sourcehans_gbk_20.c.i
 
-my_app/ebook/font/lv_font_unicode_gbk_24.s: my_app/ebook/font/lv_font_unicode_gbk_24.c.s
-.PHONY : my_app/ebook/font/lv_font_unicode_gbk_24.s
+my_app/R1/font/lv_font_sourcehans_gbk_20.s: my_app/R1/font/lv_font_sourcehans_gbk_20.c.s
+.PHONY : my_app/R1/font/lv_font_sourcehans_gbk_20.s
 
 # target to generate assembly for a file
-my_app/ebook/font/lv_font_unicode_gbk_24.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_unicode_gbk_24.c.s
-.PHONY : my_app/ebook/font/lv_font_unicode_gbk_24.c.s
+my_app/R1/font/lv_font_sourcehans_gbk_20.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehans_gbk_20.c.s
+.PHONY : my_app/R1/font/lv_font_sourcehans_gbk_20.c.s
 
-my_app/ebook/font/lv_font_unifont_16.obj: my_app/ebook/font/lv_font_unifont_16.c.obj
-.PHONY : my_app/ebook/font/lv_font_unifont_16.obj
+my_app/R1/font/lv_font_sourcehansanssc_medium_20.obj: my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.obj
+.PHONY : my_app/R1/font/lv_font_sourcehansanssc_medium_20.obj
 
 # target to build an object file
-my_app/ebook/font/lv_font_unifont_16.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_unifont_16.c.obj
-.PHONY : my_app/ebook/font/lv_font_unifont_16.c.obj
+my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.obj
+.PHONY : my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.obj
 
-my_app/ebook/font/lv_font_unifont_16.i: my_app/ebook/font/lv_font_unifont_16.c.i
-.PHONY : my_app/ebook/font/lv_font_unifont_16.i
+my_app/R1/font/lv_font_sourcehansanssc_medium_20.i: my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.i
+.PHONY : my_app/R1/font/lv_font_sourcehansanssc_medium_20.i
 
 # target to preprocess a source file
-my_app/ebook/font/lv_font_unifont_16.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_unifont_16.c.i
-.PHONY : my_app/ebook/font/lv_font_unifont_16.c.i
+my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.i
+.PHONY : my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.i
 
-my_app/ebook/font/lv_font_unifont_16.s: my_app/ebook/font/lv_font_unifont_16.c.s
-.PHONY : my_app/ebook/font/lv_font_unifont_16.s
+my_app/R1/font/lv_font_sourcehansanssc_medium_20.s: my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.s
+.PHONY : my_app/R1/font/lv_font_sourcehansanssc_medium_20.s
 
 # target to generate assembly for a file
-my_app/ebook/font/lv_font_unifont_16.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/font/lv_font_unifont_16.c.s
-.PHONY : my_app/ebook/font/lv_font_unifont_16.c.s
+my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.s
+.PHONY : my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.s
 
-my_app/ebook/img/desktop/icom_desktop_bat_5.obj: my_app/ebook/img/desktop/icom_desktop_bat_5.c.obj
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bat_5.obj
+my_app/R1/font/lv_font_unicode_gbk_24.obj: my_app/R1/font/lv_font_unicode_gbk_24.c.obj
+.PHONY : my_app/R1/font/lv_font_unicode_gbk_24.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/icom_desktop_bat_5.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bat_5.c.obj
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bat_5.c.obj
+my_app/R1/font/lv_font_unicode_gbk_24.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_unicode_gbk_24.c.obj
+.PHONY : my_app/R1/font/lv_font_unicode_gbk_24.c.obj
 
-my_app/ebook/img/desktop/icom_desktop_bat_5.i: my_app/ebook/img/desktop/icom_desktop_bat_5.c.i
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bat_5.i
+my_app/R1/font/lv_font_unicode_gbk_24.i: my_app/R1/font/lv_font_unicode_gbk_24.c.i
+.PHONY : my_app/R1/font/lv_font_unicode_gbk_24.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/icom_desktop_bat_5.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bat_5.c.i
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bat_5.c.i
+my_app/R1/font/lv_font_unicode_gbk_24.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_unicode_gbk_24.c.i
+.PHONY : my_app/R1/font/lv_font_unicode_gbk_24.c.i
 
-my_app/ebook/img/desktop/icom_desktop_bat_5.s: my_app/ebook/img/desktop/icom_desktop_bat_5.c.s
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bat_5.s
+my_app/R1/font/lv_font_unicode_gbk_24.s: my_app/R1/font/lv_font_unicode_gbk_24.c.s
+.PHONY : my_app/R1/font/lv_font_unicode_gbk_24.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/icom_desktop_bat_5.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bat_5.c.s
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bat_5.c.s
+my_app/R1/font/lv_font_unicode_gbk_24.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_unicode_gbk_24.c.s
+.PHONY : my_app/R1/font/lv_font_unicode_gbk_24.c.s
 
-my_app/ebook/img/desktop/icom_desktop_bt.obj: my_app/ebook/img/desktop/icom_desktop_bt.c.obj
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bt.obj
+my_app/R1/font/lv_font_unifont_16.obj: my_app/R1/font/lv_font_unifont_16.c.obj
+.PHONY : my_app/R1/font/lv_font_unifont_16.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/icom_desktop_bt.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bt.c.obj
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bt.c.obj
+my_app/R1/font/lv_font_unifont_16.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_unifont_16.c.obj
+.PHONY : my_app/R1/font/lv_font_unifont_16.c.obj
 
-my_app/ebook/img/desktop/icom_desktop_bt.i: my_app/ebook/img/desktop/icom_desktop_bt.c.i
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bt.i
+my_app/R1/font/lv_font_unifont_16.i: my_app/R1/font/lv_font_unifont_16.c.i
+.PHONY : my_app/R1/font/lv_font_unifont_16.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/icom_desktop_bt.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bt.c.i
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bt.c.i
+my_app/R1/font/lv_font_unifont_16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_unifont_16.c.i
+.PHONY : my_app/R1/font/lv_font_unifont_16.c.i
 
-my_app/ebook/img/desktop/icom_desktop_bt.s: my_app/ebook/img/desktop/icom_desktop_bt.c.s
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bt.s
+my_app/R1/font/lv_font_unifont_16.s: my_app/R1/font/lv_font_unifont_16.c.s
+.PHONY : my_app/R1/font/lv_font_unifont_16.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/icom_desktop_bt.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bt.c.s
-.PHONY : my_app/ebook/img/desktop/icom_desktop_bt.c.s
+my_app/R1/font/lv_font_unifont_16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_unifont_16.c.s
+.PHONY : my_app/R1/font/lv_font_unifont_16.c.s
 
-my_app/ebook/img/desktop/icom_desktop_charge.obj: my_app/ebook/img/desktop/icom_desktop_charge.c.obj
-.PHONY : my_app/ebook/img/desktop/icom_desktop_charge.obj
+my_app/R1/img/desktop/icom_desktop_bat_5.obj: my_app/R1/img/desktop/icom_desktop_bat_5.c.obj
+.PHONY : my_app/R1/img/desktop/icom_desktop_bat_5.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/icom_desktop_charge.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_charge.c.obj
-.PHONY : my_app/ebook/img/desktop/icom_desktop_charge.c.obj
+my_app/R1/img/desktop/icom_desktop_bat_5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_bat_5.c.obj
+.PHONY : my_app/R1/img/desktop/icom_desktop_bat_5.c.obj
 
-my_app/ebook/img/desktop/icom_desktop_charge.i: my_app/ebook/img/desktop/icom_desktop_charge.c.i
-.PHONY : my_app/ebook/img/desktop/icom_desktop_charge.i
+my_app/R1/img/desktop/icom_desktop_bat_5.i: my_app/R1/img/desktop/icom_desktop_bat_5.c.i
+.PHONY : my_app/R1/img/desktop/icom_desktop_bat_5.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/icom_desktop_charge.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_charge.c.i
-.PHONY : my_app/ebook/img/desktop/icom_desktop_charge.c.i
+my_app/R1/img/desktop/icom_desktop_bat_5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_bat_5.c.i
+.PHONY : my_app/R1/img/desktop/icom_desktop_bat_5.c.i
 
-my_app/ebook/img/desktop/icom_desktop_charge.s: my_app/ebook/img/desktop/icom_desktop_charge.c.s
-.PHONY : my_app/ebook/img/desktop/icom_desktop_charge.s
+my_app/R1/img/desktop/icom_desktop_bat_5.s: my_app/R1/img/desktop/icom_desktop_bat_5.c.s
+.PHONY : my_app/R1/img/desktop/icom_desktop_bat_5.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/icom_desktop_charge.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_charge.c.s
-.PHONY : my_app/ebook/img/desktop/icom_desktop_charge.c.s
+my_app/R1/img/desktop/icom_desktop_bat_5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_bat_5.c.s
+.PHONY : my_app/R1/img/desktop/icom_desktop_bat_5.c.s
 
-my_app/ebook/img/desktop/icom_desktop_earphone.obj: my_app/ebook/img/desktop/icom_desktop_earphone.c.obj
-.PHONY : my_app/ebook/img/desktop/icom_desktop_earphone.obj
+my_app/R1/img/desktop/icom_desktop_bt.obj: my_app/R1/img/desktop/icom_desktop_bt.c.obj
+.PHONY : my_app/R1/img/desktop/icom_desktop_bt.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/icom_desktop_earphone.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_earphone.c.obj
-.PHONY : my_app/ebook/img/desktop/icom_desktop_earphone.c.obj
+my_app/R1/img/desktop/icom_desktop_bt.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_bt.c.obj
+.PHONY : my_app/R1/img/desktop/icom_desktop_bt.c.obj
 
-my_app/ebook/img/desktop/icom_desktop_earphone.i: my_app/ebook/img/desktop/icom_desktop_earphone.c.i
-.PHONY : my_app/ebook/img/desktop/icom_desktop_earphone.i
+my_app/R1/img/desktop/icom_desktop_bt.i: my_app/R1/img/desktop/icom_desktop_bt.c.i
+.PHONY : my_app/R1/img/desktop/icom_desktop_bt.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/icom_desktop_earphone.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_earphone.c.i
-.PHONY : my_app/ebook/img/desktop/icom_desktop_earphone.c.i
+my_app/R1/img/desktop/icom_desktop_bt.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_bt.c.i
+.PHONY : my_app/R1/img/desktop/icom_desktop_bt.c.i
 
-my_app/ebook/img/desktop/icom_desktop_earphone.s: my_app/ebook/img/desktop/icom_desktop_earphone.c.s
-.PHONY : my_app/ebook/img/desktop/icom_desktop_earphone.s
+my_app/R1/img/desktop/icom_desktop_bt.s: my_app/R1/img/desktop/icom_desktop_bt.c.s
+.PHONY : my_app/R1/img/desktop/icom_desktop_bt.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/icom_desktop_earphone.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_earphone.c.s
-.PHONY : my_app/ebook/img/desktop/icom_desktop_earphone.c.s
+my_app/R1/img/desktop/icom_desktop_bt.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_bt.c.s
+.PHONY : my_app/R1/img/desktop/icom_desktop_bt.c.s
 
-my_app/ebook/img/desktop/icom_desktop_wifi.obj: my_app/ebook/img/desktop/icom_desktop_wifi.c.obj
-.PHONY : my_app/ebook/img/desktop/icom_desktop_wifi.obj
+my_app/R1/img/desktop/icom_desktop_charge.obj: my_app/R1/img/desktop/icom_desktop_charge.c.obj
+.PHONY : my_app/R1/img/desktop/icom_desktop_charge.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/icom_desktop_wifi.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_wifi.c.obj
-.PHONY : my_app/ebook/img/desktop/icom_desktop_wifi.c.obj
+my_app/R1/img/desktop/icom_desktop_charge.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_charge.c.obj
+.PHONY : my_app/R1/img/desktop/icom_desktop_charge.c.obj
 
-my_app/ebook/img/desktop/icom_desktop_wifi.i: my_app/ebook/img/desktop/icom_desktop_wifi.c.i
-.PHONY : my_app/ebook/img/desktop/icom_desktop_wifi.i
+my_app/R1/img/desktop/icom_desktop_charge.i: my_app/R1/img/desktop/icom_desktop_charge.c.i
+.PHONY : my_app/R1/img/desktop/icom_desktop_charge.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/icom_desktop_wifi.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_wifi.c.i
-.PHONY : my_app/ebook/img/desktop/icom_desktop_wifi.c.i
+my_app/R1/img/desktop/icom_desktop_charge.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_charge.c.i
+.PHONY : my_app/R1/img/desktop/icom_desktop_charge.c.i
 
-my_app/ebook/img/desktop/icom_desktop_wifi.s: my_app/ebook/img/desktop/icom_desktop_wifi.c.s
-.PHONY : my_app/ebook/img/desktop/icom_desktop_wifi.s
+my_app/R1/img/desktop/icom_desktop_charge.s: my_app/R1/img/desktop/icom_desktop_charge.c.s
+.PHONY : my_app/R1/img/desktop/icom_desktop_charge.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/icom_desktop_wifi.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_wifi.c.s
-.PHONY : my_app/ebook/img/desktop/icom_desktop_wifi.c.s
+my_app/R1/img/desktop/icom_desktop_charge.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_charge.c.s
+.PHONY : my_app/R1/img/desktop/icom_desktop_charge.c.s
 
-my_app/ebook/img/desktop/img_desktop_ebook.obj: my_app/ebook/img/desktop/img_desktop_ebook.c.obj
-.PHONY : my_app/ebook/img/desktop/img_desktop_ebook.obj
+my_app/R1/img/desktop/icom_desktop_earphone.obj: my_app/R1/img/desktop/icom_desktop_earphone.c.obj
+.PHONY : my_app/R1/img/desktop/icom_desktop_earphone.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/img_desktop_ebook.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_ebook.c.obj
-.PHONY : my_app/ebook/img/desktop/img_desktop_ebook.c.obj
+my_app/R1/img/desktop/icom_desktop_earphone.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_earphone.c.obj
+.PHONY : my_app/R1/img/desktop/icom_desktop_earphone.c.obj
 
-my_app/ebook/img/desktop/img_desktop_ebook.i: my_app/ebook/img/desktop/img_desktop_ebook.c.i
-.PHONY : my_app/ebook/img/desktop/img_desktop_ebook.i
+my_app/R1/img/desktop/icom_desktop_earphone.i: my_app/R1/img/desktop/icom_desktop_earphone.c.i
+.PHONY : my_app/R1/img/desktop/icom_desktop_earphone.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/img_desktop_ebook.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_ebook.c.i
-.PHONY : my_app/ebook/img/desktop/img_desktop_ebook.c.i
+my_app/R1/img/desktop/icom_desktop_earphone.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_earphone.c.i
+.PHONY : my_app/R1/img/desktop/icom_desktop_earphone.c.i
 
-my_app/ebook/img/desktop/img_desktop_ebook.s: my_app/ebook/img/desktop/img_desktop_ebook.c.s
-.PHONY : my_app/ebook/img/desktop/img_desktop_ebook.s
+my_app/R1/img/desktop/icom_desktop_earphone.s: my_app/R1/img/desktop/icom_desktop_earphone.c.s
+.PHONY : my_app/R1/img/desktop/icom_desktop_earphone.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/img_desktop_ebook.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_ebook.c.s
-.PHONY : my_app/ebook/img/desktop/img_desktop_ebook.c.s
+my_app/R1/img/desktop/icom_desktop_earphone.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_earphone.c.s
+.PHONY : my_app/R1/img/desktop/icom_desktop_earphone.c.s
 
-my_app/ebook/img/desktop/img_desktop_find_word.obj: my_app/ebook/img/desktop/img_desktop_find_word.c.obj
-.PHONY : my_app/ebook/img/desktop/img_desktop_find_word.obj
+my_app/R1/img/desktop/icom_desktop_wifi.obj: my_app/R1/img/desktop/icom_desktop_wifi.c.obj
+.PHONY : my_app/R1/img/desktop/icom_desktop_wifi.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/img_desktop_find_word.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_find_word.c.obj
-.PHONY : my_app/ebook/img/desktop/img_desktop_find_word.c.obj
+my_app/R1/img/desktop/icom_desktop_wifi.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_wifi.c.obj
+.PHONY : my_app/R1/img/desktop/icom_desktop_wifi.c.obj
 
-my_app/ebook/img/desktop/img_desktop_find_word.i: my_app/ebook/img/desktop/img_desktop_find_word.c.i
-.PHONY : my_app/ebook/img/desktop/img_desktop_find_word.i
+my_app/R1/img/desktop/icom_desktop_wifi.i: my_app/R1/img/desktop/icom_desktop_wifi.c.i
+.PHONY : my_app/R1/img/desktop/icom_desktop_wifi.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/img_desktop_find_word.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_find_word.c.i
-.PHONY : my_app/ebook/img/desktop/img_desktop_find_word.c.i
+my_app/R1/img/desktop/icom_desktop_wifi.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_wifi.c.i
+.PHONY : my_app/R1/img/desktop/icom_desktop_wifi.c.i
 
-my_app/ebook/img/desktop/img_desktop_find_word.s: my_app/ebook/img/desktop/img_desktop_find_word.c.s
-.PHONY : my_app/ebook/img/desktop/img_desktop_find_word.s
+my_app/R1/img/desktop/icom_desktop_wifi.s: my_app/R1/img/desktop/icom_desktop_wifi.c.s
+.PHONY : my_app/R1/img/desktop/icom_desktop_wifi.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/img_desktop_find_word.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_find_word.c.s
-.PHONY : my_app/ebook/img/desktop/img_desktop_find_word.c.s
+my_app/R1/img/desktop/icom_desktop_wifi.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_wifi.c.s
+.PHONY : my_app/R1/img/desktop/icom_desktop_wifi.c.s
 
-my_app/ebook/img/desktop/img_desktop_setting.obj: my_app/ebook/img/desktop/img_desktop_setting.c.obj
-.PHONY : my_app/ebook/img/desktop/img_desktop_setting.obj
+my_app/R1/img/desktop/img_desktop_ebook.obj: my_app/R1/img/desktop/img_desktop_ebook.c.obj
+.PHONY : my_app/R1/img/desktop/img_desktop_ebook.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/img_desktop_setting.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_setting.c.obj
-.PHONY : my_app/ebook/img/desktop/img_desktop_setting.c.obj
+my_app/R1/img/desktop/img_desktop_ebook.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_ebook.c.obj
+.PHONY : my_app/R1/img/desktop/img_desktop_ebook.c.obj
 
-my_app/ebook/img/desktop/img_desktop_setting.i: my_app/ebook/img/desktop/img_desktop_setting.c.i
-.PHONY : my_app/ebook/img/desktop/img_desktop_setting.i
+my_app/R1/img/desktop/img_desktop_ebook.i: my_app/R1/img/desktop/img_desktop_ebook.c.i
+.PHONY : my_app/R1/img/desktop/img_desktop_ebook.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/img_desktop_setting.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_setting.c.i
-.PHONY : my_app/ebook/img/desktop/img_desktop_setting.c.i
+my_app/R1/img/desktop/img_desktop_ebook.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_ebook.c.i
+.PHONY : my_app/R1/img/desktop/img_desktop_ebook.c.i
 
-my_app/ebook/img/desktop/img_desktop_setting.s: my_app/ebook/img/desktop/img_desktop_setting.c.s
-.PHONY : my_app/ebook/img/desktop/img_desktop_setting.s
+my_app/R1/img/desktop/img_desktop_ebook.s: my_app/R1/img/desktop/img_desktop_ebook.c.s
+.PHONY : my_app/R1/img/desktop/img_desktop_ebook.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/img_desktop_setting.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_setting.c.s
-.PHONY : my_app/ebook/img/desktop/img_desktop_setting.c.s
+my_app/R1/img/desktop/img_desktop_ebook.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_ebook.c.s
+.PHONY : my_app/R1/img/desktop/img_desktop_ebook.c.s
 
-my_app/ebook/img/desktop/pic_module_bat_full.obj: my_app/ebook/img/desktop/pic_module_bat_full.c.obj
-.PHONY : my_app/ebook/img/desktop/pic_module_bat_full.obj
+my_app/R1/img/desktop/img_desktop_find_word.obj: my_app/R1/img/desktop/img_desktop_find_word.c.obj
+.PHONY : my_app/R1/img/desktop/img_desktop_find_word.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/pic_module_bat_full.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_bat_full.c.obj
-.PHONY : my_app/ebook/img/desktop/pic_module_bat_full.c.obj
+my_app/R1/img/desktop/img_desktop_find_word.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_find_word.c.obj
+.PHONY : my_app/R1/img/desktop/img_desktop_find_word.c.obj
 
-my_app/ebook/img/desktop/pic_module_bat_full.i: my_app/ebook/img/desktop/pic_module_bat_full.c.i
-.PHONY : my_app/ebook/img/desktop/pic_module_bat_full.i
+my_app/R1/img/desktop/img_desktop_find_word.i: my_app/R1/img/desktop/img_desktop_find_word.c.i
+.PHONY : my_app/R1/img/desktop/img_desktop_find_word.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/pic_module_bat_full.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_bat_full.c.i
-.PHONY : my_app/ebook/img/desktop/pic_module_bat_full.c.i
+my_app/R1/img/desktop/img_desktop_find_word.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_find_word.c.i
+.PHONY : my_app/R1/img/desktop/img_desktop_find_word.c.i
 
-my_app/ebook/img/desktop/pic_module_bat_full.s: my_app/ebook/img/desktop/pic_module_bat_full.c.s
-.PHONY : my_app/ebook/img/desktop/pic_module_bat_full.s
+my_app/R1/img/desktop/img_desktop_find_word.s: my_app/R1/img/desktop/img_desktop_find_word.c.s
+.PHONY : my_app/R1/img/desktop/img_desktop_find_word.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/pic_module_bat_full.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_bat_full.c.s
-.PHONY : my_app/ebook/img/desktop/pic_module_bat_full.c.s
+my_app/R1/img/desktop/img_desktop_find_word.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_find_word.c.s
+.PHONY : my_app/R1/img/desktop/img_desktop_find_word.c.s
 
-my_app/ebook/img/desktop/pic_module_ble_status.obj: my_app/ebook/img/desktop/pic_module_ble_status.c.obj
-.PHONY : my_app/ebook/img/desktop/pic_module_ble_status.obj
+my_app/R1/img/desktop/img_desktop_setting.obj: my_app/R1/img/desktop/img_desktop_setting.c.obj
+.PHONY : my_app/R1/img/desktop/img_desktop_setting.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/pic_module_ble_status.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_ble_status.c.obj
-.PHONY : my_app/ebook/img/desktop/pic_module_ble_status.c.obj
+my_app/R1/img/desktop/img_desktop_setting.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_setting.c.obj
+.PHONY : my_app/R1/img/desktop/img_desktop_setting.c.obj
 
-my_app/ebook/img/desktop/pic_module_ble_status.i: my_app/ebook/img/desktop/pic_module_ble_status.c.i
-.PHONY : my_app/ebook/img/desktop/pic_module_ble_status.i
+my_app/R1/img/desktop/img_desktop_setting.i: my_app/R1/img/desktop/img_desktop_setting.c.i
+.PHONY : my_app/R1/img/desktop/img_desktop_setting.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/pic_module_ble_status.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_ble_status.c.i
-.PHONY : my_app/ebook/img/desktop/pic_module_ble_status.c.i
+my_app/R1/img/desktop/img_desktop_setting.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_setting.c.i
+.PHONY : my_app/R1/img/desktop/img_desktop_setting.c.i
 
-my_app/ebook/img/desktop/pic_module_ble_status.s: my_app/ebook/img/desktop/pic_module_ble_status.c.s
-.PHONY : my_app/ebook/img/desktop/pic_module_ble_status.s
+my_app/R1/img/desktop/img_desktop_setting.s: my_app/R1/img/desktop/img_desktop_setting.c.s
+.PHONY : my_app/R1/img/desktop/img_desktop_setting.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/pic_module_ble_status.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_ble_status.c.s
-.PHONY : my_app/ebook/img/desktop/pic_module_ble_status.c.s
+my_app/R1/img/desktop/img_desktop_setting.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_setting.c.s
+.PHONY : my_app/R1/img/desktop/img_desktop_setting.c.s
 
-my_app/ebook/img/desktop/pic_module_charge_status.obj: my_app/ebook/img/desktop/pic_module_charge_status.c.obj
-.PHONY : my_app/ebook/img/desktop/pic_module_charge_status.obj
+my_app/R1/img/desktop/pic_module_bat_full.obj: my_app/R1/img/desktop/pic_module_bat_full.c.obj
+.PHONY : my_app/R1/img/desktop/pic_module_bat_full.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/pic_module_charge_status.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_charge_status.c.obj
-.PHONY : my_app/ebook/img/desktop/pic_module_charge_status.c.obj
+my_app/R1/img/desktop/pic_module_bat_full.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_bat_full.c.obj
+.PHONY : my_app/R1/img/desktop/pic_module_bat_full.c.obj
 
-my_app/ebook/img/desktop/pic_module_charge_status.i: my_app/ebook/img/desktop/pic_module_charge_status.c.i
-.PHONY : my_app/ebook/img/desktop/pic_module_charge_status.i
+my_app/R1/img/desktop/pic_module_bat_full.i: my_app/R1/img/desktop/pic_module_bat_full.c.i
+.PHONY : my_app/R1/img/desktop/pic_module_bat_full.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/pic_module_charge_status.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_charge_status.c.i
-.PHONY : my_app/ebook/img/desktop/pic_module_charge_status.c.i
+my_app/R1/img/desktop/pic_module_bat_full.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_bat_full.c.i
+.PHONY : my_app/R1/img/desktop/pic_module_bat_full.c.i
 
-my_app/ebook/img/desktop/pic_module_charge_status.s: my_app/ebook/img/desktop/pic_module_charge_status.c.s
-.PHONY : my_app/ebook/img/desktop/pic_module_charge_status.s
+my_app/R1/img/desktop/pic_module_bat_full.s: my_app/R1/img/desktop/pic_module_bat_full.c.s
+.PHONY : my_app/R1/img/desktop/pic_module_bat_full.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/pic_module_charge_status.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_charge_status.c.s
-.PHONY : my_app/ebook/img/desktop/pic_module_charge_status.c.s
+my_app/R1/img/desktop/pic_module_bat_full.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_bat_full.c.s
+.PHONY : my_app/R1/img/desktop/pic_module_bat_full.c.s
 
-my_app/ebook/img/desktop/pic_module_earphonr_status.obj: my_app/ebook/img/desktop/pic_module_earphonr_status.c.obj
-.PHONY : my_app/ebook/img/desktop/pic_module_earphonr_status.obj
+my_app/R1/img/desktop/pic_module_ble_status.obj: my_app/R1/img/desktop/pic_module_ble_status.c.obj
+.PHONY : my_app/R1/img/desktop/pic_module_ble_status.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/pic_module_earphonr_status.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_earphonr_status.c.obj
-.PHONY : my_app/ebook/img/desktop/pic_module_earphonr_status.c.obj
+my_app/R1/img/desktop/pic_module_ble_status.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_ble_status.c.obj
+.PHONY : my_app/R1/img/desktop/pic_module_ble_status.c.obj
 
-my_app/ebook/img/desktop/pic_module_earphonr_status.i: my_app/ebook/img/desktop/pic_module_earphonr_status.c.i
-.PHONY : my_app/ebook/img/desktop/pic_module_earphonr_status.i
+my_app/R1/img/desktop/pic_module_ble_status.i: my_app/R1/img/desktop/pic_module_ble_status.c.i
+.PHONY : my_app/R1/img/desktop/pic_module_ble_status.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/pic_module_earphonr_status.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_earphonr_status.c.i
-.PHONY : my_app/ebook/img/desktop/pic_module_earphonr_status.c.i
+my_app/R1/img/desktop/pic_module_ble_status.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_ble_status.c.i
+.PHONY : my_app/R1/img/desktop/pic_module_ble_status.c.i
 
-my_app/ebook/img/desktop/pic_module_earphonr_status.s: my_app/ebook/img/desktop/pic_module_earphonr_status.c.s
-.PHONY : my_app/ebook/img/desktop/pic_module_earphonr_status.s
+my_app/R1/img/desktop/pic_module_ble_status.s: my_app/R1/img/desktop/pic_module_ble_status.c.s
+.PHONY : my_app/R1/img/desktop/pic_module_ble_status.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/pic_module_earphonr_status.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_earphonr_status.c.s
-.PHONY : my_app/ebook/img/desktop/pic_module_earphonr_status.c.s
+my_app/R1/img/desktop/pic_module_ble_status.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_ble_status.c.s
+.PHONY : my_app/R1/img/desktop/pic_module_ble_status.c.s
 
-my_app/ebook/img/desktop/pic_module_wifi_status.obj: my_app/ebook/img/desktop/pic_module_wifi_status.c.obj
-.PHONY : my_app/ebook/img/desktop/pic_module_wifi_status.obj
+my_app/R1/img/desktop/pic_module_charge_status.obj: my_app/R1/img/desktop/pic_module_charge_status.c.obj
+.PHONY : my_app/R1/img/desktop/pic_module_charge_status.obj
 
 # target to build an object file
-my_app/ebook/img/desktop/pic_module_wifi_status.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_wifi_status.c.obj
-.PHONY : my_app/ebook/img/desktop/pic_module_wifi_status.c.obj
+my_app/R1/img/desktop/pic_module_charge_status.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_charge_status.c.obj
+.PHONY : my_app/R1/img/desktop/pic_module_charge_status.c.obj
 
-my_app/ebook/img/desktop/pic_module_wifi_status.i: my_app/ebook/img/desktop/pic_module_wifi_status.c.i
-.PHONY : my_app/ebook/img/desktop/pic_module_wifi_status.i
+my_app/R1/img/desktop/pic_module_charge_status.i: my_app/R1/img/desktop/pic_module_charge_status.c.i
+.PHONY : my_app/R1/img/desktop/pic_module_charge_status.i
 
 # target to preprocess a source file
-my_app/ebook/img/desktop/pic_module_wifi_status.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_wifi_status.c.i
-.PHONY : my_app/ebook/img/desktop/pic_module_wifi_status.c.i
+my_app/R1/img/desktop/pic_module_charge_status.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_charge_status.c.i
+.PHONY : my_app/R1/img/desktop/pic_module_charge_status.c.i
 
-my_app/ebook/img/desktop/pic_module_wifi_status.s: my_app/ebook/img/desktop/pic_module_wifi_status.c.s
-.PHONY : my_app/ebook/img/desktop/pic_module_wifi_status.s
+my_app/R1/img/desktop/pic_module_charge_status.s: my_app/R1/img/desktop/pic_module_charge_status.c.s
+.PHONY : my_app/R1/img/desktop/pic_module_charge_status.s
 
 # target to generate assembly for a file
-my_app/ebook/img/desktop/pic_module_wifi_status.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_wifi_status.c.s
-.PHONY : my_app/ebook/img/desktop/pic_module_wifi_status.c.s
+my_app/R1/img/desktop/pic_module_charge_status.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_charge_status.c.s
+.PHONY : my_app/R1/img/desktop/pic_module_charge_status.c.s
 
-my_app/ebook/img/image/BMP.obj: my_app/ebook/img/image/BMP.c.obj
-.PHONY : my_app/ebook/img/image/BMP.obj
+my_app/R1/img/desktop/pic_module_earphonr_status.obj: my_app/R1/img/desktop/pic_module_earphonr_status.c.obj
+.PHONY : my_app/R1/img/desktop/pic_module_earphonr_status.obj
 
 # target to build an object file
-my_app/ebook/img/image/BMP.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/BMP.c.obj
-.PHONY : my_app/ebook/img/image/BMP.c.obj
+my_app/R1/img/desktop/pic_module_earphonr_status.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_earphonr_status.c.obj
+.PHONY : my_app/R1/img/desktop/pic_module_earphonr_status.c.obj
 
-my_app/ebook/img/image/BMP.i: my_app/ebook/img/image/BMP.c.i
-.PHONY : my_app/ebook/img/image/BMP.i
+my_app/R1/img/desktop/pic_module_earphonr_status.i: my_app/R1/img/desktop/pic_module_earphonr_status.c.i
+.PHONY : my_app/R1/img/desktop/pic_module_earphonr_status.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/BMP.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/BMP.c.i
-.PHONY : my_app/ebook/img/image/BMP.c.i
+my_app/R1/img/desktop/pic_module_earphonr_status.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_earphonr_status.c.i
+.PHONY : my_app/R1/img/desktop/pic_module_earphonr_status.c.i
 
-my_app/ebook/img/image/BMP.s: my_app/ebook/img/image/BMP.c.s
-.PHONY : my_app/ebook/img/image/BMP.s
+my_app/R1/img/desktop/pic_module_earphonr_status.s: my_app/R1/img/desktop/pic_module_earphonr_status.c.s
+.PHONY : my_app/R1/img/desktop/pic_module_earphonr_status.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/BMP.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/BMP.c.s
-.PHONY : my_app/ebook/img/image/BMP.c.s
+my_app/R1/img/desktop/pic_module_earphonr_status.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_earphonr_status.c.s
+.PHONY : my_app/R1/img/desktop/pic_module_earphonr_status.c.s
 
-my_app/ebook/img/image/JPG.obj: my_app/ebook/img/image/JPG.c.obj
-.PHONY : my_app/ebook/img/image/JPG.obj
+my_app/R1/img/desktop/pic_module_wifi_status.obj: my_app/R1/img/desktop/pic_module_wifi_status.c.obj
+.PHONY : my_app/R1/img/desktop/pic_module_wifi_status.obj
 
 # target to build an object file
-my_app/ebook/img/image/JPG.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/JPG.c.obj
-.PHONY : my_app/ebook/img/image/JPG.c.obj
+my_app/R1/img/desktop/pic_module_wifi_status.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_wifi_status.c.obj
+.PHONY : my_app/R1/img/desktop/pic_module_wifi_status.c.obj
 
-my_app/ebook/img/image/JPG.i: my_app/ebook/img/image/JPG.c.i
-.PHONY : my_app/ebook/img/image/JPG.i
+my_app/R1/img/desktop/pic_module_wifi_status.i: my_app/R1/img/desktop/pic_module_wifi_status.c.i
+.PHONY : my_app/R1/img/desktop/pic_module_wifi_status.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/JPG.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/JPG.c.i
-.PHONY : my_app/ebook/img/image/JPG.c.i
+my_app/R1/img/desktop/pic_module_wifi_status.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_wifi_status.c.i
+.PHONY : my_app/R1/img/desktop/pic_module_wifi_status.c.i
 
-my_app/ebook/img/image/JPG.s: my_app/ebook/img/image/JPG.c.s
-.PHONY : my_app/ebook/img/image/JPG.s
+my_app/R1/img/desktop/pic_module_wifi_status.s: my_app/R1/img/desktop/pic_module_wifi_status.c.s
+.PHONY : my_app/R1/img/desktop/pic_module_wifi_status.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/JPG.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/JPG.c.s
-.PHONY : my_app/ebook/img/image/JPG.c.s
+my_app/R1/img/desktop/pic_module_wifi_status.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_wifi_status.c.s
+.PHONY : my_app/R1/img/desktop/pic_module_wifi_status.c.s
 
-my_app/ebook/img/image/QRCode.obj: my_app/ebook/img/image/QRCode.c.obj
-.PHONY : my_app/ebook/img/image/QRCode.obj
+my_app/R1/img/image/BMP.obj: my_app/R1/img/image/BMP.c.obj
+.PHONY : my_app/R1/img/image/BMP.obj
 
 # target to build an object file
-my_app/ebook/img/image/QRCode.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/QRCode.c.obj
-.PHONY : my_app/ebook/img/image/QRCode.c.obj
+my_app/R1/img/image/BMP.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/BMP.c.obj
+.PHONY : my_app/R1/img/image/BMP.c.obj
 
-my_app/ebook/img/image/QRCode.i: my_app/ebook/img/image/QRCode.c.i
-.PHONY : my_app/ebook/img/image/QRCode.i
+my_app/R1/img/image/BMP.i: my_app/R1/img/image/BMP.c.i
+.PHONY : my_app/R1/img/image/BMP.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/QRCode.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/QRCode.c.i
-.PHONY : my_app/ebook/img/image/QRCode.c.i
+my_app/R1/img/image/BMP.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/BMP.c.i
+.PHONY : my_app/R1/img/image/BMP.c.i
 
-my_app/ebook/img/image/QRCode.s: my_app/ebook/img/image/QRCode.c.s
-.PHONY : my_app/ebook/img/image/QRCode.s
+my_app/R1/img/image/BMP.s: my_app/R1/img/image/BMP.c.s
+.PHONY : my_app/R1/img/image/BMP.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/QRCode.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/QRCode.c.s
-.PHONY : my_app/ebook/img/image/QRCode.c.s
+my_app/R1/img/image/BMP.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/BMP.c.s
+.PHONY : my_app/R1/img/image/BMP.c.s
 
-my_app/ebook/img/image/about.obj: my_app/ebook/img/image/about.c.obj
-.PHONY : my_app/ebook/img/image/about.obj
+my_app/R1/img/image/JPG.obj: my_app/R1/img/image/JPG.c.obj
+.PHONY : my_app/R1/img/image/JPG.obj
 
 # target to build an object file
-my_app/ebook/img/image/about.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/about.c.obj
-.PHONY : my_app/ebook/img/image/about.c.obj
+my_app/R1/img/image/JPG.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/JPG.c.obj
+.PHONY : my_app/R1/img/image/JPG.c.obj
 
-my_app/ebook/img/image/about.i: my_app/ebook/img/image/about.c.i
-.PHONY : my_app/ebook/img/image/about.i
+my_app/R1/img/image/JPG.i: my_app/R1/img/image/JPG.c.i
+.PHONY : my_app/R1/img/image/JPG.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/about.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/about.c.i
-.PHONY : my_app/ebook/img/image/about.c.i
+my_app/R1/img/image/JPG.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/JPG.c.i
+.PHONY : my_app/R1/img/image/JPG.c.i
 
-my_app/ebook/img/image/about.s: my_app/ebook/img/image/about.c.s
-.PHONY : my_app/ebook/img/image/about.s
+my_app/R1/img/image/JPG.s: my_app/R1/img/image/JPG.c.s
+.PHONY : my_app/R1/img/image/JPG.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/about.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/about.c.s
-.PHONY : my_app/ebook/img/image/about.c.s
+my_app/R1/img/image/JPG.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/JPG.c.s
+.PHONY : my_app/R1/img/image/JPG.c.s
 
-my_app/ebook/img/image/de_about.obj: my_app/ebook/img/image/de_about.c.obj
-.PHONY : my_app/ebook/img/image/de_about.obj
+my_app/R1/img/image/QRCode.obj: my_app/R1/img/image/QRCode.c.obj
+.PHONY : my_app/R1/img/image/QRCode.obj
 
 # target to build an object file
-my_app/ebook/img/image/de_about.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_about.c.obj
-.PHONY : my_app/ebook/img/image/de_about.c.obj
+my_app/R1/img/image/QRCode.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/QRCode.c.obj
+.PHONY : my_app/R1/img/image/QRCode.c.obj
 
-my_app/ebook/img/image/de_about.i: my_app/ebook/img/image/de_about.c.i
-.PHONY : my_app/ebook/img/image/de_about.i
+my_app/R1/img/image/QRCode.i: my_app/R1/img/image/QRCode.c.i
+.PHONY : my_app/R1/img/image/QRCode.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/de_about.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_about.c.i
-.PHONY : my_app/ebook/img/image/de_about.c.i
+my_app/R1/img/image/QRCode.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/QRCode.c.i
+.PHONY : my_app/R1/img/image/QRCode.c.i
 
-my_app/ebook/img/image/de_about.s: my_app/ebook/img/image/de_about.c.s
-.PHONY : my_app/ebook/img/image/de_about.s
+my_app/R1/img/image/QRCode.s: my_app/R1/img/image/QRCode.c.s
+.PHONY : my_app/R1/img/image/QRCode.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/de_about.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_about.c.s
-.PHONY : my_app/ebook/img/image/de_about.c.s
+my_app/R1/img/image/QRCode.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/QRCode.c.s
+.PHONY : my_app/R1/img/image/QRCode.c.s
 
-my_app/ebook/img/image/de_factory.obj: my_app/ebook/img/image/de_factory.c.obj
-.PHONY : my_app/ebook/img/image/de_factory.obj
+my_app/R1/img/image/about.obj: my_app/R1/img/image/about.c.obj
+.PHONY : my_app/R1/img/image/about.obj
 
 # target to build an object file
-my_app/ebook/img/image/de_factory.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_factory.c.obj
-.PHONY : my_app/ebook/img/image/de_factory.c.obj
+my_app/R1/img/image/about.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/about.c.obj
+.PHONY : my_app/R1/img/image/about.c.obj
 
-my_app/ebook/img/image/de_factory.i: my_app/ebook/img/image/de_factory.c.i
-.PHONY : my_app/ebook/img/image/de_factory.i
+my_app/R1/img/image/about.i: my_app/R1/img/image/about.c.i
+.PHONY : my_app/R1/img/image/about.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/de_factory.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_factory.c.i
-.PHONY : my_app/ebook/img/image/de_factory.c.i
+my_app/R1/img/image/about.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/about.c.i
+.PHONY : my_app/R1/img/image/about.c.i
 
-my_app/ebook/img/image/de_factory.s: my_app/ebook/img/image/de_factory.c.s
-.PHONY : my_app/ebook/img/image/de_factory.s
+my_app/R1/img/image/about.s: my_app/R1/img/image/about.c.s
+.PHONY : my_app/R1/img/image/about.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/de_factory.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_factory.c.s
-.PHONY : my_app/ebook/img/image/de_factory.c.s
+my_app/R1/img/image/about.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/about.c.s
+.PHONY : my_app/R1/img/image/about.c.s
 
-my_app/ebook/img/image/de_lockscreen.obj: my_app/ebook/img/image/de_lockscreen.c.obj
-.PHONY : my_app/ebook/img/image/de_lockscreen.obj
+my_app/R1/img/image/de_about.obj: my_app/R1/img/image/de_about.c.obj
+.PHONY : my_app/R1/img/image/de_about.obj
 
 # target to build an object file
-my_app/ebook/img/image/de_lockscreen.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_lockscreen.c.obj
-.PHONY : my_app/ebook/img/image/de_lockscreen.c.obj
+my_app/R1/img/image/de_about.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_about.c.obj
+.PHONY : my_app/R1/img/image/de_about.c.obj
 
-my_app/ebook/img/image/de_lockscreen.i: my_app/ebook/img/image/de_lockscreen.c.i
-.PHONY : my_app/ebook/img/image/de_lockscreen.i
+my_app/R1/img/image/de_about.i: my_app/R1/img/image/de_about.c.i
+.PHONY : my_app/R1/img/image/de_about.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/de_lockscreen.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_lockscreen.c.i
-.PHONY : my_app/ebook/img/image/de_lockscreen.c.i
+my_app/R1/img/image/de_about.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_about.c.i
+.PHONY : my_app/R1/img/image/de_about.c.i
 
-my_app/ebook/img/image/de_lockscreen.s: my_app/ebook/img/image/de_lockscreen.c.s
-.PHONY : my_app/ebook/img/image/de_lockscreen.s
+my_app/R1/img/image/de_about.s: my_app/R1/img/image/de_about.c.s
+.PHONY : my_app/R1/img/image/de_about.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/de_lockscreen.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_lockscreen.c.s
-.PHONY : my_app/ebook/img/image/de_lockscreen.c.s
+my_app/R1/img/image/de_about.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_about.c.s
+.PHONY : my_app/R1/img/image/de_about.c.s
 
-my_app/ebook/img/image/de_storage.obj: my_app/ebook/img/image/de_storage.c.obj
-.PHONY : my_app/ebook/img/image/de_storage.obj
+my_app/R1/img/image/de_factory.obj: my_app/R1/img/image/de_factory.c.obj
+.PHONY : my_app/R1/img/image/de_factory.obj
 
 # target to build an object file
-my_app/ebook/img/image/de_storage.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_storage.c.obj
-.PHONY : my_app/ebook/img/image/de_storage.c.obj
+my_app/R1/img/image/de_factory.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_factory.c.obj
+.PHONY : my_app/R1/img/image/de_factory.c.obj
 
-my_app/ebook/img/image/de_storage.i: my_app/ebook/img/image/de_storage.c.i
-.PHONY : my_app/ebook/img/image/de_storage.i
+my_app/R1/img/image/de_factory.i: my_app/R1/img/image/de_factory.c.i
+.PHONY : my_app/R1/img/image/de_factory.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/de_storage.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_storage.c.i
-.PHONY : my_app/ebook/img/image/de_storage.c.i
+my_app/R1/img/image/de_factory.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_factory.c.i
+.PHONY : my_app/R1/img/image/de_factory.c.i
 
-my_app/ebook/img/image/de_storage.s: my_app/ebook/img/image/de_storage.c.s
-.PHONY : my_app/ebook/img/image/de_storage.s
+my_app/R1/img/image/de_factory.s: my_app/R1/img/image/de_factory.c.s
+.PHONY : my_app/R1/img/image/de_factory.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/de_storage.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/de_storage.c.s
-.PHONY : my_app/ebook/img/image/de_storage.c.s
+my_app/R1/img/image/de_factory.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_factory.c.s
+.PHONY : my_app/R1/img/image/de_factory.c.s
 
-my_app/ebook/img/image/factory.obj: my_app/ebook/img/image/factory.c.obj
-.PHONY : my_app/ebook/img/image/factory.obj
+my_app/R1/img/image/de_lockscreen.obj: my_app/R1/img/image/de_lockscreen.c.obj
+.PHONY : my_app/R1/img/image/de_lockscreen.obj
 
 # target to build an object file
-my_app/ebook/img/image/factory.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/factory.c.obj
-.PHONY : my_app/ebook/img/image/factory.c.obj
+my_app/R1/img/image/de_lockscreen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_lockscreen.c.obj
+.PHONY : my_app/R1/img/image/de_lockscreen.c.obj
 
-my_app/ebook/img/image/factory.i: my_app/ebook/img/image/factory.c.i
-.PHONY : my_app/ebook/img/image/factory.i
+my_app/R1/img/image/de_lockscreen.i: my_app/R1/img/image/de_lockscreen.c.i
+.PHONY : my_app/R1/img/image/de_lockscreen.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/factory.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/factory.c.i
-.PHONY : my_app/ebook/img/image/factory.c.i
+my_app/R1/img/image/de_lockscreen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_lockscreen.c.i
+.PHONY : my_app/R1/img/image/de_lockscreen.c.i
 
-my_app/ebook/img/image/factory.s: my_app/ebook/img/image/factory.c.s
-.PHONY : my_app/ebook/img/image/factory.s
+my_app/R1/img/image/de_lockscreen.s: my_app/R1/img/image/de_lockscreen.c.s
+.PHONY : my_app/R1/img/image/de_lockscreen.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/factory.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/factory.c.s
-.PHONY : my_app/ebook/img/image/factory.c.s
+my_app/R1/img/image/de_lockscreen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_lockscreen.c.s
+.PHONY : my_app/R1/img/image/de_lockscreen.c.s
 
-my_app/ebook/img/image/lockscreen.obj: my_app/ebook/img/image/lockscreen.c.obj
-.PHONY : my_app/ebook/img/image/lockscreen.obj
+my_app/R1/img/image/de_storage.obj: my_app/R1/img/image/de_storage.c.obj
+.PHONY : my_app/R1/img/image/de_storage.obj
 
 # target to build an object file
-my_app/ebook/img/image/lockscreen.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/lockscreen.c.obj
-.PHONY : my_app/ebook/img/image/lockscreen.c.obj
+my_app/R1/img/image/de_storage.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_storage.c.obj
+.PHONY : my_app/R1/img/image/de_storage.c.obj
 
-my_app/ebook/img/image/lockscreen.i: my_app/ebook/img/image/lockscreen.c.i
-.PHONY : my_app/ebook/img/image/lockscreen.i
+my_app/R1/img/image/de_storage.i: my_app/R1/img/image/de_storage.c.i
+.PHONY : my_app/R1/img/image/de_storage.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/lockscreen.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/lockscreen.c.i
-.PHONY : my_app/ebook/img/image/lockscreen.c.i
+my_app/R1/img/image/de_storage.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_storage.c.i
+.PHONY : my_app/R1/img/image/de_storage.c.i
 
-my_app/ebook/img/image/lockscreen.s: my_app/ebook/img/image/lockscreen.c.s
-.PHONY : my_app/ebook/img/image/lockscreen.s
+my_app/R1/img/image/de_storage.s: my_app/R1/img/image/de_storage.c.s
+.PHONY : my_app/R1/img/image/de_storage.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/lockscreen.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/lockscreen.c.s
-.PHONY : my_app/ebook/img/image/lockscreen.c.s
+my_app/R1/img/image/de_storage.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/de_storage.c.s
+.PHONY : my_app/R1/img/image/de_storage.c.s
 
-my_app/ebook/img/image/picture.obj: my_app/ebook/img/image/picture.c.obj
-.PHONY : my_app/ebook/img/image/picture.obj
+my_app/R1/img/image/factory.obj: my_app/R1/img/image/factory.c.obj
+.PHONY : my_app/R1/img/image/factory.obj
 
 # target to build an object file
-my_app/ebook/img/image/picture.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/picture.c.obj
-.PHONY : my_app/ebook/img/image/picture.c.obj
+my_app/R1/img/image/factory.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/factory.c.obj
+.PHONY : my_app/R1/img/image/factory.c.obj
 
-my_app/ebook/img/image/picture.i: my_app/ebook/img/image/picture.c.i
-.PHONY : my_app/ebook/img/image/picture.i
+my_app/R1/img/image/factory.i: my_app/R1/img/image/factory.c.i
+.PHONY : my_app/R1/img/image/factory.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/picture.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/picture.c.i
-.PHONY : my_app/ebook/img/image/picture.c.i
+my_app/R1/img/image/factory.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/factory.c.i
+.PHONY : my_app/R1/img/image/factory.c.i
 
-my_app/ebook/img/image/picture.s: my_app/ebook/img/image/picture.c.s
-.PHONY : my_app/ebook/img/image/picture.s
+my_app/R1/img/image/factory.s: my_app/R1/img/image/factory.c.s
+.PHONY : my_app/R1/img/image/factory.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/picture.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/picture.c.s
-.PHONY : my_app/ebook/img/image/picture.c.s
+my_app/R1/img/image/factory.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/factory.c.s
+.PHONY : my_app/R1/img/image/factory.c.s
 
-my_app/ebook/img/image/storage.obj: my_app/ebook/img/image/storage.c.obj
-.PHONY : my_app/ebook/img/image/storage.obj
+my_app/R1/img/image/lockscreen.obj: my_app/R1/img/image/lockscreen.c.obj
+.PHONY : my_app/R1/img/image/lockscreen.obj
 
 # target to build an object file
-my_app/ebook/img/image/storage.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/storage.c.obj
-.PHONY : my_app/ebook/img/image/storage.c.obj
+my_app/R1/img/image/lockscreen.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/lockscreen.c.obj
+.PHONY : my_app/R1/img/image/lockscreen.c.obj
 
-my_app/ebook/img/image/storage.i: my_app/ebook/img/image/storage.c.i
-.PHONY : my_app/ebook/img/image/storage.i
+my_app/R1/img/image/lockscreen.i: my_app/R1/img/image/lockscreen.c.i
+.PHONY : my_app/R1/img/image/lockscreen.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/storage.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/storage.c.i
-.PHONY : my_app/ebook/img/image/storage.c.i
+my_app/R1/img/image/lockscreen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/lockscreen.c.i
+.PHONY : my_app/R1/img/image/lockscreen.c.i
 
-my_app/ebook/img/image/storage.s: my_app/ebook/img/image/storage.c.s
-.PHONY : my_app/ebook/img/image/storage.s
+my_app/R1/img/image/lockscreen.s: my_app/R1/img/image/lockscreen.c.s
+.PHONY : my_app/R1/img/image/lockscreen.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/storage.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/storage.c.s
-.PHONY : my_app/ebook/img/image/storage.c.s
+my_app/R1/img/image/lockscreen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/lockscreen.c.s
+.PHONY : my_app/R1/img/image/lockscreen.c.s
 
-my_app/ebook/img/image/txt.obj: my_app/ebook/img/image/txt.c.obj
-.PHONY : my_app/ebook/img/image/txt.obj
+my_app/R1/img/image/picture.obj: my_app/R1/img/image/picture.c.obj
+.PHONY : my_app/R1/img/image/picture.obj
 
 # target to build an object file
-my_app/ebook/img/image/txt.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/txt.c.obj
-.PHONY : my_app/ebook/img/image/txt.c.obj
+my_app/R1/img/image/picture.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/picture.c.obj
+.PHONY : my_app/R1/img/image/picture.c.obj
 
-my_app/ebook/img/image/txt.i: my_app/ebook/img/image/txt.c.i
-.PHONY : my_app/ebook/img/image/txt.i
+my_app/R1/img/image/picture.i: my_app/R1/img/image/picture.c.i
+.PHONY : my_app/R1/img/image/picture.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/txt.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/txt.c.i
-.PHONY : my_app/ebook/img/image/txt.c.i
+my_app/R1/img/image/picture.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/picture.c.i
+.PHONY : my_app/R1/img/image/picture.c.i
 
-my_app/ebook/img/image/txt.s: my_app/ebook/img/image/txt.c.s
-.PHONY : my_app/ebook/img/image/txt.s
+my_app/R1/img/image/picture.s: my_app/R1/img/image/picture.c.s
+.PHONY : my_app/R1/img/image/picture.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/txt.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/txt.c.s
-.PHONY : my_app/ebook/img/image/txt.c.s
+my_app/R1/img/image/picture.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/picture.c.s
+.PHONY : my_app/R1/img/image/picture.c.s
 
-my_app/ebook/img/image/wifi_icon.obj: my_app/ebook/img/image/wifi_icon.c.obj
-.PHONY : my_app/ebook/img/image/wifi_icon.obj
+my_app/R1/img/image/storage.obj: my_app/R1/img/image/storage.c.obj
+.PHONY : my_app/R1/img/image/storage.obj
 
 # target to build an object file
-my_app/ebook/img/image/wifi_icon.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/wifi_icon.c.obj
-.PHONY : my_app/ebook/img/image/wifi_icon.c.obj
+my_app/R1/img/image/storage.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/storage.c.obj
+.PHONY : my_app/R1/img/image/storage.c.obj
 
-my_app/ebook/img/image/wifi_icon.i: my_app/ebook/img/image/wifi_icon.c.i
-.PHONY : my_app/ebook/img/image/wifi_icon.i
+my_app/R1/img/image/storage.i: my_app/R1/img/image/storage.c.i
+.PHONY : my_app/R1/img/image/storage.i
 
 # target to preprocess a source file
-my_app/ebook/img/image/wifi_icon.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/wifi_icon.c.i
-.PHONY : my_app/ebook/img/image/wifi_icon.c.i
+my_app/R1/img/image/storage.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/storage.c.i
+.PHONY : my_app/R1/img/image/storage.c.i
 
-my_app/ebook/img/image/wifi_icon.s: my_app/ebook/img/image/wifi_icon.c.s
-.PHONY : my_app/ebook/img/image/wifi_icon.s
+my_app/R1/img/image/storage.s: my_app/R1/img/image/storage.c.s
+.PHONY : my_app/R1/img/image/storage.s
 
 # target to generate assembly for a file
-my_app/ebook/img/image/wifi_icon.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/image/wifi_icon.c.s
-.PHONY : my_app/ebook/img/image/wifi_icon.c.s
+my_app/R1/img/image/storage.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/storage.c.s
+.PHONY : my_app/R1/img/image/storage.c.s
 
-my_app/ebook/img/img_file_list/icon_com_cursor.obj: my_app/ebook/img/img_file_list/icon_com_cursor.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_cursor.obj
+my_app/R1/img/image/txt.obj: my_app/R1/img/image/txt.c.obj
+.PHONY : my_app/R1/img/image/txt.obj
 
 # target to build an object file
-my_app/ebook/img/img_file_list/icon_com_cursor.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_cursor.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_cursor.c.obj
+my_app/R1/img/image/txt.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/txt.c.obj
+.PHONY : my_app/R1/img/image/txt.c.obj
 
-my_app/ebook/img/img_file_list/icon_com_cursor.i: my_app/ebook/img/img_file_list/icon_com_cursor.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_cursor.i
+my_app/R1/img/image/txt.i: my_app/R1/img/image/txt.c.i
+.PHONY : my_app/R1/img/image/txt.i
 
 # target to preprocess a source file
-my_app/ebook/img/img_file_list/icon_com_cursor.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_cursor.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_cursor.c.i
+my_app/R1/img/image/txt.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/txt.c.i
+.PHONY : my_app/R1/img/image/txt.c.i
 
-my_app/ebook/img/img_file_list/icon_com_cursor.s: my_app/ebook/img/img_file_list/icon_com_cursor.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_cursor.s
+my_app/R1/img/image/txt.s: my_app/R1/img/image/txt.c.s
+.PHONY : my_app/R1/img/image/txt.s
 
 # target to generate assembly for a file
-my_app/ebook/img/img_file_list/icon_com_cursor.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_cursor.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_cursor.c.s
+my_app/R1/img/image/txt.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/txt.c.s
+.PHONY : my_app/R1/img/image/txt.c.s
 
-my_app/ebook/img/img_file_list/icon_com_exit.obj: my_app/ebook/img/img_file_list/icon_com_exit.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_exit.obj
+my_app/R1/img/image/wifi_icon.obj: my_app/R1/img/image/wifi_icon.c.obj
+.PHONY : my_app/R1/img/image/wifi_icon.obj
 
 # target to build an object file
-my_app/ebook/img/img_file_list/icon_com_exit.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_exit.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_exit.c.obj
+my_app/R1/img/image/wifi_icon.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/wifi_icon.c.obj
+.PHONY : my_app/R1/img/image/wifi_icon.c.obj
 
-my_app/ebook/img/img_file_list/icon_com_exit.i: my_app/ebook/img/img_file_list/icon_com_exit.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_exit.i
+my_app/R1/img/image/wifi_icon.i: my_app/R1/img/image/wifi_icon.c.i
+.PHONY : my_app/R1/img/image/wifi_icon.i
 
 # target to preprocess a source file
-my_app/ebook/img/img_file_list/icon_com_exit.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_exit.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_exit.c.i
+my_app/R1/img/image/wifi_icon.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/wifi_icon.c.i
+.PHONY : my_app/R1/img/image/wifi_icon.c.i
 
-my_app/ebook/img/img_file_list/icon_com_exit.s: my_app/ebook/img/img_file_list/icon_com_exit.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_exit.s
+my_app/R1/img/image/wifi_icon.s: my_app/R1/img/image/wifi_icon.c.s
+.PHONY : my_app/R1/img/image/wifi_icon.s
 
 # target to generate assembly for a file
-my_app/ebook/img/img_file_list/icon_com_exit.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_exit.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_exit.c.s
+my_app/R1/img/image/wifi_icon.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/image/wifi_icon.c.s
+.PHONY : my_app/R1/img/image/wifi_icon.c.s
 
-my_app/ebook/img/img_file_list/icon_com_file_list_folder.obj: my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_folder.obj
+my_app/R1/img/img_file_list/icon_com_cursor.obj: my_app/R1/img/img_file_list/icon_com_cursor.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_cursor.obj
 
 # target to build an object file
-my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.obj
+my_app/R1/img/img_file_list/icon_com_cursor.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_cursor.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_cursor.c.obj
 
-my_app/ebook/img/img_file_list/icon_com_file_list_folder.i: my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_folder.i
+my_app/R1/img/img_file_list/icon_com_cursor.i: my_app/R1/img/img_file_list/icon_com_cursor.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_cursor.i
 
 # target to preprocess a source file
-my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.i
+my_app/R1/img/img_file_list/icon_com_cursor.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_cursor.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_cursor.c.i
 
-my_app/ebook/img/img_file_list/icon_com_file_list_folder.s: my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_folder.s
+my_app/R1/img/img_file_list/icon_com_cursor.s: my_app/R1/img/img_file_list/icon_com_cursor.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_cursor.s
 
 # target to generate assembly for a file
-my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.s
+my_app/R1/img/img_file_list/icon_com_cursor.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_cursor.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_cursor.c.s
 
-my_app/ebook/img/img_file_list/icon_com_file_list_music.obj: my_app/ebook/img/img_file_list/icon_com_file_list_music.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_music.obj
+my_app/R1/img/img_file_list/icon_com_exit.obj: my_app/R1/img/img_file_list/icon_com_exit.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_exit.obj
 
 # target to build an object file
-my_app/ebook/img/img_file_list/icon_com_file_list_music.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_music.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_music.c.obj
+my_app/R1/img/img_file_list/icon_com_exit.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_exit.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_exit.c.obj
 
-my_app/ebook/img/img_file_list/icon_com_file_list_music.i: my_app/ebook/img/img_file_list/icon_com_file_list_music.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_music.i
+my_app/R1/img/img_file_list/icon_com_exit.i: my_app/R1/img/img_file_list/icon_com_exit.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_exit.i
 
 # target to preprocess a source file
-my_app/ebook/img/img_file_list/icon_com_file_list_music.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_music.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_music.c.i
+my_app/R1/img/img_file_list/icon_com_exit.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_exit.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_exit.c.i
 
-my_app/ebook/img/img_file_list/icon_com_file_list_music.s: my_app/ebook/img/img_file_list/icon_com_file_list_music.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_music.s
+my_app/R1/img/img_file_list/icon_com_exit.s: my_app/R1/img/img_file_list/icon_com_exit.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_exit.s
 
 # target to generate assembly for a file
-my_app/ebook/img/img_file_list/icon_com_file_list_music.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_music.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_music.c.s
+my_app/R1/img/img_file_list/icon_com_exit.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_exit.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_exit.c.s
 
-my_app/ebook/img/img_file_list/icon_com_file_list_txt.obj: my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_txt.obj
+my_app/R1/img/img_file_list/icon_com_file_list_folder.obj: my_app/R1/img/img_file_list/icon_com_file_list_folder.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_folder.obj
 
 # target to build an object file
-my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.obj
+my_app/R1/img/img_file_list/icon_com_file_list_folder.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_folder.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_folder.c.obj
 
-my_app/ebook/img/img_file_list/icon_com_file_list_txt.i: my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_txt.i
+my_app/R1/img/img_file_list/icon_com_file_list_folder.i: my_app/R1/img/img_file_list/icon_com_file_list_folder.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_folder.i
 
 # target to preprocess a source file
-my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.i
+my_app/R1/img/img_file_list/icon_com_file_list_folder.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_folder.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_folder.c.i
 
-my_app/ebook/img/img_file_list/icon_com_file_list_txt.s: my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_txt.s
+my_app/R1/img/img_file_list/icon_com_file_list_folder.s: my_app/R1/img/img_file_list/icon_com_file_list_folder.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_folder.s
 
 # target to generate assembly for a file
-my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.s
+my_app/R1/img/img_file_list/icon_com_file_list_folder.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_folder.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_folder.c.s
 
-my_app/ebook/img/img_file_list/icon_com_file_list_unknown.obj: my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_unknown.obj
+my_app/R1/img/img_file_list/icon_com_file_list_music.obj: my_app/R1/img/img_file_list/icon_com_file_list_music.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_music.obj
 
 # target to build an object file
-my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.obj
+my_app/R1/img/img_file_list/icon_com_file_list_music.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_music.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_music.c.obj
 
-my_app/ebook/img/img_file_list/icon_com_file_list_unknown.i: my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_unknown.i
+my_app/R1/img/img_file_list/icon_com_file_list_music.i: my_app/R1/img/img_file_list/icon_com_file_list_music.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_music.i
 
 # target to preprocess a source file
-my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.i
+my_app/R1/img/img_file_list/icon_com_file_list_music.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_music.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_music.c.i
 
-my_app/ebook/img/img_file_list/icon_com_file_list_unknown.s: my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_unknown.s
+my_app/R1/img/img_file_list/icon_com_file_list_music.s: my_app/R1/img/img_file_list/icon_com_file_list_music.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_music.s
 
 # target to generate assembly for a file
-my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.s
+my_app/R1/img/img_file_list/icon_com_file_list_music.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_music.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_music.c.s
 
-my_app/ebook/img/img_file_list/icon_com_keyboard_delete.obj: my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_delete.obj
+my_app/R1/img/img_file_list/icon_com_file_list_txt.obj: my_app/R1/img/img_file_list/icon_com_file_list_txt.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_txt.obj
 
 # target to build an object file
-my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.obj
+my_app/R1/img/img_file_list/icon_com_file_list_txt.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_txt.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_txt.c.obj
 
-my_app/ebook/img/img_file_list/icon_com_keyboard_delete.i: my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_delete.i
+my_app/R1/img/img_file_list/icon_com_file_list_txt.i: my_app/R1/img/img_file_list/icon_com_file_list_txt.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_txt.i
 
 # target to preprocess a source file
-my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.i
+my_app/R1/img/img_file_list/icon_com_file_list_txt.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_txt.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_txt.c.i
 
-my_app/ebook/img/img_file_list/icon_com_keyboard_delete.s: my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_delete.s
+my_app/R1/img/img_file_list/icon_com_file_list_txt.s: my_app/R1/img/img_file_list/icon_com_file_list_txt.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_txt.s
 
 # target to generate assembly for a file
-my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.s
+my_app/R1/img/img_file_list/icon_com_file_list_txt.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_txt.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_txt.c.s
 
-my_app/ebook/img/img_file_list/icon_com_keyboard_upper.obj: my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_upper.obj
+my_app/R1/img/img_file_list/icon_com_file_list_unknown.obj: my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_unknown.obj
 
 # target to build an object file
-my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.obj
+my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.obj
 
-my_app/ebook/img/img_file_list/icon_com_keyboard_upper.i: my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_upper.i
+my_app/R1/img/img_file_list/icon_com_file_list_unknown.i: my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_unknown.i
 
 # target to preprocess a source file
-my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.i
+my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.i
 
-my_app/ebook/img/img_file_list/icon_com_keyboard_upper.s: my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_upper.s
+my_app/R1/img/img_file_list/icon_com_file_list_unknown.s: my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_unknown.s
 
 # target to generate assembly for a file
-my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.s
+my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.s
 
-my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.obj: my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.obj
+my_app/R1/img/img_file_list/icon_com_keyboard_delete.obj: my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_delete.obj
 
 # target to build an object file
-my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.obj
-.PHONY : my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.obj
+my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.obj
 
-my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.i: my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.i
+my_app/R1/img/img_file_list/icon_com_keyboard_delete.i: my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_delete.i
 
 # target to preprocess a source file
-my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.i
-.PHONY : my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.i
+my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.i
 
-my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.s: my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.s
+my_app/R1/img/img_file_list/icon_com_keyboard_delete.s: my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_delete.s
 
 # target to generate assembly for a file
-my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.s
-.PHONY : my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.s
+my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.s
 
-my_app/ebook/img/img_file_list/spell_yes.obj: my_app/ebook/img/img_file_list/spell_yes.c.obj
-.PHONY : my_app/ebook/img/img_file_list/spell_yes.obj
+my_app/R1/img/img_file_list/icon_com_keyboard_upper.obj: my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_upper.obj
 
 # target to build an object file
-my_app/ebook/img/img_file_list/spell_yes.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/spell_yes.c.obj
-.PHONY : my_app/ebook/img/img_file_list/spell_yes.c.obj
+my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.obj
 
-my_app/ebook/img/img_file_list/spell_yes.i: my_app/ebook/img/img_file_list/spell_yes.c.i
-.PHONY : my_app/ebook/img/img_file_list/spell_yes.i
+my_app/R1/img/img_file_list/icon_com_keyboard_upper.i: my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_upper.i
 
 # target to preprocess a source file
-my_app/ebook/img/img_file_list/spell_yes.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/spell_yes.c.i
-.PHONY : my_app/ebook/img/img_file_list/spell_yes.c.i
+my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.i
 
-my_app/ebook/img/img_file_list/spell_yes.s: my_app/ebook/img/img_file_list/spell_yes.c.s
-.PHONY : my_app/ebook/img/img_file_list/spell_yes.s
+my_app/R1/img/img_file_list/icon_com_keyboard_upper.s: my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_upper.s
 
 # target to generate assembly for a file
-my_app/ebook/img/img_file_list/spell_yes.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/spell_yes.c.s
-.PHONY : my_app/ebook/img/img_file_list/spell_yes.c.s
+my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.s
 
-my_app/ebook/img/img_file_list/thick_left_arrow.obj: my_app/ebook/img/img_file_list/thick_left_arrow.c.obj
-.PHONY : my_app/ebook/img/img_file_list/thick_left_arrow.obj
+my_app/R1/img/img_file_list/icon_com_trumpet_18x17.obj: my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_trumpet_18x17.obj
 
 # target to build an object file
-my_app/ebook/img/img_file_list/thick_left_arrow.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/thick_left_arrow.c.obj
-.PHONY : my_app/ebook/img/img_file_list/thick_left_arrow.c.obj
+my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.obj
+.PHONY : my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.obj
 
-my_app/ebook/img/img_file_list/thick_left_arrow.i: my_app/ebook/img/img_file_list/thick_left_arrow.c.i
-.PHONY : my_app/ebook/img/img_file_list/thick_left_arrow.i
+my_app/R1/img/img_file_list/icon_com_trumpet_18x17.i: my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_trumpet_18x17.i
 
 # target to preprocess a source file
-my_app/ebook/img/img_file_list/thick_left_arrow.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/thick_left_arrow.c.i
-.PHONY : my_app/ebook/img/img_file_list/thick_left_arrow.c.i
+my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.i
+.PHONY : my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.i
 
-my_app/ebook/img/img_file_list/thick_left_arrow.s: my_app/ebook/img/img_file_list/thick_left_arrow.c.s
-.PHONY : my_app/ebook/img/img_file_list/thick_left_arrow.s
+my_app/R1/img/img_file_list/icon_com_trumpet_18x17.s: my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_trumpet_18x17.s
 
 # target to generate assembly for a file
-my_app/ebook/img/img_file_list/thick_left_arrow.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/img_file_list/thick_left_arrow.c.s
-.PHONY : my_app/ebook/img/img_file_list/thick_left_arrow.c.s
+my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.s
+.PHONY : my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.s
 
-my_app/ebook/img/poweroff/img_normal_poweroff.obj: my_app/ebook/img/poweroff/img_normal_poweroff.c.obj
-.PHONY : my_app/ebook/img/poweroff/img_normal_poweroff.obj
+my_app/R1/img/img_file_list/spell_yes.obj: my_app/R1/img/img_file_list/spell_yes.c.obj
+.PHONY : my_app/R1/img/img_file_list/spell_yes.obj
 
 # target to build an object file
-my_app/ebook/img/poweroff/img_normal_poweroff.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/poweroff/img_normal_poweroff.c.obj
-.PHONY : my_app/ebook/img/poweroff/img_normal_poweroff.c.obj
+my_app/R1/img/img_file_list/spell_yes.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/spell_yes.c.obj
+.PHONY : my_app/R1/img/img_file_list/spell_yes.c.obj
 
-my_app/ebook/img/poweroff/img_normal_poweroff.i: my_app/ebook/img/poweroff/img_normal_poweroff.c.i
-.PHONY : my_app/ebook/img/poweroff/img_normal_poweroff.i
+my_app/R1/img/img_file_list/spell_yes.i: my_app/R1/img/img_file_list/spell_yes.c.i
+.PHONY : my_app/R1/img/img_file_list/spell_yes.i
 
 # target to preprocess a source file
-my_app/ebook/img/poweroff/img_normal_poweroff.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/poweroff/img_normal_poweroff.c.i
-.PHONY : my_app/ebook/img/poweroff/img_normal_poweroff.c.i
+my_app/R1/img/img_file_list/spell_yes.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/spell_yes.c.i
+.PHONY : my_app/R1/img/img_file_list/spell_yes.c.i
 
-my_app/ebook/img/poweroff/img_normal_poweroff.s: my_app/ebook/img/poweroff/img_normal_poweroff.c.s
-.PHONY : my_app/ebook/img/poweroff/img_normal_poweroff.s
+my_app/R1/img/img_file_list/spell_yes.s: my_app/R1/img/img_file_list/spell_yes.c.s
+.PHONY : my_app/R1/img/img_file_list/spell_yes.s
 
 # target to generate assembly for a file
-my_app/ebook/img/poweroff/img_normal_poweroff.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/poweroff/img_normal_poweroff.c.s
-.PHONY : my_app/ebook/img/poweroff/img_normal_poweroff.c.s
+my_app/R1/img/img_file_list/spell_yes.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/spell_yes.c.s
+.PHONY : my_app/R1/img/img_file_list/spell_yes.c.s
 
-my_app/ebook/img/setting/minutes.obj: my_app/ebook/img/setting/minutes.c.obj
-.PHONY : my_app/ebook/img/setting/minutes.obj
+my_app/R1/img/img_file_list/thick_left_arrow.obj: my_app/R1/img/img_file_list/thick_left_arrow.c.obj
+.PHONY : my_app/R1/img/img_file_list/thick_left_arrow.obj
 
 # target to build an object file
-my_app/ebook/img/setting/minutes.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/minutes.c.obj
-.PHONY : my_app/ebook/img/setting/minutes.c.obj
+my_app/R1/img/img_file_list/thick_left_arrow.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/thick_left_arrow.c.obj
+.PHONY : my_app/R1/img/img_file_list/thick_left_arrow.c.obj
 
-my_app/ebook/img/setting/minutes.i: my_app/ebook/img/setting/minutes.c.i
-.PHONY : my_app/ebook/img/setting/minutes.i
+my_app/R1/img/img_file_list/thick_left_arrow.i: my_app/R1/img/img_file_list/thick_left_arrow.c.i
+.PHONY : my_app/R1/img/img_file_list/thick_left_arrow.i
 
 # target to preprocess a source file
-my_app/ebook/img/setting/minutes.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/minutes.c.i
-.PHONY : my_app/ebook/img/setting/minutes.c.i
+my_app/R1/img/img_file_list/thick_left_arrow.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/thick_left_arrow.c.i
+.PHONY : my_app/R1/img/img_file_list/thick_left_arrow.c.i
 
-my_app/ebook/img/setting/minutes.s: my_app/ebook/img/setting/minutes.c.s
-.PHONY : my_app/ebook/img/setting/minutes.s
+my_app/R1/img/img_file_list/thick_left_arrow.s: my_app/R1/img/img_file_list/thick_left_arrow.c.s
+.PHONY : my_app/R1/img/img_file_list/thick_left_arrow.s
 
 # target to generate assembly for a file
-my_app/ebook/img/setting/minutes.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/minutes.c.s
-.PHONY : my_app/ebook/img/setting/minutes.c.s
+my_app/R1/img/img_file_list/thick_left_arrow.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/img_file_list/thick_left_arrow.c.s
+.PHONY : my_app/R1/img/img_file_list/thick_left_arrow.c.s
 
-my_app/ebook/img/setting/new_selected.obj: my_app/ebook/img/setting/new_selected.c.obj
-.PHONY : my_app/ebook/img/setting/new_selected.obj
+my_app/R1/img/poweroff/img_normal_poweroff.obj: my_app/R1/img/poweroff/img_normal_poweroff.c.obj
+.PHONY : my_app/R1/img/poweroff/img_normal_poweroff.obj
 
 # target to build an object file
-my_app/ebook/img/setting/new_selected.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/new_selected.c.obj
-.PHONY : my_app/ebook/img/setting/new_selected.c.obj
+my_app/R1/img/poweroff/img_normal_poweroff.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/poweroff/img_normal_poweroff.c.obj
+.PHONY : my_app/R1/img/poweroff/img_normal_poweroff.c.obj
 
-my_app/ebook/img/setting/new_selected.i: my_app/ebook/img/setting/new_selected.c.i
-.PHONY : my_app/ebook/img/setting/new_selected.i
+my_app/R1/img/poweroff/img_normal_poweroff.i: my_app/R1/img/poweroff/img_normal_poweroff.c.i
+.PHONY : my_app/R1/img/poweroff/img_normal_poweroff.i
 
 # target to preprocess a source file
-my_app/ebook/img/setting/new_selected.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/new_selected.c.i
-.PHONY : my_app/ebook/img/setting/new_selected.c.i
+my_app/R1/img/poweroff/img_normal_poweroff.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/poweroff/img_normal_poweroff.c.i
+.PHONY : my_app/R1/img/poweroff/img_normal_poweroff.c.i
 
-my_app/ebook/img/setting/new_selected.s: my_app/ebook/img/setting/new_selected.c.s
-.PHONY : my_app/ebook/img/setting/new_selected.s
+my_app/R1/img/poweroff/img_normal_poweroff.s: my_app/R1/img/poweroff/img_normal_poweroff.c.s
+.PHONY : my_app/R1/img/poweroff/img_normal_poweroff.s
 
 # target to generate assembly for a file
-my_app/ebook/img/setting/new_selected.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/new_selected.c.s
-.PHONY : my_app/ebook/img/setting/new_selected.c.s
+my_app/R1/img/poweroff/img_normal_poweroff.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/poweroff/img_normal_poweroff.c.s
+.PHONY : my_app/R1/img/poweroff/img_normal_poweroff.c.s
 
-my_app/ebook/img/setting/selected.obj: my_app/ebook/img/setting/selected.c.obj
-.PHONY : my_app/ebook/img/setting/selected.obj
+my_app/R1/img/setting/minutes.obj: my_app/R1/img/setting/minutes.c.obj
+.PHONY : my_app/R1/img/setting/minutes.obj
 
 # target to build an object file
-my_app/ebook/img/setting/selected.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/selected.c.obj
-.PHONY : my_app/ebook/img/setting/selected.c.obj
+my_app/R1/img/setting/minutes.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/minutes.c.obj
+.PHONY : my_app/R1/img/setting/minutes.c.obj
 
-my_app/ebook/img/setting/selected.i: my_app/ebook/img/setting/selected.c.i
-.PHONY : my_app/ebook/img/setting/selected.i
+my_app/R1/img/setting/minutes.i: my_app/R1/img/setting/minutes.c.i
+.PHONY : my_app/R1/img/setting/minutes.i
 
 # target to preprocess a source file
-my_app/ebook/img/setting/selected.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/selected.c.i
-.PHONY : my_app/ebook/img/setting/selected.c.i
+my_app/R1/img/setting/minutes.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/minutes.c.i
+.PHONY : my_app/R1/img/setting/minutes.c.i
 
-my_app/ebook/img/setting/selected.s: my_app/ebook/img/setting/selected.c.s
-.PHONY : my_app/ebook/img/setting/selected.s
+my_app/R1/img/setting/minutes.s: my_app/R1/img/setting/minutes.c.s
+.PHONY : my_app/R1/img/setting/minutes.s
 
 # target to generate assembly for a file
-my_app/ebook/img/setting/selected.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/selected.c.s
-.PHONY : my_app/ebook/img/setting/selected.c.s
+my_app/R1/img/setting/minutes.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/minutes.c.s
+.PHONY : my_app/R1/img/setting/minutes.c.s
 
-my_app/ebook/img/setting/selected_reverse.obj: my_app/ebook/img/setting/selected_reverse.c.obj
-.PHONY : my_app/ebook/img/setting/selected_reverse.obj
+my_app/R1/img/setting/new_selected.obj: my_app/R1/img/setting/new_selected.c.obj
+.PHONY : my_app/R1/img/setting/new_selected.obj
 
 # target to build an object file
-my_app/ebook/img/setting/selected_reverse.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.obj
-.PHONY : my_app/ebook/img/setting/selected_reverse.c.obj
+my_app/R1/img/setting/new_selected.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/new_selected.c.obj
+.PHONY : my_app/R1/img/setting/new_selected.c.obj
 
-my_app/ebook/img/setting/selected_reverse.i: my_app/ebook/img/setting/selected_reverse.c.i
-.PHONY : my_app/ebook/img/setting/selected_reverse.i
+my_app/R1/img/setting/new_selected.i: my_app/R1/img/setting/new_selected.c.i
+.PHONY : my_app/R1/img/setting/new_selected.i
 
 # target to preprocess a source file
-my_app/ebook/img/setting/selected_reverse.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.i
-.PHONY : my_app/ebook/img/setting/selected_reverse.c.i
+my_app/R1/img/setting/new_selected.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/new_selected.c.i
+.PHONY : my_app/R1/img/setting/new_selected.c.i
 
-my_app/ebook/img/setting/selected_reverse.s: my_app/ebook/img/setting/selected_reverse.c.s
-.PHONY : my_app/ebook/img/setting/selected_reverse.s
+my_app/R1/img/setting/new_selected.s: my_app/R1/img/setting/new_selected.c.s
+.PHONY : my_app/R1/img/setting/new_selected.s
 
 # target to generate assembly for a file
-my_app/ebook/img/setting/selected_reverse.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.s
-.PHONY : my_app/ebook/img/setting/selected_reverse.c.s
+my_app/R1/img/setting/new_selected.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/new_selected.c.s
+.PHONY : my_app/R1/img/setting/new_selected.c.s
 
-my_app/ebook/main.obj: my_app/ebook/main.c.obj
-.PHONY : my_app/ebook/main.obj
+my_app/R1/img/setting/selected.obj: my_app/R1/img/setting/selected.c.obj
+.PHONY : my_app/R1/img/setting/selected.obj
 
 # target to build an object file
-my_app/ebook/main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/main.c.obj
-.PHONY : my_app/ebook/main.c.obj
+my_app/R1/img/setting/selected.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/selected.c.obj
+.PHONY : my_app/R1/img/setting/selected.c.obj
 
-my_app/ebook/main.i: my_app/ebook/main.c.i
-.PHONY : my_app/ebook/main.i
+my_app/R1/img/setting/selected.i: my_app/R1/img/setting/selected.c.i
+.PHONY : my_app/R1/img/setting/selected.i
 
 # target to preprocess a source file
-my_app/ebook/main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/main.c.i
-.PHONY : my_app/ebook/main.c.i
+my_app/R1/img/setting/selected.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/selected.c.i
+.PHONY : my_app/R1/img/setting/selected.c.i
 
-my_app/ebook/main.s: my_app/ebook/main.c.s
-.PHONY : my_app/ebook/main.s
+my_app/R1/img/setting/selected.s: my_app/R1/img/setting/selected.c.s
+.PHONY : my_app/R1/img/setting/selected.s
 
 # target to generate assembly for a file
-my_app/ebook/main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/main.c.s
-.PHONY : my_app/ebook/main.c.s
+my_app/R1/img/setting/selected.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/selected.c.s
+.PHONY : my_app/R1/img/setting/selected.c.s
 
-my_app/ebook/ui/ui_common/ui_common.obj: my_app/ebook/ui/ui_common/ui_common.c.obj
-.PHONY : my_app/ebook/ui/ui_common/ui_common.obj
+my_app/R1/img/setting/selected_reverse.obj: my_app/R1/img/setting/selected_reverse.c.obj
+.PHONY : my_app/R1/img/setting/selected_reverse.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_common/ui_common.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_common/ui_common.c.obj
-.PHONY : my_app/ebook/ui/ui_common/ui_common.c.obj
+my_app/R1/img/setting/selected_reverse.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/selected_reverse.c.obj
+.PHONY : my_app/R1/img/setting/selected_reverse.c.obj
 
-my_app/ebook/ui/ui_common/ui_common.i: my_app/ebook/ui/ui_common/ui_common.c.i
-.PHONY : my_app/ebook/ui/ui_common/ui_common.i
+my_app/R1/img/setting/selected_reverse.i: my_app/R1/img/setting/selected_reverse.c.i
+.PHONY : my_app/R1/img/setting/selected_reverse.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_common/ui_common.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_common/ui_common.c.i
-.PHONY : my_app/ebook/ui/ui_common/ui_common.c.i
+my_app/R1/img/setting/selected_reverse.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/selected_reverse.c.i
+.PHONY : my_app/R1/img/setting/selected_reverse.c.i
 
-my_app/ebook/ui/ui_common/ui_common.s: my_app/ebook/ui/ui_common/ui_common.c.s
-.PHONY : my_app/ebook/ui/ui_common/ui_common.s
+my_app/R1/img/setting/selected_reverse.s: my_app/R1/img/setting/selected_reverse.c.s
+.PHONY : my_app/R1/img/setting/selected_reverse.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_common/ui_common.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_common/ui_common.c.s
-.PHONY : my_app/ebook/ui/ui_common/ui_common.c.s
+my_app/R1/img/setting/selected_reverse.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/setting/selected_reverse.c.s
+.PHONY : my_app/R1/img/setting/selected_reverse.c.s
 
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.obj: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.obj
+my_app/R1/img/voice_translation/catalog.obj: my_app/R1/img/voice_translation/catalog.c.obj
+.PHONY : my_app/R1/img/voice_translation/catalog.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj
+my_app/R1/img/voice_translation/catalog.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/catalog.c.obj
+.PHONY : my_app/R1/img/voice_translation/catalog.c.obj
 
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.i: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.i
+my_app/R1/img/voice_translation/catalog.i: my_app/R1/img/voice_translation/catalog.c.i
+.PHONY : my_app/R1/img/voice_translation/catalog.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.i
+my_app/R1/img/voice_translation/catalog.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/catalog.c.i
+.PHONY : my_app/R1/img/voice_translation/catalog.c.i
 
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.s: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.s
+my_app/R1/img/voice_translation/catalog.s: my_app/R1/img/voice_translation/catalog.c.s
+.PHONY : my_app/R1/img/voice_translation/catalog.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.s
+my_app/R1/img/voice_translation/catalog.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/catalog.c.s
+.PHONY : my_app/R1/img/voice_translation/catalog.c.s
 
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.obj: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.obj
+my_app/R1/img/voice_translation/icon_ai_talk_listening.obj: my_app/R1/img/voice_translation/icon_ai_talk_listening.c.obj
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_listening.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.obj
+my_app/R1/img/voice_translation/icon_ai_talk_listening.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_listening.c.obj
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_listening.c.obj
 
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.i: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.i
+my_app/R1/img/voice_translation/icon_ai_talk_listening.i: my_app/R1/img/voice_translation/icon_ai_talk_listening.c.i
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_listening.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.i
+my_app/R1/img/voice_translation/icon_ai_talk_listening.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_listening.c.i
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_listening.c.i
 
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.s: my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.s
+my_app/R1/img/voice_translation/icon_ai_talk_listening.s: my_app/R1/img/voice_translation/icon_ai_talk_listening.c.s
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_listening.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.s
+my_app/R1/img/voice_translation/icon_ai_talk_listening.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_listening.c.s
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_listening.c.s
 
-my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.obj: my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.obj
+my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.obj: my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.obj
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.obj
+my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.obj
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.obj
 
-my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.i: my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.i
+my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.i: my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.i
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.i
+my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.i
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.i
 
-my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.s: my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.s
+my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.s: my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.s
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.s
+my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.s
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.s
 
-my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.obj: my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.obj
+my_app/R1/img/voice_translation/icon_ai_talk_thinking.obj: my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.obj
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_thinking.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.obj
+my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.obj
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.obj
 
-my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.i: my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.i
+my_app/R1/img/voice_translation/icon_ai_talk_thinking.i: my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.i
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_thinking.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.i
+my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.i
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.i
 
-my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.s: my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.s
+my_app/R1/img/voice_translation/icon_ai_talk_thinking.s: my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.s
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_thinking.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.s
+my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.s
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.s
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj
+my_app/R1/img/voice_translation/icon_ai_talk_user_logo.obj: my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.obj
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_user_logo.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.obj
+my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.obj
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.obj
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.i
+my_app/R1/img/voice_translation/icon_ai_talk_user_logo.i: my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.i
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_user_logo.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.i
+my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.i
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.i
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.s
+my_app/R1/img/voice_translation/icon_ai_talk_user_logo.s: my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.s
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_user_logo.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.s
+my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.s
+.PHONY : my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.s
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.obj
+my_app/R1/img/voice_translation/icon_translate_failed.obj: my_app/R1/img/voice_translation/icon_translate_failed.c.obj
+.PHONY : my_app/R1/img/voice_translation/icon_translate_failed.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.obj
+my_app/R1/img/voice_translation/icon_translate_failed.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_translate_failed.c.obj
+.PHONY : my_app/R1/img/voice_translation/icon_translate_failed.c.obj
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.i
+my_app/R1/img/voice_translation/icon_translate_failed.i: my_app/R1/img/voice_translation/icon_translate_failed.c.i
+.PHONY : my_app/R1/img/voice_translation/icon_translate_failed.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.i
+my_app/R1/img/voice_translation/icon_translate_failed.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_translate_failed.c.i
+.PHONY : my_app/R1/img/voice_translation/icon_translate_failed.c.i
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.s
+my_app/R1/img/voice_translation/icon_translate_failed.s: my_app/R1/img/voice_translation/icon_translate_failed.c.s
+.PHONY : my_app/R1/img/voice_translation/icon_translate_failed.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.s
+my_app/R1/img/voice_translation/icon_translate_failed.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_translate_failed.c.s
+.PHONY : my_app/R1/img/voice_translation/icon_translate_failed.c.s
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.obj
+my_app/R1/img/voice_translation/speaking.obj: my_app/R1/img/voice_translation/speaking.c.obj
+.PHONY : my_app/R1/img/voice_translation/speaking.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.obj
+my_app/R1/img/voice_translation/speaking.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/speaking.c.obj
+.PHONY : my_app/R1/img/voice_translation/speaking.c.obj
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.i
+my_app/R1/img/voice_translation/speaking.i: my_app/R1/img/voice_translation/speaking.c.i
+.PHONY : my_app/R1/img/voice_translation/speaking.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.i
+my_app/R1/img/voice_translation/speaking.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/speaking.c.i
+.PHONY : my_app/R1/img/voice_translation/speaking.c.i
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.s
+my_app/R1/img/voice_translation/speaking.s: my_app/R1/img/voice_translation/speaking.c.s
+.PHONY : my_app/R1/img/voice_translation/speaking.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.s
+my_app/R1/img/voice_translation/speaking.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/img/voice_translation/speaking.c.s
+.PHONY : my_app/R1/img/voice_translation/speaking.c.s
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.obj
+my_app/R1/main.obj: my_app/R1/main.c.obj
+.PHONY : my_app/R1/main.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.obj
+my_app/R1/main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/main.c.obj
+.PHONY : my_app/R1/main.c.obj
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.i
+my_app/R1/main.i: my_app/R1/main.c.i
+.PHONY : my_app/R1/main.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.i
+my_app/R1/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/main.c.i
+.PHONY : my_app/R1/main.c.i
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.s
+my_app/R1/main.s: my_app/R1/main.c.s
+.PHONY : my_app/R1/main.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.s
+my_app/R1/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/main.c.s
+.PHONY : my_app/R1/main.c.s
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.obj
+my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.obj: my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.obj
+.PHONY : my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.obj
+my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.obj
+.PHONY : my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.obj
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.i
+my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.i: my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.i
+.PHONY : my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.i
+my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.i
+.PHONY : my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.i
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.s
+my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.s: my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.s
+.PHONY : my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.s
+my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.s
+.PHONY : my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.s
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.obj
+my_app/R1/ui/ui_common/ui_common.obj: my_app/R1/ui/ui_common/ui_common.c.obj
+.PHONY : my_app/R1/ui/ui_common/ui_common.obj
 
 # target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.obj
+my_app/R1/ui/ui_common/ui_common.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/ui/ui_common/ui_common.c.obj
+.PHONY : my_app/R1/ui/ui_common/ui_common.c.obj
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.i
+my_app/R1/ui/ui_common/ui_common.i: my_app/R1/ui/ui_common/ui_common.c.i
+.PHONY : my_app/R1/ui/ui_common/ui_common.i
 
 # target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.i
+my_app/R1/ui/ui_common/ui_common.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/ui/ui_common/ui_common.c.i
+.PHONY : my_app/R1/ui/ui_common/ui_common.c.i
 
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.s
+my_app/R1/ui/ui_common/ui_common.s: my_app/R1/ui/ui_common/ui_common.c.s
+.PHONY : my_app/R1/ui/ui_common/ui_common.s
 
 # target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.s
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.i
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.s
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.i
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.s
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.i
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.s
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.i
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.s
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.i
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.s
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.obj: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.i: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.i
-
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.s: my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.s
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.i
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.s
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.i
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.s
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.i
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.s
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.i
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.s
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.i
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.s
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.i
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.s
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.i
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.s
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.i
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.s
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.obj: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.obj
-
-# target to build an object file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.i: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.i
-
-# target to preprocess a source file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.i
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.i
-
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.s: my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.s
-
-# target to generate assembly for a file
-my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.s
-.PHONY : my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.s
+my_app/R1/ui/ui_common/ui_common.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/ui/ui_common/ui_common.c.s
+.PHONY : my_app/R1/ui/ui_common/ui_common.c.s
 
 # Help Target
 help:
@@ -9529,240 +9169,195 @@ help:
 	@echo ... mouse_cursor_icon.obj
 	@echo ... mouse_cursor_icon.i
 	@echo ... mouse_cursor_icon.s
-	@echo ... my_app/ebook/font/lv_font_Bold_24.obj
-	@echo ... my_app/ebook/font/lv_font_Bold_24.i
-	@echo ... my_app/ebook/font/lv_font_Bold_24.s
-	@echo ... my_app/ebook/font/lv_font_CN_ExtraLight_20.obj
-	@echo ... my_app/ebook/font/lv_font_CN_ExtraLight_20.i
-	@echo ... my_app/ebook/font/lv_font_CN_ExtraLight_20.s
-	@echo ... my_app/ebook/font/lv_font_CN_ExtraLight_24.obj
-	@echo ... my_app/ebook/font/lv_font_CN_ExtraLight_24.i
-	@echo ... my_app/ebook/font/lv_font_CN_ExtraLight_24.s
-	@echo ... my_app/ebook/font/lv_font_bczunicode_20.obj
-	@echo ... my_app/ebook/font/lv_font_bczunicode_20.i
-	@echo ... my_app/ebook/font/lv_font_bczunicode_20.s
-	@echo ... my_app/ebook/font/lv_font_sourcehans_gbk_20.obj
-	@echo ... my_app/ebook/font/lv_font_sourcehans_gbk_20.i
-	@echo ... my_app/ebook/font/lv_font_sourcehans_gbk_20.s
-	@echo ... my_app/ebook/font/lv_font_sourcehansanssc_medium_20.obj
-	@echo ... my_app/ebook/font/lv_font_sourcehansanssc_medium_20.i
-	@echo ... my_app/ebook/font/lv_font_sourcehansanssc_medium_20.s
-	@echo ... my_app/ebook/font/lv_font_unicode_gbk_24.obj
-	@echo ... my_app/ebook/font/lv_font_unicode_gbk_24.i
-	@echo ... my_app/ebook/font/lv_font_unicode_gbk_24.s
-	@echo ... my_app/ebook/font/lv_font_unifont_16.obj
-	@echo ... my_app/ebook/font/lv_font_unifont_16.i
-	@echo ... my_app/ebook/font/lv_font_unifont_16.s
-	@echo ... my_app/ebook/img/desktop/icom_desktop_bat_5.obj
-	@echo ... my_app/ebook/img/desktop/icom_desktop_bat_5.i
-	@echo ... my_app/ebook/img/desktop/icom_desktop_bat_5.s
-	@echo ... my_app/ebook/img/desktop/icom_desktop_bt.obj
-	@echo ... my_app/ebook/img/desktop/icom_desktop_bt.i
-	@echo ... my_app/ebook/img/desktop/icom_desktop_bt.s
-	@echo ... my_app/ebook/img/desktop/icom_desktop_charge.obj
-	@echo ... my_app/ebook/img/desktop/icom_desktop_charge.i
-	@echo ... my_app/ebook/img/desktop/icom_desktop_charge.s
-	@echo ... my_app/ebook/img/desktop/icom_desktop_earphone.obj
-	@echo ... my_app/ebook/img/desktop/icom_desktop_earphone.i
-	@echo ... my_app/ebook/img/desktop/icom_desktop_earphone.s
-	@echo ... my_app/ebook/img/desktop/icom_desktop_wifi.obj
-	@echo ... my_app/ebook/img/desktop/icom_desktop_wifi.i
-	@echo ... my_app/ebook/img/desktop/icom_desktop_wifi.s
-	@echo ... my_app/ebook/img/desktop/img_desktop_ebook.obj
-	@echo ... my_app/ebook/img/desktop/img_desktop_ebook.i
-	@echo ... my_app/ebook/img/desktop/img_desktop_ebook.s
-	@echo ... my_app/ebook/img/desktop/img_desktop_find_word.obj
-	@echo ... my_app/ebook/img/desktop/img_desktop_find_word.i
-	@echo ... my_app/ebook/img/desktop/img_desktop_find_word.s
-	@echo ... my_app/ebook/img/desktop/img_desktop_setting.obj
-	@echo ... my_app/ebook/img/desktop/img_desktop_setting.i
-	@echo ... my_app/ebook/img/desktop/img_desktop_setting.s
-	@echo ... my_app/ebook/img/desktop/pic_module_bat_full.obj
-	@echo ... my_app/ebook/img/desktop/pic_module_bat_full.i
-	@echo ... my_app/ebook/img/desktop/pic_module_bat_full.s
-	@echo ... my_app/ebook/img/desktop/pic_module_ble_status.obj
-	@echo ... my_app/ebook/img/desktop/pic_module_ble_status.i
-	@echo ... my_app/ebook/img/desktop/pic_module_ble_status.s
-	@echo ... my_app/ebook/img/desktop/pic_module_charge_status.obj
-	@echo ... my_app/ebook/img/desktop/pic_module_charge_status.i
-	@echo ... my_app/ebook/img/desktop/pic_module_charge_status.s
-	@echo ... my_app/ebook/img/desktop/pic_module_earphonr_status.obj
-	@echo ... my_app/ebook/img/desktop/pic_module_earphonr_status.i
-	@echo ... my_app/ebook/img/desktop/pic_module_earphonr_status.s
-	@echo ... my_app/ebook/img/desktop/pic_module_wifi_status.obj
-	@echo ... my_app/ebook/img/desktop/pic_module_wifi_status.i
-	@echo ... my_app/ebook/img/desktop/pic_module_wifi_status.s
-	@echo ... my_app/ebook/img/image/BMP.obj
-	@echo ... my_app/ebook/img/image/BMP.i
-	@echo ... my_app/ebook/img/image/BMP.s
-	@echo ... my_app/ebook/img/image/JPG.obj
-	@echo ... my_app/ebook/img/image/JPG.i
-	@echo ... my_app/ebook/img/image/JPG.s
-	@echo ... my_app/ebook/img/image/QRCode.obj
-	@echo ... my_app/ebook/img/image/QRCode.i
-	@echo ... my_app/ebook/img/image/QRCode.s
-	@echo ... my_app/ebook/img/image/about.obj
-	@echo ... my_app/ebook/img/image/about.i
-	@echo ... my_app/ebook/img/image/about.s
-	@echo ... my_app/ebook/img/image/de_about.obj
-	@echo ... my_app/ebook/img/image/de_about.i
-	@echo ... my_app/ebook/img/image/de_about.s
-	@echo ... my_app/ebook/img/image/de_factory.obj
-	@echo ... my_app/ebook/img/image/de_factory.i
-	@echo ... my_app/ebook/img/image/de_factory.s
-	@echo ... my_app/ebook/img/image/de_lockscreen.obj
-	@echo ... my_app/ebook/img/image/de_lockscreen.i
-	@echo ... my_app/ebook/img/image/de_lockscreen.s
-	@echo ... my_app/ebook/img/image/de_storage.obj
-	@echo ... my_app/ebook/img/image/de_storage.i
-	@echo ... my_app/ebook/img/image/de_storage.s
-	@echo ... my_app/ebook/img/image/factory.obj
-	@echo ... my_app/ebook/img/image/factory.i
-	@echo ... my_app/ebook/img/image/factory.s
-	@echo ... my_app/ebook/img/image/lockscreen.obj
-	@echo ... my_app/ebook/img/image/lockscreen.i
-	@echo ... my_app/ebook/img/image/lockscreen.s
-	@echo ... my_app/ebook/img/image/picture.obj
-	@echo ... my_app/ebook/img/image/picture.i
-	@echo ... my_app/ebook/img/image/picture.s
-	@echo ... my_app/ebook/img/image/storage.obj
-	@echo ... my_app/ebook/img/image/storage.i
-	@echo ... my_app/ebook/img/image/storage.s
-	@echo ... my_app/ebook/img/image/txt.obj
-	@echo ... my_app/ebook/img/image/txt.i
-	@echo ... my_app/ebook/img/image/txt.s
-	@echo ... my_app/ebook/img/image/wifi_icon.obj
-	@echo ... my_app/ebook/img/image/wifi_icon.i
-	@echo ... my_app/ebook/img/image/wifi_icon.s
-	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.obj
-	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.i
-	@echo ... my_app/ebook/img/img_file_list/icon_com_cursor.s
-	@echo ... my_app/ebook/img/img_file_list/icon_com_exit.obj
-	@echo ... my_app/ebook/img/img_file_list/icon_com_exit.i
-	@echo ... my_app/ebook/img/img_file_list/icon_com_exit.s
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_folder.obj
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_folder.i
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_folder.s
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_music.obj
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_music.i
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_music.s
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_txt.obj
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_txt.i
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_txt.s
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_unknown.obj
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_unknown.i
-	@echo ... my_app/ebook/img/img_file_list/icon_com_file_list_unknown.s
-	@echo ... my_app/ebook/img/img_file_list/icon_com_keyboard_delete.obj
-	@echo ... my_app/ebook/img/img_file_list/icon_com_keyboard_delete.i
-	@echo ... my_app/ebook/img/img_file_list/icon_com_keyboard_delete.s
-	@echo ... my_app/ebook/img/img_file_list/icon_com_keyboard_upper.obj
-	@echo ... my_app/ebook/img/img_file_list/icon_com_keyboard_upper.i
-	@echo ... my_app/ebook/img/img_file_list/icon_com_keyboard_upper.s
-	@echo ... my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.obj
-	@echo ... my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.i
-	@echo ... my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.s
-	@echo ... my_app/ebook/img/img_file_list/spell_yes.obj
-	@echo ... my_app/ebook/img/img_file_list/spell_yes.i
-	@echo ... my_app/ebook/img/img_file_list/spell_yes.s
-	@echo ... my_app/ebook/img/img_file_list/thick_left_arrow.obj
-	@echo ... my_app/ebook/img/img_file_list/thick_left_arrow.i
-	@echo ... my_app/ebook/img/img_file_list/thick_left_arrow.s
-	@echo ... my_app/ebook/img/poweroff/img_normal_poweroff.obj
-	@echo ... my_app/ebook/img/poweroff/img_normal_poweroff.i
-	@echo ... my_app/ebook/img/poweroff/img_normal_poweroff.s
-	@echo ... my_app/ebook/img/setting/minutes.obj
-	@echo ... my_app/ebook/img/setting/minutes.i
-	@echo ... my_app/ebook/img/setting/minutes.s
-	@echo ... my_app/ebook/img/setting/new_selected.obj
-	@echo ... my_app/ebook/img/setting/new_selected.i
-	@echo ... my_app/ebook/img/setting/new_selected.s
-	@echo ... my_app/ebook/img/setting/selected.obj
-	@echo ... my_app/ebook/img/setting/selected.i
-	@echo ... my_app/ebook/img/setting/selected.s
-	@echo ... my_app/ebook/img/setting/selected_reverse.obj
-	@echo ... my_app/ebook/img/setting/selected_reverse.i
-	@echo ... my_app/ebook/img/setting/selected_reverse.s
-	@echo ... my_app/ebook/main.obj
-	@echo ... my_app/ebook/main.i
-	@echo ... my_app/ebook/main.s
-	@echo ... my_app/ebook/ui/ui_common/ui_common.obj
-	@echo ... my_app/ebook/ui/ui_common/ui_common.i
-	@echo ... my_app/ebook/ui/ui_common/ui_common.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.s
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.obj
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.i
-	@echo ... my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.s
+	@echo ... my_app/R1/font/lv_font_Bold_24.obj
+	@echo ... my_app/R1/font/lv_font_Bold_24.i
+	@echo ... my_app/R1/font/lv_font_Bold_24.s
+	@echo ... my_app/R1/font/lv_font_CN_ExtraLight_20.obj
+	@echo ... my_app/R1/font/lv_font_CN_ExtraLight_20.i
+	@echo ... my_app/R1/font/lv_font_CN_ExtraLight_20.s
+	@echo ... my_app/R1/font/lv_font_CN_ExtraLight_24.obj
+	@echo ... my_app/R1/font/lv_font_CN_ExtraLight_24.i
+	@echo ... my_app/R1/font/lv_font_CN_ExtraLight_24.s
+	@echo ... my_app/R1/font/lv_font_aliPuHui_30.obj
+	@echo ... my_app/R1/font/lv_font_aliPuHui_30.i
+	@echo ... my_app/R1/font/lv_font_aliPuHui_30.s
+	@echo ... my_app/R1/font/lv_font_aliPuHui_36.obj
+	@echo ... my_app/R1/font/lv_font_aliPuHui_36.i
+	@echo ... my_app/R1/font/lv_font_aliPuHui_36.s
+	@echo ... my_app/R1/font/lv_font_bczunicode_20.obj
+	@echo ... my_app/R1/font/lv_font_bczunicode_20.i
+	@echo ... my_app/R1/font/lv_font_bczunicode_20.s
+	@echo ... my_app/R1/font/lv_font_sourcehans_gbk_20.obj
+	@echo ... my_app/R1/font/lv_font_sourcehans_gbk_20.i
+	@echo ... my_app/R1/font/lv_font_sourcehans_gbk_20.s
+	@echo ... my_app/R1/font/lv_font_sourcehansanssc_medium_20.obj
+	@echo ... my_app/R1/font/lv_font_sourcehansanssc_medium_20.i
+	@echo ... my_app/R1/font/lv_font_sourcehansanssc_medium_20.s
+	@echo ... my_app/R1/font/lv_font_unicode_gbk_24.obj
+	@echo ... my_app/R1/font/lv_font_unicode_gbk_24.i
+	@echo ... my_app/R1/font/lv_font_unicode_gbk_24.s
+	@echo ... my_app/R1/font/lv_font_unifont_16.obj
+	@echo ... my_app/R1/font/lv_font_unifont_16.i
+	@echo ... my_app/R1/font/lv_font_unifont_16.s
+	@echo ... my_app/R1/img/desktop/icom_desktop_bat_5.obj
+	@echo ... my_app/R1/img/desktop/icom_desktop_bat_5.i
+	@echo ... my_app/R1/img/desktop/icom_desktop_bat_5.s
+	@echo ... my_app/R1/img/desktop/icom_desktop_bt.obj
+	@echo ... my_app/R1/img/desktop/icom_desktop_bt.i
+	@echo ... my_app/R1/img/desktop/icom_desktop_bt.s
+	@echo ... my_app/R1/img/desktop/icom_desktop_charge.obj
+	@echo ... my_app/R1/img/desktop/icom_desktop_charge.i
+	@echo ... my_app/R1/img/desktop/icom_desktop_charge.s
+	@echo ... my_app/R1/img/desktop/icom_desktop_earphone.obj
+	@echo ... my_app/R1/img/desktop/icom_desktop_earphone.i
+	@echo ... my_app/R1/img/desktop/icom_desktop_earphone.s
+	@echo ... my_app/R1/img/desktop/icom_desktop_wifi.obj
+	@echo ... my_app/R1/img/desktop/icom_desktop_wifi.i
+	@echo ... my_app/R1/img/desktop/icom_desktop_wifi.s
+	@echo ... my_app/R1/img/desktop/img_desktop_ebook.obj
+	@echo ... my_app/R1/img/desktop/img_desktop_ebook.i
+	@echo ... my_app/R1/img/desktop/img_desktop_ebook.s
+	@echo ... my_app/R1/img/desktop/img_desktop_find_word.obj
+	@echo ... my_app/R1/img/desktop/img_desktop_find_word.i
+	@echo ... my_app/R1/img/desktop/img_desktop_find_word.s
+	@echo ... my_app/R1/img/desktop/img_desktop_setting.obj
+	@echo ... my_app/R1/img/desktop/img_desktop_setting.i
+	@echo ... my_app/R1/img/desktop/img_desktop_setting.s
+	@echo ... my_app/R1/img/desktop/pic_module_bat_full.obj
+	@echo ... my_app/R1/img/desktop/pic_module_bat_full.i
+	@echo ... my_app/R1/img/desktop/pic_module_bat_full.s
+	@echo ... my_app/R1/img/desktop/pic_module_ble_status.obj
+	@echo ... my_app/R1/img/desktop/pic_module_ble_status.i
+	@echo ... my_app/R1/img/desktop/pic_module_ble_status.s
+	@echo ... my_app/R1/img/desktop/pic_module_charge_status.obj
+	@echo ... my_app/R1/img/desktop/pic_module_charge_status.i
+	@echo ... my_app/R1/img/desktop/pic_module_charge_status.s
+	@echo ... my_app/R1/img/desktop/pic_module_earphonr_status.obj
+	@echo ... my_app/R1/img/desktop/pic_module_earphonr_status.i
+	@echo ... my_app/R1/img/desktop/pic_module_earphonr_status.s
+	@echo ... my_app/R1/img/desktop/pic_module_wifi_status.obj
+	@echo ... my_app/R1/img/desktop/pic_module_wifi_status.i
+	@echo ... my_app/R1/img/desktop/pic_module_wifi_status.s
+	@echo ... my_app/R1/img/image/BMP.obj
+	@echo ... my_app/R1/img/image/BMP.i
+	@echo ... my_app/R1/img/image/BMP.s
+	@echo ... my_app/R1/img/image/JPG.obj
+	@echo ... my_app/R1/img/image/JPG.i
+	@echo ... my_app/R1/img/image/JPG.s
+	@echo ... my_app/R1/img/image/QRCode.obj
+	@echo ... my_app/R1/img/image/QRCode.i
+	@echo ... my_app/R1/img/image/QRCode.s
+	@echo ... my_app/R1/img/image/about.obj
+	@echo ... my_app/R1/img/image/about.i
+	@echo ... my_app/R1/img/image/about.s
+	@echo ... my_app/R1/img/image/de_about.obj
+	@echo ... my_app/R1/img/image/de_about.i
+	@echo ... my_app/R1/img/image/de_about.s
+	@echo ... my_app/R1/img/image/de_factory.obj
+	@echo ... my_app/R1/img/image/de_factory.i
+	@echo ... my_app/R1/img/image/de_factory.s
+	@echo ... my_app/R1/img/image/de_lockscreen.obj
+	@echo ... my_app/R1/img/image/de_lockscreen.i
+	@echo ... my_app/R1/img/image/de_lockscreen.s
+	@echo ... my_app/R1/img/image/de_storage.obj
+	@echo ... my_app/R1/img/image/de_storage.i
+	@echo ... my_app/R1/img/image/de_storage.s
+	@echo ... my_app/R1/img/image/factory.obj
+	@echo ... my_app/R1/img/image/factory.i
+	@echo ... my_app/R1/img/image/factory.s
+	@echo ... my_app/R1/img/image/lockscreen.obj
+	@echo ... my_app/R1/img/image/lockscreen.i
+	@echo ... my_app/R1/img/image/lockscreen.s
+	@echo ... my_app/R1/img/image/picture.obj
+	@echo ... my_app/R1/img/image/picture.i
+	@echo ... my_app/R1/img/image/picture.s
+	@echo ... my_app/R1/img/image/storage.obj
+	@echo ... my_app/R1/img/image/storage.i
+	@echo ... my_app/R1/img/image/storage.s
+	@echo ... my_app/R1/img/image/txt.obj
+	@echo ... my_app/R1/img/image/txt.i
+	@echo ... my_app/R1/img/image/txt.s
+	@echo ... my_app/R1/img/image/wifi_icon.obj
+	@echo ... my_app/R1/img/image/wifi_icon.i
+	@echo ... my_app/R1/img/image/wifi_icon.s
+	@echo ... my_app/R1/img/img_file_list/icon_com_cursor.obj
+	@echo ... my_app/R1/img/img_file_list/icon_com_cursor.i
+	@echo ... my_app/R1/img/img_file_list/icon_com_cursor.s
+	@echo ... my_app/R1/img/img_file_list/icon_com_exit.obj
+	@echo ... my_app/R1/img/img_file_list/icon_com_exit.i
+	@echo ... my_app/R1/img/img_file_list/icon_com_exit.s
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_folder.obj
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_folder.i
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_folder.s
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_music.obj
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_music.i
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_music.s
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_txt.obj
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_txt.i
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_txt.s
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_unknown.obj
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_unknown.i
+	@echo ... my_app/R1/img/img_file_list/icon_com_file_list_unknown.s
+	@echo ... my_app/R1/img/img_file_list/icon_com_keyboard_delete.obj
+	@echo ... my_app/R1/img/img_file_list/icon_com_keyboard_delete.i
+	@echo ... my_app/R1/img/img_file_list/icon_com_keyboard_delete.s
+	@echo ... my_app/R1/img/img_file_list/icon_com_keyboard_upper.obj
+	@echo ... my_app/R1/img/img_file_list/icon_com_keyboard_upper.i
+	@echo ... my_app/R1/img/img_file_list/icon_com_keyboard_upper.s
+	@echo ... my_app/R1/img/img_file_list/icon_com_trumpet_18x17.obj
+	@echo ... my_app/R1/img/img_file_list/icon_com_trumpet_18x17.i
+	@echo ... my_app/R1/img/img_file_list/icon_com_trumpet_18x17.s
+	@echo ... my_app/R1/img/img_file_list/spell_yes.obj
+	@echo ... my_app/R1/img/img_file_list/spell_yes.i
+	@echo ... my_app/R1/img/img_file_list/spell_yes.s
+	@echo ... my_app/R1/img/img_file_list/thick_left_arrow.obj
+	@echo ... my_app/R1/img/img_file_list/thick_left_arrow.i
+	@echo ... my_app/R1/img/img_file_list/thick_left_arrow.s
+	@echo ... my_app/R1/img/poweroff/img_normal_poweroff.obj
+	@echo ... my_app/R1/img/poweroff/img_normal_poweroff.i
+	@echo ... my_app/R1/img/poweroff/img_normal_poweroff.s
+	@echo ... my_app/R1/img/setting/minutes.obj
+	@echo ... my_app/R1/img/setting/minutes.i
+	@echo ... my_app/R1/img/setting/minutes.s
+	@echo ... my_app/R1/img/setting/new_selected.obj
+	@echo ... my_app/R1/img/setting/new_selected.i
+	@echo ... my_app/R1/img/setting/new_selected.s
+	@echo ... my_app/R1/img/setting/selected.obj
+	@echo ... my_app/R1/img/setting/selected.i
+	@echo ... my_app/R1/img/setting/selected.s
+	@echo ... my_app/R1/img/setting/selected_reverse.obj
+	@echo ... my_app/R1/img/setting/selected_reverse.i
+	@echo ... my_app/R1/img/setting/selected_reverse.s
+	@echo ... my_app/R1/img/voice_translation/catalog.obj
+	@echo ... my_app/R1/img/voice_translation/catalog.i
+	@echo ... my_app/R1/img/voice_translation/catalog.s
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_listening.obj
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_listening.i
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_listening.s
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.obj
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.i
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.s
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_thinking.obj
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_thinking.i
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_thinking.s
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_user_logo.obj
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_user_logo.i
+	@echo ... my_app/R1/img/voice_translation/icon_ai_talk_user_logo.s
+	@echo ... my_app/R1/img/voice_translation/icon_translate_failed.obj
+	@echo ... my_app/R1/img/voice_translation/icon_translate_failed.i
+	@echo ... my_app/R1/img/voice_translation/icon_translate_failed.s
+	@echo ... my_app/R1/img/voice_translation/speaking.obj
+	@echo ... my_app/R1/img/voice_translation/speaking.i
+	@echo ... my_app/R1/img/voice_translation/speaking.s
+	@echo ... my_app/R1/main.obj
+	@echo ... my_app/R1/main.i
+	@echo ... my_app/R1/main.s
+	@echo ... my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.obj
+	@echo ... my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.i
+	@echo ... my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.s
+	@echo ... my_app/R1/ui/ui_common/ui_common.obj
+	@echo ... my_app/R1/ui/ui_common/ui_common.i
+	@echo ... my_app/R1/ui/ui_common/ui_common.s
 .PHONY : help
 
 

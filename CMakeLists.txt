@@ -8,29 +8,32 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # ------设置当前项目的编译选项------ #
 if(NOT DEFINED CURRENT_PROJECT_NAME)
     #set(CURRENT_PROJECT_NAME "dg-8")
-    set(CURRENT_PROJECT_NAME "ebook")
+    #set(CURRENT_PROJECT_NAME "ebook")
+    set(CURRENT_PROJECT_NAME "R1")
 endif()
 
-message(STATUS "当前选择的项目：${CURRENT_PROJECT_NAME}")
-
+message(STATUS "当前选择的项目：${CURRENT_PROJECT_NAME}")  
+  
 #向编译器添加头文件搜索路径
 INCLUDE_DIRECTORIES(${PROJECT_SOURCE_DIR})
-INCLUDE_DIRECTORIES("my_app/${CURRENT_PROJECT_NAME}/font")
-INCLUDE_DIRECTORIES("my_app/${CURRENT_PROJECT_NAME}/ui")
-INCLUDE_DIRECTORIES("my_app/${CURRENT_PROJECT_NAME}/img")
+INCLUDE_DIRECTORIES("my_app/${CURRENT_PROJECT_NAME}/font")     
+INCLUDE_DIRECTORIES("my_app/${CURRENT_PROJECT_NAME}/ui")    
+INCLUDE_DIRECTORIES("my_app/${CURRENT_PROJECT_NAME}/img") 
 
 if(CURRENT_PROJECT_NAME STREQUAL "ebook")
+    INCLUDE_DIRECTORIES("my_app/${CURRENT_PROJECT_NAME}/ui/")
+else(CURRENT_PROJECT_NAME STREQUAL "R1")  
     INCLUDE_DIRECTORIES("my_app/${CURRENT_PROJECT_NAME}/ui/")
 endif()
 
 file(GLOB_RECURSE INCLUDES "lv_drivers/*.h" "lvgl/demos/*.h"  "lvgl/*.h")    
-file(GLOB_RECURSE SOURCES  "lv_drivers/*.c" "lvgl/demos/*.c"  "lvgl/src/*.c")   
+file(GLOB_RECURSE SOURCES  "lv_drivers/*.c" "lvgl/demos/*.c"  "lvgl/src/*.c")     
 
 # 根据选择的项目自动查找ui下的所有源文件和头文件
 file(GLOB_RECURSE UI_INCLUDES 
     "my_app/${CURRENT_PROJECT_NAME}/ui/*.h"  
     "my_app/${CURRENT_PROJECT_NAME}/font/*.h"
-    "my_app/${CURRENT_PROJECT_NAME}/img/*.h"   
+    "my_app/${CURRENT_PROJECT_NAME}/img/*.h"      
 )     
 file(GLOB_RECURSE UI_SOURCES  
     "my_app/${CURRENT_PROJECT_NAME}/ui/*.c"  
@@ -38,8 +41,8 @@ file(GLOB_RECURSE UI_SOURCES
     "my_app/${CURRENT_PROJECT_NAME}/img/*.c"         
 )
 
-SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)              
-SET(CMAKE_CXX_FLAGS "-O3")
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)               
+SET(CMAKE_CXX_FLAGS "-O3")  
 
 find_package(SDL2 REQUIRED SDL2)
 include_directories(${SDL2_INCLUDE_DIRS})
@@ -54,14 +57,14 @@ add_executable(main
 )
      
 #添加宏定义
-add_compile_definitions(LV_CONF_INCLUDE_SIMPLE)
+add_compile_definitions(LV_CONF_INCLUDE_SIMPLE)    
   
 #链接sdl2库       
-target_link_libraries(main PRIVATE SDL2 )  
+target_link_libraries(main PRIVATE SDL2 )   
 
 #添加运行目标
-add_custom_target (run COMMAND ${EXECUTABLE_OUTPUT_PATH}/main) 
+add_custom_target (run COMMAND ${EXECUTABLE_OUTPUT_PATH}/main)       
 
 #拷贝SDL2.dll文件到bin目录下
-file(COPY SDL2.dll DESTINATION ../bin)                                                   
+file(COPY SDL2.dll DESTINATION ../bin)                                                         
                                             
