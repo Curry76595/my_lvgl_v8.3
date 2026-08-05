@@ -292,6 +292,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_aliPuHui_30.c" "CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_30.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_30.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_aliPuHui_36.c" "CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_36.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_36.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_bczunicode_20.c" "CMakeFiles/main.dir/my_app/R1/font/lv_font_bczunicode_20.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/font/lv_font_bczunicode_20.c.obj.d"
+  "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_misans_normal_phonetic_30.c" "CMakeFiles/main.dir/my_app/R1/font/lv_font_misans_normal_phonetic_30.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/font/lv_font_misans_normal_phonetic_30.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_sourcehans_gbk_20.c" "CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehans_gbk_20.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehans_gbk_20.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_sourcehansanssc_medium_20.c" "CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_unicode_gbk_24.c" "CMakeFiles/main.dir/my_app/R1/font/lv_font_unicode_gbk_24.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/font/lv_font_unicode_gbk_24.c.obj.d"
@@ -347,6 +348,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_translate_failed.c" "CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_translate_failed.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_translate_failed.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/speaking.c" "CMakeFiles/main.dir/my_app/R1/img/voice_translation/speaking.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/img/voice_translation/speaking.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/main.c" "CMakeFiles/main.dir/my_app/R1/main.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/main.c.obj.d"
+  "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c" "CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c" "CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.obj.d"
   "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_common/ui_common.c" "CMakeFiles/main.dir/my_app/R1/ui/ui_common/ui_common.c.obj" "gcc" "CMakeFiles/main.dir/my_app/R1/ui/ui_common/ui_common.c.obj.d"
   )

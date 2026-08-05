@@ -12,6 +12,7 @@ LV_FONT_DECLARE(lv_font_unicode_gbk_24)
 LV_FONT_DECLARE(lv_font_aliPuHui_36)
 LV_FONT_DECLARE(lv_font_aliPuHui_30)
 LV_FONT_DECLARE(lv_font_Bold_24)
+LV_FONT_DECLARE(lv_font_misans_normal_phonetic_30);
 
 LV_IMG_DECLARE(icon_cursor);
 LV_IMG_DECLARE(icon_plus);

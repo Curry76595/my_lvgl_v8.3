@@ -59,7 +59,9 @@ static void hal_init(void);
  **********************/
 /****my_appDefine********* */
 
-#define UI_VOICE_TRANSLATION_MAIN_H  1
+#define UI_VOICE_TRANSLATION_MAIN_H  0
+#define UI_DAILY_VOCABULARY_MAIN_H   1
+
 /************************* */
 
 /**********************
@@ -100,6 +102,9 @@ int main(int argc, char **argv)
 #if UI_VOICE_TRANSLATION_MAIN_H
 #include "ui_R1/ui_voice_translation/ui_voice_translation_main.h"
     ui_voice_translation_init();
+#elif UI_DAILY_VOCABULARY_MAIN_H
+#include "ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.h"
+    ui_daily_vocabulary_init();
 #endif
 
   while(1) {

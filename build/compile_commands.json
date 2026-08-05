@@ -1711,6 +1711,12 @@
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_misans_normal_phonetic_30.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_misans_normal_phonetic_30.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_misans_normal_phonetic_30.c",
+  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_misans_normal_phonetic_30.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
   "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_sourcehans_gbk_20.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_sourcehans_gbk_20.c",
   "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_sourcehans_gbk_20.c",
   "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehans_gbk_20.c.obj"
@@ -2032,6 +2038,12 @@
   "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\voice_translation\\speaking.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\voice_translation\\speaking.c",
   "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/speaking.c",
   "output": "CMakeFiles/main.dir/my_app/R1/img/voice_translation/speaking.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\ui\\ui_R1\\ui_daily_vocabulary\\ui_daily_vocabulary.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\ui\\ui_R1\\ui_daily_vocabulary\\ui_daily_vocabulary.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c",
+  "output": "CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",

@@ -6957,6 +6957,30 @@ my_app/R1/font/lv_font_bczunicode_20.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_bczunicode_20.c.s
 .PHONY : my_app/R1/font/lv_font_bczunicode_20.c.s
 
+my_app/R1/font/lv_font_misans_normal_phonetic_30.obj: my_app/R1/font/lv_font_misans_normal_phonetic_30.c.obj
+.PHONY : my_app/R1/font/lv_font_misans_normal_phonetic_30.obj
+
+# target to build an object file
+my_app/R1/font/lv_font_misans_normal_phonetic_30.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_misans_normal_phonetic_30.c.obj
+.PHONY : my_app/R1/font/lv_font_misans_normal_phonetic_30.c.obj
+
+my_app/R1/font/lv_font_misans_normal_phonetic_30.i: my_app/R1/font/lv_font_misans_normal_phonetic_30.c.i
+.PHONY : my_app/R1/font/lv_font_misans_normal_phonetic_30.i
+
+# target to preprocess a source file
+my_app/R1/font/lv_font_misans_normal_phonetic_30.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_misans_normal_phonetic_30.c.i
+.PHONY : my_app/R1/font/lv_font_misans_normal_phonetic_30.c.i
+
+my_app/R1/font/lv_font_misans_normal_phonetic_30.s: my_app/R1/font/lv_font_misans_normal_phonetic_30.c.s
+.PHONY : my_app/R1/font/lv_font_misans_normal_phonetic_30.s
+
+# target to generate assembly for a file
+my_app/R1/font/lv_font_misans_normal_phonetic_30.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/font/lv_font_misans_normal_phonetic_30.c.s
+.PHONY : my_app/R1/font/lv_font_misans_normal_phonetic_30.c.s
+
 my_app/R1/font/lv_font_sourcehans_gbk_20.obj: my_app/R1/font/lv_font_sourcehans_gbk_20.c.obj
 .PHONY : my_app/R1/font/lv_font_sourcehans_gbk_20.obj
 
@@ -8277,6 +8301,30 @@ my_app/R1/main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/main.c.s
 .PHONY : my_app/R1/main.c.s
 
+my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.obj: my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.obj
+.PHONY : my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.obj
+
+# target to build an object file
+my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.obj
+.PHONY : my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.obj
+
+my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.i: my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.i
+.PHONY : my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.i
+
+# target to preprocess a source file
+my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.i
+.PHONY : my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.i
+
+my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.s: my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.s
+.PHONY : my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.s
+
+# target to generate assembly for a file
+my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.s
+.PHONY : my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.s
+
 my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.obj: my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.obj
 .PHONY : my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.obj
 
@@ -9187,6 +9235,9 @@ help:
 	@echo ... my_app/R1/font/lv_font_bczunicode_20.obj
 	@echo ... my_app/R1/font/lv_font_bczunicode_20.i
 	@echo ... my_app/R1/font/lv_font_bczunicode_20.s
+	@echo ... my_app/R1/font/lv_font_misans_normal_phonetic_30.obj
+	@echo ... my_app/R1/font/lv_font_misans_normal_phonetic_30.i
+	@echo ... my_app/R1/font/lv_font_misans_normal_phonetic_30.s
 	@echo ... my_app/R1/font/lv_font_sourcehans_gbk_20.obj
 	@echo ... my_app/R1/font/lv_font_sourcehans_gbk_20.i
 	@echo ... my_app/R1/font/lv_font_sourcehans_gbk_20.s
@@ -9352,6 +9403,9 @@ help:
 	@echo ... my_app/R1/main.obj
 	@echo ... my_app/R1/main.i
 	@echo ... my_app/R1/main.s
+	@echo ... my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.obj
+	@echo ... my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.i
+	@echo ... my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.s
 	@echo ... my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.obj
 	@echo ... my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.i
 	@echo ... my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.s

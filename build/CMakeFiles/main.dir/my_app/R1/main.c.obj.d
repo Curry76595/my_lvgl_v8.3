@@ -447,4 +447,6 @@ CMakeFiles/main.dir/my_app/R1/main.c.obj: \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drv_conf.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_conf.h \
  D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
- D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.h
+ D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.h \
+ D:/CJB_Work/myLVGL/my_lvgl_v8.3/lv_drivers/sdl/sdl_common.h \
+ D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_common/ui_common.h
