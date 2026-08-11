@@ -26,12 +26,13 @@ typedef struct setting_display_ts{
     lv_obj_t *storage;       //5.存储
     lv_obj_t *lockScreen;    //6.锁屏
     lv_obj_t *factory;       //7.恢复出厂设置
+    lv_obj_t *wifi_pop_up;   //9.wifi弹窗
 
-    lv_group_t *ui_menu_group;   //8.菜单聚焦组
-    lv_group_t *ui_lockScreen_group; //9.锁屏聚焦组
-    lv_group_t *ui_factory_start_recover_group;//10.出厂开始恢复聚焦组
-    lv_group_t *ui_factory_recover_confirm_group;//11.恢复出厂聚焦组
-    lv_group_t *ui_update_group; //12.更新聚焦组
+    lv_group_t *ui_menu_group;   //10.菜单聚焦组
+    lv_group_t *ui_lockScreen_group; //11.锁屏聚焦组
+    lv_group_t *ui_factory_start_recover_group;//12.出厂开始恢复聚焦组
+    lv_group_t *ui_factory_recover_confirm_group;//13.恢复出厂聚焦组
+    lv_group_t *ui_update_group; //14.更新聚焦组
 }ui_setting_display_t;
 
 extern ui_setting_display_t *ui_setting_display;

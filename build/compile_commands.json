@@ -1,9 +1,9 @@
 [
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\main.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\main.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/main.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/main.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\main.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\main.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/main.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/main.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
@@ -1675,386 +1675,464 @@
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_Bold_24.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_Bold_24.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_Bold_24.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_Bold_24.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\font\\lv_font_Bold_24.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\font\\lv_font_Bold_24.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_Bold_24.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/font/lv_font_Bold_24.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_CN_ExtraLight_20.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_CN_ExtraLight_20.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_CN_ExtraLight_20.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_CN_ExtraLight_20.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\font\\lv_font_CN_ExtraLight_20.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\font\\lv_font_CN_ExtraLight_20.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_CN_ExtraLight_20.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_20.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_CN_ExtraLight_24.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_CN_ExtraLight_24.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_CN_ExtraLight_24.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_CN_ExtraLight_24.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\font\\lv_font_CN_ExtraLight_24.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\font\\lv_font_CN_ExtraLight_24.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_CN_ExtraLight_24.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/font/lv_font_CN_ExtraLight_24.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_aliPuHui_30.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_aliPuHui_30.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_aliPuHui_30.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_30.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\font\\lv_font_bczunicode_20.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\font\\lv_font_bczunicode_20.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_bczunicode_20.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/font/lv_font_bczunicode_20.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_aliPuHui_36.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_aliPuHui_36.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_aliPuHui_36.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_aliPuHui_36.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\font\\lv_font_sourcehans_gbk_20.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\font\\lv_font_sourcehans_gbk_20.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_sourcehans_gbk_20.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehans_gbk_20.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_bczunicode_20.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_bczunicode_20.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_bczunicode_20.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_bczunicode_20.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\font\\lv_font_sourcehansanssc_medium_20.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\font\\lv_font_sourcehansanssc_medium_20.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/font/lv_font_sourcehansanssc_medium_20.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_misans_normal_phonetic_30.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_misans_normal_phonetic_30.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_misans_normal_phonetic_30.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_misans_normal_phonetic_30.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\font\\lv_font_unicode_gbk_24.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\font\\lv_font_unicode_gbk_24.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_unicode_gbk_24.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/font/lv_font_unicode_gbk_24.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_sourcehans_gbk_20.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_sourcehans_gbk_20.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_sourcehans_gbk_20.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehans_gbk_20.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\font\\lv_font_unifont_16.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\font\\lv_font_unifont_16.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/font/lv_font_unifont_16.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/font/lv_font_unifont_16.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_sourcehansanssc_medium_20.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_sourcehansanssc_medium_20.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_sourcehansanssc_medium_20.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_sourcehansanssc_medium_20.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\icom_desktop_bat_5.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\icom_desktop_bat_5.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_bat_5.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bat_5.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_unicode_gbk_24.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_unicode_gbk_24.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_unicode_gbk_24.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_unicode_gbk_24.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\icom_desktop_bt.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\icom_desktop_bt.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_bt.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_bt.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\font\\lv_font_unifont_16.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\font\\lv_font_unifont_16.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/font/lv_font_unifont_16.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/font/lv_font_unifont_16.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\icom_desktop_charge.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\icom_desktop_charge.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_charge.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_charge.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\icom_desktop_bat_5.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\icom_desktop_bat_5.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_bat_5.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_bat_5.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\icom_desktop_earphone.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\icom_desktop_earphone.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_earphone.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_earphone.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\icom_desktop_bt.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\icom_desktop_bt.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_bt.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_bt.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\icom_desktop_wifi.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\icom_desktop_wifi.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/icom_desktop_wifi.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/icom_desktop_wifi.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\icom_desktop_charge.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\icom_desktop_charge.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_charge.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_charge.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\img_desktop_ebook.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\img_desktop_ebook.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/img_desktop_ebook.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_ebook.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\icom_desktop_earphone.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\icom_desktop_earphone.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_earphone.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_earphone.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\img_desktop_find_word.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\img_desktop_find_word.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/img_desktop_find_word.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_find_word.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\icom_desktop_wifi.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\icom_desktop_wifi.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/icom_desktop_wifi.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/icom_desktop_wifi.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\img_desktop_setting.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\img_desktop_setting.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/img_desktop_setting.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/img_desktop_setting.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\img_desktop_ebook.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\img_desktop_ebook.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/img_desktop_ebook.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_ebook.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\pic_module_bat_full.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\pic_module_bat_full.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_bat_full.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_bat_full.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\img_desktop_find_word.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\img_desktop_find_word.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/img_desktop_find_word.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_find_word.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\pic_module_ble_status.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\pic_module_ble_status.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_ble_status.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_ble_status.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\img_desktop_setting.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\img_desktop_setting.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/img_desktop_setting.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/img_desktop_setting.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\pic_module_charge_status.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\pic_module_charge_status.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_charge_status.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_charge_status.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\pic_module_bat_full.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\pic_module_bat_full.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_bat_full.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_bat_full.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\pic_module_earphonr_status.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\pic_module_earphonr_status.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_earphonr_status.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_earphonr_status.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\pic_module_ble_status.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\pic_module_ble_status.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_ble_status.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_ble_status.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\desktop\\pic_module_wifi_status.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\desktop\\pic_module_wifi_status.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/desktop/pic_module_wifi_status.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/desktop/pic_module_wifi_status.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\pic_module_charge_status.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\pic_module_charge_status.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_charge_status.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_charge_status.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\BMP.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\BMP.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/BMP.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/BMP.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\pic_module_earphonr_status.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\pic_module_earphonr_status.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_earphonr_status.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_earphonr_status.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\JPG.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\JPG.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/JPG.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/JPG.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\desktop\\pic_module_wifi_status.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\desktop\\pic_module_wifi_status.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/desktop/pic_module_wifi_status.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/desktop/pic_module_wifi_status.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\QRCode.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\QRCode.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/QRCode.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/QRCode.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\BMP.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\BMP.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/BMP.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/BMP.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\about.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\about.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/about.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/about.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\JPG.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\JPG.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/JPG.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/JPG.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\de_about.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\de_about.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_about.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/de_about.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\QRCode.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\QRCode.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/QRCode.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/QRCode.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\de_factory.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\de_factory.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_factory.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/de_factory.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\about.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\about.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/about.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/about.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\de_lockscreen.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\de_lockscreen.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_lockscreen.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/de_lockscreen.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\de_about.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\de_about.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_about.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/de_about.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\de_storage.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\de_storage.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/de_storage.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/de_storage.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\de_factory.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\de_factory.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_factory.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/de_factory.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\factory.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\factory.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/factory.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/factory.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\de_lockscreen.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\de_lockscreen.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_lockscreen.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/de_lockscreen.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\lockscreen.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\lockscreen.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/lockscreen.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/lockscreen.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\de_storage.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\de_storage.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/de_storage.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/de_storage.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\picture.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\picture.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/picture.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/picture.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\factory.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\factory.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/factory.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/factory.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\storage.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\storage.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/storage.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/storage.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\lockscreen.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\lockscreen.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/lockscreen.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/lockscreen.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\txt.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\txt.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/txt.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/txt.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\picture.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\picture.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/picture.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/picture.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\image\\wifi_icon.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\image\\wifi_icon.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/image/wifi_icon.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/image/wifi_icon.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\storage.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\storage.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/storage.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/storage.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\img_file_list\\icon_com_cursor.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\img_file_list\\icon_com_cursor.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_cursor.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_cursor.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\txt.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\txt.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/txt.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/txt.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\img_file_list\\icon_com_exit.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\img_file_list\\icon_com_exit.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_exit.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_exit.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\image\\wifi_icon.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\image\\wifi_icon.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/image/wifi_icon.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/image/wifi_icon.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\img_file_list\\icon_com_file_list_folder.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\img_file_list\\icon_com_file_list_folder.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_folder.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_folder.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\img_file_list\\icon_com_cursor.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\img_file_list\\icon_com_cursor.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_cursor.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_cursor.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\img_file_list\\icon_com_file_list_music.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\img_file_list\\icon_com_file_list_music.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_music.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_music.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\img_file_list\\icon_com_exit.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\img_file_list\\icon_com_exit.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_exit.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_exit.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\img_file_list\\icon_com_file_list_txt.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\img_file_list\\icon_com_file_list_txt.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_txt.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_txt.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\img_file_list\\icon_com_file_list_folder.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\img_file_list\\icon_com_file_list_folder.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_folder.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_folder.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\img_file_list\\icon_com_file_list_unknown.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\img_file_list\\icon_com_file_list_unknown.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_file_list_unknown.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\img_file_list\\icon_com_file_list_music.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\img_file_list\\icon_com_file_list_music.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_music.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_music.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\img_file_list\\icon_com_keyboard_delete.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\img_file_list\\icon_com_keyboard_delete.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_delete.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\img_file_list\\icon_com_file_list_txt.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\img_file_list\\icon_com_file_list_txt.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_txt.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_txt.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\img_file_list\\icon_com_keyboard_upper.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\img_file_list\\icon_com_keyboard_upper.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_keyboard_upper.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\img_file_list\\icon_com_file_list_unknown.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\img_file_list\\icon_com_file_list_unknown.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_file_list_unknown.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_file_list_unknown.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\img_file_list\\icon_com_trumpet_18x17.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\img_file_list\\icon_com_trumpet_18x17.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/img_file_list/icon_com_trumpet_18x17.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\img_file_list\\icon_com_keyboard_delete.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\img_file_list\\icon_com_keyboard_delete.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_keyboard_delete.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_keyboard_delete.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\img_file_list\\spell_yes.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\img_file_list\\spell_yes.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/spell_yes.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/img_file_list/spell_yes.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\img_file_list\\icon_com_keyboard_upper.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\img_file_list\\icon_com_keyboard_upper.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_keyboard_upper.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_keyboard_upper.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\img_file_list\\thick_left_arrow.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\img_file_list\\thick_left_arrow.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/img_file_list/thick_left_arrow.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/img_file_list/thick_left_arrow.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\img_file_list\\icon_com_trumpet_18x17.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\img_file_list\\icon_com_trumpet_18x17.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/img_file_list/icon_com_trumpet_18x17.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\poweroff\\img_normal_poweroff.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\poweroff\\img_normal_poweroff.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/poweroff/img_normal_poweroff.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/poweroff/img_normal_poweroff.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\img_file_list\\spell_yes.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\img_file_list\\spell_yes.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/spell_yes.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/img_file_list/spell_yes.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\setting\\minutes.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\setting\\minutes.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/minutes.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/setting/minutes.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\img_file_list\\thick_left_arrow.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\img_file_list\\thick_left_arrow.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/img_file_list/thick_left_arrow.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/img_file_list/thick_left_arrow.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\setting\\new_selected.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\setting\\new_selected.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/new_selected.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/setting/new_selected.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\poweroff\\img_normal_poweroff.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\poweroff\\img_normal_poweroff.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/poweroff/img_normal_poweroff.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/poweroff/img_normal_poweroff.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\setting\\selected.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\setting\\selected.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/selected.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/setting/selected.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\setting\\minutes.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\setting\\minutes.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/minutes.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/setting/minutes.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\img\\setting\\selected_reverse.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\img\\setting\\selected_reverse.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/img/setting/selected_reverse.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/img/setting/selected_reverse.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\setting\\new_selected.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\setting\\new_selected.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/new_selected.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/setting/new_selected.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_common\\ui_common.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_common\\ui_common.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_common/ui_common.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_common/ui_common.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\setting\\selected.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\setting\\selected.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/selected.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/setting/selected.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_com_dialog\\ui_com_dialog.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_com_dialog\\ui_com_dialog.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialog.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\setting\\selected_reverse.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\setting\\selected_reverse.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/setting/selected_reverse.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/setting/selected_reverse.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_com_dialog\\ui_com_dialogs.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_com_dialog\\ui_com_dialogs.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_com_dialog/ui_com_dialogs.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\voice_translation\\catalog.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\voice_translation\\catalog.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/catalog.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/voice_translation/catalog.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_ebook_auto\\ui_ebook_auto.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_ebook_auto\\ui_ebook_auto.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_ebook_auto/ui_ebook_auto.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\voice_translation\\icon_ai_talk_listening.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\voice_translation\\icon_ai_talk_listening.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_listening.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_listening.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_factory\\ui_test_wifi.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_factory\\ui_test_wifi.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_factory/ui_test_wifi.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\voice_translation\\icon_ai_talk_robot_logo.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\voice_translation\\icon_ai_talk_robot_logo.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_robot_logo.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_about\\ui_setting_about.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_about\\ui_setting_about.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_about/ui_setting_about.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\voice_translation\\icon_ai_talk_thinking.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\voice_translation\\icon_ai_talk_thinking.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_thinking.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_thinking.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_factory\\ui_setting_factory_cue.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_factory\\ui_setting_factory_cue.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_cue.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\voice_translation\\icon_ai_talk_user_logo.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\voice_translation\\icon_ai_talk_user_logo.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_ai_talk_user_logo.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_factory\\ui_setting_factory_main.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_factory\\ui_setting_factory_main.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_main.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\voice_translation\\icon_translate_failed.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\voice_translation\\icon_translate_failed.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/icon_translate_failed.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/voice_translation/icon_translate_failed.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_factory\\ui_setting_factory_recover_confirm.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_factory\\ui_setting_factory_recover_confirm.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_recover_confirm.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\img\\voice_translation\\speaking.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\img\\voice_translation\\speaking.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/img/voice_translation/speaking.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/img/voice_translation/speaking.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_factory\\ui_setting_factory_start_recover.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_factory\\ui_setting_factory_start_recover.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_factory/ui_setting_factory_start_recover.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\ui\\ui_R1\\ui_daily_vocabulary\\ui_daily_vocabulary.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\ui\\ui_R1\\ui_daily_vocabulary\\ui_daily_vocabulary.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_daily_vocabulary/ui_daily_vocabulary.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_lockScreen\\ui_setting_lockScreen.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_lockScreen\\ui_setting_lockScreen.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_lockScreen/ui_setting_lockScreen.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\ui\\ui_R1\\ui_voice_translation\\ui_voice_translation_main.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\ui\\ui_R1\\ui_voice_translation\\ui_voice_translation_main.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/ui/ui_R1/ui_voice_translation/ui_voice_translation_main.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_main\\ui_setting_main.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_main\\ui_setting_main.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_main/ui_setting_main.c.obj"
 },
 {
   "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
-  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\R1\\ui\\ui_common\\ui_common.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\R1\\ui\\ui_common\\ui_common.c",
-  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/R1/ui/ui_common/ui_common.c",
-  "output": "CMakeFiles/main.dir/my_app/R1/ui/ui_common/ui_common.c.obj"
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_storage\\ui_setting_storage.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_storage\\ui_setting_storage.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_storage/ui_setting_storage.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_transfers\\ui_setting_transfers_connect.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_transfers\\ui_setting_transfers_connect.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_connect.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_transfers\\ui_setting_transfers_main.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_transfers\\ui_setting_transfers_main.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_main.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_transfers\\ui_setting_transfers_success.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_transfers\\ui_setting_transfers_success.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_transfers/ui_setting_transfers_success.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_update\\ui_setting_update.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_setting\\ui_setting_update\\ui_setting_update.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_setting/ui_setting_update/ui_setting_update.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_clound_sync\\ui_cloud_sync.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_clound_sync\\ui_cloud_sync.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_clound_sync/ui_cloud_sync.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_image\\ui_image_delete.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_image\\ui_image_delete.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_delete.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_image\\ui_image_display.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_image\\ui_image_display.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_display.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_image\\ui_image_list.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_image\\ui_image_list.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_list.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_image\\ui_image_main.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_image\\ui_image_main.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_main.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_image\\ui_image_set_wallpaper.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_image\\ui_image_set_wallpaper.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_image/ui_image_set_wallpaper.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_operation_notice\\ui_en_operation_notice.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_operation_notice\\ui_en_operation_notice.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_en_operation_notice.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_operation_notice\\ui_operation_notice.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_operation_notice\\ui_operation_notice.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_operation_notice/ui_operation_notice.c.obj"
+},
+{
+  "directory": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/build",
+  "command": "E:\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_transfer_book_main\\ui_transfer_book_main.c.obj -c D:\\CJB_Work\\myLVGL\\my_lvgl_v8.3\\my_app\\ebook\\ui\\ui_ebook\\ui_transfer_book\\ui_transfer_book_main\\ui_transfer_book_main.c",
+  "file": "D:/CJB_Work/myLVGL/my_lvgl_v8.3/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c",
+  "output": "CMakeFiles/main.dir/my_app/ebook/ui/ui_ebook/ui_transfer_book/ui_transfer_book_main/ui_transfer_book_main.c.obj"
 }
 ]

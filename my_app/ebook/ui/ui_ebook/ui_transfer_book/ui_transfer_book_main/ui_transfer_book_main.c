@@ -261,7 +261,25 @@ static void ui_transfer_book_main_init(void){
     lv_obj_set_style_text_font(cue_label,&Chinese_font_16,LV_STATE_DEFAULT);
     lv_obj_set_style_text_letter_space(cue_label,2, LV_PART_MAIN);
     lv_obj_align(cue_label, LV_ALIGN_CENTER, 0, 0);
-    // lv_obj_add_flag(ui_transfer_book_list->pop_up_cue, LV_OBJ_FLAG_HIDDEN);
+    lv_obj_add_flag(ui_transfer_book_list->pop_up_cue, LV_OBJ_FLAG_HIDDEN);
+
+
+    //wifi弹窗提示
+    ui_transfer_book_list->pop_up_wifi = lv_obj_create(display_menu_container);
+    lv_obj_clear_flag(ui_transfer_book_list->pop_up_wifi, LV_OBJ_FLAG_SCROLLABLE);
+    lv_obj_set_size(ui_transfer_book_list->pop_up_wifi, 140, 113);
+    lv_obj_set_style_border_color(ui_transfer_book_list->pop_up_wifi, lv_color_black(), LV_PART_MAIN);
+    lv_obj_align_to(ui_transfer_book_list->pop_up_wifi, display_menu_container,LV_ALIGN_TOP_MID, 0, 60);
+    lv_obj_set_style_border_width(ui_transfer_book_list->pop_up_wifi, 2, LV_PART_MAIN);
+    lv_obj_set_style_radius(ui_transfer_book_list->pop_up_wifi, 10, LV_PART_MAIN);
+
+    lv_obj_t *wifi_label = lv_label_create(ui_transfer_book_list->pop_up_wifi);
+    lv_label_set_text(wifi_label, "太棒了！\n天才奇男子\n已连接成功~");
+    lv_obj_set_style_text_align(wifi_label, LV_TEXT_ALIGN_CENTER, LV_PART_MAIN);
+    lv_obj_set_style_text_font(wifi_label,&Chinese_font_16,LV_STATE_DEFAULT);
+    lv_obj_set_style_text_line_space(wifi_label, 6, LV_PART_MAIN);
+    lv_obj_align(wifi_label, LV_ALIGN_CENTER, 0, 0);
+    lv_obj_add_flag(ui_transfer_book_list->pop_up_wifi, LV_OBJ_FLAG_HIDDEN);
 }
 
 /*************************************************APP 状态机调用函数*********************************************/
@@ -287,6 +305,10 @@ void app_ui_transfer_book_main_deinit(void){
         if(ui_transfer_book_list->pop_up_cue != NULL){
             lv_obj_del(ui_transfer_book_list->pop_up_cue);
             ui_transfer_book_list->pop_up_cue = NULL;
+        }
+        if(ui_transfer_book_list->pop_up_wifi != NULL){
+            lv_obj_del(ui_transfer_book_list->pop_up_wifi);
+            ui_transfer_book_list->pop_up_wifi = NULL;
         }
         if(ui_transfer_book_list->main_page != NULL){
             lv_obj_del(ui_transfer_book_list->main_page);

@@ -7,9 +7,9 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # ------开启项目的宏定义------ #
 # ------设置当前项目的编译选项------ #
 if(NOT DEFINED CURRENT_PROJECT_NAME)
-    #set(CURRENT_PROJECT_NAME "dg-8")
-    #set(CURRENT_PROJECT_NAME "ebook")
-    set(CURRENT_PROJECT_NAME "R1")
+    # set(CURRENT_PROJECT_NAME "dg-8")
+    set(CURRENT_PROJECT_NAME "ebook")
+    # set(CURRENT_PROJECT_NAME "R1")
 endif()
 
 message(STATUS "当前选择的项目：${CURRENT_PROJECT_NAME}")  

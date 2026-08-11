@@ -14,6 +14,7 @@
 typedef struct ui_transfer_book_ts{
     lv_obj_t *main_page;//主页面
     lv_obj_t *pop_up_cue;//弹窗提示
+    lv_obj_t *pop_up_wifi;//wifi弹窗提示
     lv_obj_t *last_group;//上一次焦点组
     lv_group_t *main_group;//主页面焦点组
 }ui_transfer_book_t;

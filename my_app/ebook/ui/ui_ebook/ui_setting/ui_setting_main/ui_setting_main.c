@@ -400,6 +400,23 @@ static void ui_setting_main_init(void){
     ui_setting_display->update = lv_obj_create(ui_container);
     lv_obj_set_size(ui_setting_display->update, 190, 323);
     lv_obj_align(ui_setting_display->update,LV_ALIGN_BOTTOM_RIGHT, 28, 15);
+
+    //wifi弹窗提示
+    ui_setting_display->wifi_pop_up = lv_obj_create(ui_container);
+    lv_obj_clear_flag(ui_setting_display->wifi_pop_up, LV_OBJ_FLAG_SCROLLABLE);
+    lv_obj_set_size(ui_setting_display->wifi_pop_up, 140, 113);
+    lv_obj_set_style_border_color(ui_setting_display->wifi_pop_up, lv_color_black(), LV_PART_MAIN);
+    lv_obj_align_to(ui_setting_display->wifi_pop_up, ui_container, LV_ALIGN_TOP_MID, 15, 100);
+    lv_obj_set_style_border_width(ui_setting_display->wifi_pop_up, 1, LV_PART_MAIN);
+    lv_obj_set_style_radius(ui_setting_display->wifi_pop_up, 10, LV_PART_MAIN);
+
+    lv_obj_t *wifi_label = lv_label_create(ui_setting_display->wifi_pop_up);
+    lv_label_set_text(wifi_label, "太棒了！\n天才奇男子\n已连接成功~");
+    lv_obj_set_style_text_align(wifi_label, LV_TEXT_ALIGN_CENTER, LV_PART_MAIN);
+    lv_obj_set_style_text_font(wifi_label,&Chinese_font_16,LV_STATE_DEFAULT);
+    lv_obj_set_style_text_line_space(wifi_label, 6, LV_PART_MAIN);
+    lv_obj_align(wifi_label, LV_ALIGN_CENTER, 0, 0);
+    lv_obj_add_flag(ui_setting_display->wifi_pop_up, LV_OBJ_FLAG_HIDDEN);
    
     /***************************************************end********************************************************/
     
@@ -412,7 +429,7 @@ static void ui_setting_main_init(void){
     /***************************************************end****************************************************/
     
     //默认展示第一个菜单【锁屏】
-     ui_setting_menu_content_select(0);
+    ui_setting_menu_content_select(0);
 }
 
 static void ui_setting_main_deinit(void){
